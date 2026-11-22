@@ -11,8 +11,14 @@ import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.web.client.RestClient;
 import org.springframework.web.server.ResponseStatusException;
 import pl.uj.eurovision.models.Contest;
+import pl.uj.eurovision.models.ContestDetails;
+import pl.uj.eurovision.models.ContestantDetails;
+import pl.uj.eurovision.models.PerformanceDetails;
+import pl.uj.eurovision.models.RoundDetails;
+import pl.uj.eurovision.models.ScoreDetails;
 import java.util.List;
 import java.util.ArrayList;
+import java.util.TreeMap;
 import tools.jackson.core.type.TypeReference;
 import tools.jackson.databind.ObjectMapper; // Spring Boot 3: com.fasterxml.jackson.databind.ObjectMapper
 
@@ -22,6 +28,7 @@ public class ContestService {
     private final ObjectMapper mapper;
     private final String dataRef;
     private final Map<Integer, Contest> cache = new ConcurrentHashMap<>();
+    private final Map<Integer, ContestDetails> detailsCache = new ConcurrentHashMap<>();
     private volatile Map<String, String> countryMapping;
 
     public ContestService(ObjectMapper mapper,
@@ -41,6 +48,14 @@ public class ContestService {
 
     public Contest getContest(int year) {
         return cache.computeIfAbsent(year, this::download);
+    }
+
+    public ContestDetails getContestDetails(int year) {
+        return detailsCache.computeIfAbsent(year, this::downloadDetails);
+    }
+
+    public Map<String, String> getCountryNames() {
+        return countryMapping;
     }
 
     public List<Contest> getAllContests() {
@@ -70,6 +85,53 @@ public class ContestService {
         } catch (Exception e) {
             throw new ResponseStatusException(BAD_GATEWAY, "Failed to fetch data", e);
         }
+    }
+
+    private ContestDetails downloadDetails(int year) {
+        try {
+            String json = http.get()
+                    .uri("/raw/contests/{year}.json?ref={ref}", year, dataRef)
+                    .retrieve()
+                    .body(String.class);
+            ContestDetails raw = mapper.readValue(json, ContestDetails.class);
+            String hostCode = raw.country();
+            return new ContestDetails(
+                    raw.year(),
+                    raw.arena(),
+                    raw.city(),
+                    countryMapping.getOrDefault(hostCode, hostCode),
+                    hostCode,
+                    raw.slogan(),
+                    raw.logoUrl(),
+                    raw.presenters(),
+                    raw.broadcasters(),
+                    raw.contestants(),
+                    raw.rounds(),
+                    countryNames(raw));
+        } catch (HttpClientErrorException.NotFound e) {
+            throw new ResponseStatusException(NOT_FOUND, "No data available for year " + year);
+        } catch (Exception e) {
+            throw new ResponseStatusException(BAD_GATEWAY, "Failed to fetch data", e);
+        }
+    }
+
+    // Names for every country code used in this contest, including voting-only countries.
+    private Map<String, String> countryNames(ContestDetails contest) {
+        Map<String, String> names = new TreeMap<>();
+        names.put(contest.country(), countryMapping.getOrDefault(contest.country(), contest.country()));
+        for (ContestantDetails contestant : contest.contestants()) {
+            names.put(contestant.country(), countryMapping.getOrDefault(contestant.country(), contestant.country()));
+        }
+        for (RoundDetails round : contest.rounds()) {
+            for (PerformanceDetails performance : round.performances()) {
+                for (ScoreDetails score : performance.scores()) {
+                    for (String voter : score.votes().keySet()) {
+                        names.put(voter, countryMapping.getOrDefault(voter, voter));
+                    }
+                }
+            }
+        }
+        return names;
     }
 
     private Map<String, String> getCountryMapping() {

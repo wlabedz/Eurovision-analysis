@@ -2,6 +2,7 @@ package pl.uj.eurovision.controllers;
 
 import org.springframework.web.bind.annotation.*;
 import pl.uj.eurovision.models.Contest;
+import pl.uj.eurovision.models.ContestDetails;
 import pl.uj.eurovision.services.ContestService;
 import java.util.List;
 
@@ -18,6 +19,11 @@ public class ContestController {
     @GetMapping("/{year}")
     public Contest getContest(@PathVariable int year) {
         return contestService.getContest(year);
+    }
+
+    @GetMapping("/{year}/details")
+    public ContestDetails getContestDetails(@PathVariable int year) {
+        return contestService.getContestDetails(year);
     }
 
     @GetMapping

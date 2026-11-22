@@ -1,7 +1,7 @@
-<script setup>
-import ContestsView from './views/ContestsView.vue'
-</script>
-
 <template>
-  <ContestsView />
+  <RouterView v-slot="{ Component }">
+    <KeepAlive>
+      <component :is="Component" />
+    </KeepAlive>
+  </RouterView>
 </template>
