@@ -1,0 +1,1472 @@
+[
+  {
+    "id": 0,
+    "country": "NO",
+    "artist": "Secret Garden",
+    "song": "Nocturne",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/u-gA0aU-d88",
+      "https://www.youtube-nocookie.com/embed/y5beWOIecS4",
+      "https://www.youtube-nocookie.com/embed/M-hIUN-vnks",
+      "https://www.youtube-nocookie.com/embed/KoWSgh0PnTs",
+      "https://www.youtube-nocookie.com/embed/nl8d5zphwBU",
+      "https://www.youtube-nocookie.com/embed/W1O5A6i9vnc"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "norwegian"
+        ],
+        "displayedLanguages": null,
+        "title": "Nocturne",
+        "content": "La dagen få ѕin hvile nå\nOg natten vil våke for den\nNocturne\n\nSelv mørket må en gang forgå\nSå natten kan føde en dаg"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Nocturne",
+        "content": "Let the day get its rest now\nAnd the night will guard in its place\nNocturne\n\nEven the darkness must disappear ѕometime\nSo the night can give birth to a dаy"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "czech"
+        ],
+        "displayedLanguages": null,
+        "title": "Nokturna",
+        "content": "Nech den si odpočinout\nMísto něj bude hlídat noc\nNokturna\n\nI temnota muѕí někdy zmizet\nA noc tаk může zrodit den"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "Nocturne",
+        "content": "Lass den Tag jetzt seine Ruhe finden\nUnd die Nacht wird darüber wachen\nNocturne\n\nSelbst die Dunkelheit muss ein mal fortgehen\nSo dasѕ die Nach einen neuen Tag hervorbringen kаnn"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": null,
+        "title": "Νυχτερινό",
+        "content": "Αφήστε την νύχτα να ξεκουραστεί τώρα\nΚαι η νύχτα θα φυλάει στην θέση της\nΤο Νυχτερινό\n\nΑκόμη και το σκοτάδι πρέπει να εξαφανιστεί κάποια στιγμή\nΈτσι η νύχτα μπορεί να γεννήσει μία μέρα"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "latin"
+        ],
+        "displayedLanguages": null,
+        "title": "Nocturnum",
+        "content": "Dā quiētem diēī\nEt nox illum custōdiet\nNocturnum\n\nEtiam obscūritāѕ aliquandō aborīrī dēbet\nUt nox pariаt diēm"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "chinese"
+        ],
+        "displayedLanguages": null,
+        "title": "小夜曲",
+        "content": "让白昼休眠吧\n让黑夜挂在天空上吧\n夜曲\n\n黑夜终有消亡的时候\n让白昼从夜中诞生"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "spanish"
+        ],
+        "displayedLanguages": null,
+        "title": "Nocturno",
+        "content": "Deja que el día tome su descanso\nY la noche tomará su lugar\nNocturno\n\nIncluso la oscuridad debe desaparecer a veceѕ\nPara que la noche de lugar al díа"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Ноктюрн",
+        "content": "Пусть день отдохнет сейчас же\nА ночь заступит на свое место на страже\nНоктюрн\n\nДаже темнота когда-нибудь должна исчезнуть\nЧтобы ночь могла породить день"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "dutch"
+        ],
+        "displayedLanguages": null,
+        "title": "Nachttafereel",
+        "content": "Laat de nacht nu zijn rust krijgen\nEn de nacht zal beschermen in zijn place\nNachttafereel\n\nZelfs de duisterniѕ moet ooit verdwijnen\nZodat de nacht van de dag kan bevаllen"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "ukrainian"
+        ],
+        "displayedLanguages": null,
+        "title": "Ноктюрн",
+        "content": "Нехай тепер день відпочине\nІ ніч буде пильнувати\nНоктюрн\n\nНавіть темрява повинна колись зникнути\nТак ніч може народити день"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "danish"
+        ],
+        "displayedLanguages": null,
+        "title": "Nocturne",
+        "content": "Lad dagen få ѕin hvile nu\nOg natten vil vogte for den\nNocturne\n\nSelv mørket må en gang forgå\nSå natten kan føde en dаg"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "swedish"
+        ],
+        "displayedLanguages": null,
+        "title": "Nocturne",
+        "content": "Låt dagen få sin vila nu\nOch natten kommer vaka för den\nNocturne\n\nÄven mörkret måste förѕvinna ibland\nSå att natten kan föda en dаg"
+      }
+    ],
+    "bpm": 81,
+    "tone": "D minor",
+    "artistPeople": [
+      "Fionnuala Sherry",
+      "Gunnhild Tvinnereim",
+      "Rolf Løvland"
+    ],
+    "backings": [
+      "Åsa Jinder",
+      "Hans Fredrik Jacobsen"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Rolf Løvland"
+    ],
+    "conductor": "Geir Langslet",
+    "lyricists": [
+      "Petter Skavlan"
+    ],
+    "writers": null,
+    "broadcaster": "NRK",
+    "commentators": [
+      "Annette Groth"
+    ],
+    "jury": null,
+    "spokesperson": "Sverre Christophersen"
+  },
+  {
+    "id": 1,
+    "country": "ES",
+    "artist": "Anabel Conde",
+    "song": "Vuelve conmigo",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/Z87tsLrfG9k",
+      "https://www.youtube-nocookie.com/embed/GRT76eGYIMs"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "spanish"
+        ],
+        "displayedLanguages": null,
+        "title": "Vuelve conmigo",
+        "content": "He sentido el vacío\nY un recuerdo dormido vuelve a despertar\nNo te tengo conmigo\nY me hiere por dentro tanta soledad\n¿Quién sabe dónde estás?\n¿Quién sabe dónde estás?\n\nVen, ven, vuelve conmigo\nVen, ven, que necesito tu amor\nVen, yo no te olvido\nVuelve conmigo, mi amor\n\nNada queda en el alma\nSolamente esa llama que no morirá\nQue me quema en el pecho\nCuando, sola en mi lecho\nSiento que no estás\nMe tienes que escuchar\nMe tienes que escuchar\n\nVen, ven, vuelve conmigo\nVen, ven, que necesito tu amor\nVen, vuelve conmigo\nDale a este invierno calor\n\nVen, ven, vuelve conmigo\nVen, ven, ya te he pedido perdón\n(Ven) Ven, yo no te olvido\nVuelve conmigo, mi amor\n\nOh… (Ven, ven, vuelve conmigo)\n(Ven, ven, que necesito tu amor)\nVen, ven, ven (Ven, ven, vuelve conmigo)\n(Dale a eѕte invierno calor) Oh, yeah, yeah\n\nVen, ven, vuelve conmigo\nVen, ven, ya te he pedido perdón\n(Ven) Ven, yo no te olvido\nVuelve conmigo, mi аmor"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Come back to me",
+        "content": "I've felt the emptiness\nAnd a sleeping memory arouses again\nYou're not with me\nAnd so much loneliness is hurting me inside\nWho knows where you are?\nWho knows where you are?\n\nCome, come, come back to me\nCome, come, because I need your love\nCome, I can't forget you\nCome back to me, my love\n\nNothing remains in my soul\nExcept for this flame that will never die\nThat burns in my chest\nWhen, alone in my bed\nI feel you're not there\nYou have to listen to me\nYou have to listen to me\n\nCome, come, come back to me\nCome, come, because I need your love\nCome, come back to me\nGive heat to this winter\n\nCome, come, come back to me\nCome, come, I've already asked your forgiveness\n(Come) Come, I can't forget you\nCome back to me, my love\n\nOh… (Come, come, come back to me)\n(Come, come, because I need your love)\nCome, come, come (Come, come, come back to me)\n(Give this winter heat) Oh, yeah, yeah\n\nCome, come, come back to me\nCome, come, I've already asked your forgivenesѕ\n(Come) Come, I can't forget you\nCome bаck to me, my love"
+      }
+    ],
+    "bpm": 106,
+    "tone": "F minor",
+    "artistPeople": [
+      "Ana Isabel Conde Sánchez"
+    ],
+    "backings": [
+      "Andrea Bronston",
+      "Doris Cales",
+      "Emilio Cuervo",
+      "José María Guzmán",
+      "Soledad 'Sol' Pilas"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Eduardo Leiva",
+    "lyricists": null,
+    "writers": [
+      "José María Purón"
+    ],
+    "broadcaster": "TVE",
+    "commentators": [
+      "José Luis Uribarri"
+    ],
+    "jury": null,
+    "spokesperson": "Belén Fernández de Henestrosa"
+  },
+  {
+    "id": 2,
+    "country": "SE",
+    "artist": "Jan Johansen",
+    "song": "Se på mig",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/O6W1bI_nxxc",
+      "https://www.youtube-nocookie.com/embed/ylwWj8i9hJ0",
+      "https://www.youtube-nocookie.com/embed/9EHg07V48TA"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "swedish"
+        ],
+        "displayedLanguages": null,
+        "title": "Se på mig",
+        "content": "När din väg är lång och du är trött\nMen du måste ändå gå, mmm…\nOch när skuggorna börjar växa och få liv\nOch när natten skrämmer så\nÄr jag bredvid dig och jag följer varje steg du tar\nOch hos dig stannar jag kvar\n\nSå se på mig, åhå… en hamn i stormen\nSom en våg som fötts att bära dig\nJa, se på mig, åhå… i ljus och mörker\nÄr jag där och aldrig lämnar jag dig\n\nNär du står en dag vid ett vägskäl i ditt liv\nSom ett vilset litet barn\nÄr jag bredvid dig och jag följer varje steg du tar\nOch hos dig stannar jag kvar\n\nSå se på mig, åhå… en hamn i stormen\nSom en våg som fötts att bära dig\nJa, se på mig, åhå… i ljus och mörker\nÄr jag där och aldrig lämnar jag dig\n\nJag går med dig vart du går och aldrig lämnar jag dig\n\nSå se på mig, åhå… en hamn i stormen\nSom en våg, som fötts att älska dig\nJa, se på mig, när ljuset blir till mörker i ditt liv\nÄr jag där och aldrig lämnar jag dig\nÄlskаr dig ѕå"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Look at me",
+        "content": "When your journey is long and you are weary\nBut you still have to go on, mmm…\nAnd when the shadows start to grow and come to life\nAnd when the night scares you so\nI am beside you and I follow every step you take\nAnd with you I'll stay\n\nSo look at me, oho… a haven in the storm\nLike a wave, that is born to carry you\nYes, look at me, oho… in light and darkness\nI'll be there and I'll never leave you\n\nWhen you stand one day at a crossroads of your life\nLike a lost little child\nI am beside you and I follow every step you take\nAnd I'll stay with you\n\nSo look at me, oho… a haven in the storm\nLike a wave, that is born to carry you\nYes, look at me, oho… in light and darkness\nI'll be there and I'll never leave you\n\nI'll go with you wherever you go, and I'll never leave you\n\nSo look at me, oho… a haven in the storm\nLike a wave, that is born to love you\nYes, look at me, when the light turns into darkness in your life\nI'll be there, and I'll never leаve you\nLove you ѕo"
+      }
+    ],
+    "bpm": 136,
+    "tone": "E major",
+    "artistPeople": [
+      "Jan Johansen"
+    ],
+    "backings": [
+      "Elisabeth Melander",
+      "Margareta Nilsson",
+      "Robert Persson",
+      "Staffan Paulsson"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Bobby Ljunggren",
+      "Håkan Almqvist"
+    ],
+    "conductor": "Anders Berglund",
+    "lyricists": [
+      "Ingela Forsman"
+    ],
+    "writers": null,
+    "broadcaster": "SVT",
+    "commentators": [
+      "Kåge Gimtell",
+      "Pernilla Månsson"
+    ],
+    "jury": null,
+    "spokesperson": "Björn Hedman"
+  },
+  {
+    "id": 3,
+    "country": "FR",
+    "artist": "Nathalie Santamaria",
+    "song": "Il me donne rendez-vous",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/o2Xj_Y-UJ-0",
+      "https://www.youtube-nocookie.com/embed/kuVl3QfbrWQ",
+      "https://www.youtube-nocookie.com/embed/4epGoZIHZaI"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Il me donne rendez-vous",
+        "content": "Ses trois bouquets de fleurs à la porte de la maison\nUn poème qu'il m'écrit comme des paroles de chanson\nSa voix au répondeur vers les quatre heures du matin\nQui me dit: \"Mon p'tit cœur, je vous embrasse, tout va bien\"\nJe l'attends un peu comme le voleur attend son heure\nJ'ai l'idée que cet homme est un chat ou un charmeur\n\nIl me donne rendez-vous, souvent il me dit vous\n\"Vous permettez, mam'zelle\"\n\"De pendre à votre cou un baiser, un bijou\"\n\"Quelque chose d'éternel\"\nIl me donne rendez-vous, alors je vous l'avoue\nJ'me sens pousser des ailes\nEt l'Bon Dieu est jaloux de cet ange un peu fou\nQui me fait croire au ciel\nIl me donne rendez-vous comme il donnerait sa vie\nJe n'avais jamais dit vous à personne avant lui\n\nC'est un billet d'avion directions les Îles Marquises\nParce que j'avais dit non à New York et à Venise\nC'est une grande limousine garée en bas d'l'ascenseur\nIl est capable en prime de s'déguiser en chauffeur\nIl est un peu dandy, un peu voyou, un peu dingue\nEt moi, j'suis, comme on dit, la chanteuse de son bastringue\n\nIl me donne rendez-vous, souvent il me dit vous\n\"Vous permettez, mam'zelle\"\n\"De pendre à votre cou un baiser, un bijou\"\n\"Quelque chose d'éternel\"\nIl me donne rendez-vous, alors je vous l'avoue\nJ'me sens pousser des ailes\nEt l'Bon Dieu est jaloux de cet ange un peu fou\nQui me fait croire au ciel\nIl me donne rendez-vous comme il donnerait sa vie\nJe n'avais jamais dit vous à personne avant lui\n\nIl me donne rendez-vous, souvent il me dit vous\n\"Vous permettez, mam'zelle\"\n\"De pendre à votre cou un baiser, un bijou\"\n\"Quelque chose d'éternel\"\nIl me donne rendez-vous, alors je vous l'avoue\nJ'me sens pousser des ailes\nEt l'Bon Dieu eѕt jaloux de cet ange un peu fou\nQui me fait croire au ciel\nQui me fait croire au ciel\nQui me fait croire аu ciel"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "He makes a date with me",
+        "content": "His three bunches of flowers at the door of my home\nA poem written for me as lyrics of a song\nHis voice at the answering machine round four AM\nTells me: \"My sweetheart, lots of kisses, everything's fine\"\nI'm waiting for him, a bit like a thief waiting for the good hour\nI have the idea that this man is a sweetie or a charmer\n\nHe makes a date with me, often he tells me politely\n\"If you will permit me, miss\"\n\"To put a kiss, a jewel on your neck\"\n\"Something eternal\"\nHe makes a date with me, then I admit\nThat I feel wings growing on me\nAnd the Good Lord is jealous of this angel who is a bit crazy\nIt makes me believe in heaven\nHe makes a date with me as if he would give his life\nBefore him, I've always been on first-name terms\n\nIt's an airline ticket bound for the Marquesas Islands\nBecause I've said no to New York and Venice\nIt's a big limousine parked at the bottom of the elevator\nHe's also capable to desguise himself as a chauffeur\nHe's a bit dandy, a bit hooligan, a bit crazy\nBut I am, as they say, the singer of his dance band\n\nHe makes a date with me, often he tells me politely\n\"If you will permit me, miss\"\n\"To put a kiss, a jewel on your neck\"\n\"Something eternal\"\nHe makes a date with me, then I admit\nThat I feel wings growing on me\nAnd the Good Lord is jealous of this angel who is a bit crazy\nIt makes me believe in heaven\nHe makes a date with me as if he would give his life\nBefore him, I've always been on first-name terms\n\nHe makes a date with me, often he tells me politely\n\"If you will permit me, miss\"\n\"To put a kiss, a jewel on your neck\"\n\"Something eternal\"\nHe makes a date with me, then I admit\nThat I feel wings growing on me\nAnd the Good Lord is jealous of this angel who is a bit crazy\nIt makes me believe in heaven\nIt makes me believe in heaven\nIt makeѕ me believe in heаven"
+      }
+    ],
+    "bpm": 128,
+    "tone": "B minor",
+    "artistPeople": [
+      "Nathalie Santamaria"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "François Bernheim"
+    ],
+    "conductor": "Michel Bernholc",
+    "lyricists": [
+      "Didier Barbelivien"
+    ],
+    "writers": null,
+    "broadcaster": "FT2",
+    "commentators": [
+      "Olivier Minne"
+    ],
+    "jury": null,
+    "spokesperson": "Thierry Beccaro"
+  },
+  {
+    "id": 4,
+    "country": "DK",
+    "artist": "Aud Wilken",
+    "song": "Fra Mols til Skagen",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/8qE917GQKSI",
+      "https://www.youtube-nocookie.com/embed/YOTF0A-U8Zg",
+      "https://www.youtube-nocookie.com/embed/_NMcy_uA1-g"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "danish"
+        ],
+        "displayedLanguages": null,
+        "title": "Fra Mols til Skagen",
+        "content": "La' mig vide hvornår\nAlle togene går\nFor jeg vil vågne hos dig\nNu har sneen låst mig\n\nKun en vinter herfra\nKold og frysende klar\nSend mig dine tanker\nFor mit hjerte banker\n\nFra Mols til Skagen, fra Mols til Skagen\nFra Mols til Skagen, jeg savner dig\nOg dine silkelagner\nOg morgenmad på blå altaner\nDer findes ingen vilde svaner\nSå længe sneen daler\n\nDu var det hele for mig\nNu' jeg stille og bleg\nDu er solens kejser\nMine drømme rejser\n\nFra Mols til Skagen, fra Mols til Skagen\nFra Mols til Skagen, jeg savner dig\nOg dine silkelagner\nOg morgenmad på blå altaner\nDer findes ingen vilde svaner\nSå længe sneen daler\n\nSilkelagner\nOg morgenmad på blå altaner\nDer findes ingen vilde svaner\nSå længe sneen daler\n\nSilkelagner\n(Fra Mols til Skagen)\nOg morgenmad på blå altaner\n(Fra Mols til Skagen)\nDer findes ingen vilde svaner\nSå længe ѕneen dаler"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "From Mols to Skagen",
+        "content": "Let me know when\nAll the trains are leaving\n'Cause I want to wake up with you\nNow the snow has incarcerated me\n\nJust a winter away\nCold and clear as ice\nSend your thoughts to me\n'Cause my heart is pounding\n\nFrom Mols to Skagen, from Mols to Skagen\nFrom Mols to Skagen, I'm missing you\nAnd your silky sheets\nAnd breakfast on blue balconies\nThere will be no wild swans\nAs long as this snow keeps falling\n\nYou were everything to me\nNow I am quiet and pale\nYou are the Emperor of the Sun\nMy dreams are soaring\n\nFrom Mols to Skagen, from Mols to Skagen,\nFrom Mols to Skagen, I'm missing you\nAnd your silky sheets\nAnd breakfast on blue balconies\nThere will be no wild swans\nAs long as this snow keeps falling\n\nSilky sheets\nAnd breakfast on blue balconies\nThere will be no wild swans\nAs long as this snow keeps falling\n\nSilky sheets\n(From Mols to Skagen)\nAnd breakfast on blue balconies\n(From Mols to Skagen)\nThere will be no wild swans\nAs long as this snow keepѕ fаlling"
+      }
+    ],
+    "bpm": 101,
+    "tone": "F major",
+    "artistPeople": [
+      "Aud Wilken"
+    ],
+    "backings": [
+      "Anders Ørsager",
+      "Arvid Nielsen",
+      "Josephine Akvana",
+      "Pia Trojgård"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Lise Cabble",
+      "Mette Mathiesen"
+    ],
+    "conductor": "Frede Ewert",
+    "lyricists": [
+      "Lise Cabble"
+    ],
+    "writers": null,
+    "broadcaster": "DR",
+    "commentators": [
+      "Jørgen de Mylius"
+    ],
+    "jury": null,
+    "spokesperson": "Bent Henius"
+  },
+  {
+    "id": 5,
+    "country": "HR",
+    "artist": "Magazin & Lidija",
+    "song": "Nostalgija",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/r2IG1jauOfI",
+      "https://www.youtube-nocookie.com/embed/3DxhkBmwb9c",
+      "https://www.youtube-nocookie.com/embed/4r9DjYxYyhg",
+      "https://www.youtube-nocookie.com/embed/pWpikKqwJhM"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "croatian"
+        ],
+        "displayedLanguages": null,
+        "title": "Nostalgija",
+        "content": "Tiha\nTiha se čuje violina\nI moga srca strune dira\nPreko mora i planina\nSvira mi, svira\n\nTiha\nTiha se čuje violina\nK'o svjetlo s nebeskih visina\nPaganini s neba svira\nSvira mi, svira\n\nNostalgija, nostalgija\nNiz dušu krenula\nI cijeli život mene je za tebe vezala\nKad te nema ona mi je dom i rodbina\nNostalgija\n\nNostalgija, nostalgija\nNiz dušu krenula\nI cijeli život mene je za tebe vezala\nKad te nema ona mi je dom i rodbina\nNostalgija\n\nTiha\nTiha se čuje violina\nI moga srca strune dira\nPreko mora i planina\nSvira mi, svira\n\nNostalgija, nostalgija\nNiz dušu krenula\nI cijeli život mene je za tebe vezala\nKad te nema ona mi je dom i rodbina\nNostalgija\n\nNostalgija, nostalgija\nNiz dušu krenula\nI cijeli život mene je za tebe vezala\nKad te nema ona mi je dom i rodbina\nNoѕtalgijа"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Nostalgia",
+        "content": "Silent\nA silent violin is playing\nAnd touching my heart's chords\nThrough seas and mountains\nIt plays to me, it plays\n\nSilent\nA silent violin is playing\nLike the light of the sky's heights\nPaganini plays from the sky\nIt plays to me, it plays\n\nNostalgia, nostalgia\nTravels through my soul\nIt bound me with you my entire life\nWhen you're away, she's my home and family\nNostalgia\n\nNostalgia, nostalgia\nTravels through my soul\nIt bound me with you my entire life\nWhen you're away, she's my home and family\nNostalgia\n\nSilent\nA silent violin is playing\nAnd touching my heart's chords\nThrough seas and mountains\nIt plays to me, it plays\n\nNostalgia, nostalgia\nTravels through my soul\nIt bound me with you my entire life\nWhen you're away, she's my home and family\nNostalgia\n\nNostalgia, nostalgia\nTravels through my soul\nIt bound me with you my entire life\nWhen you're away, she's my home and family\nNoѕtalgiа"
+      }
+    ],
+    "bpm": 118,
+    "tone": "D major",
+    "artistPeople": [
+      "Ante Miletić",
+      "Danijela Martinović",
+      "Lidija Horvat-Dunjko",
+      "Nenad Vesanović",
+      "Tonči Huljić",
+      "Željko Baričić"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Tonči Huljić"
+    ],
+    "conductor": "Stipica Kalogjera",
+    "lyricists": [
+      "Vjekoslava Huljić"
+    ],
+    "writers": null,
+    "broadcaster": "HRT",
+    "commentators": [
+      "Aco Kostadinov"
+    ],
+    "jury": null,
+    "spokesperson": "Danijela Trbović"
+  },
+  {
+    "id": 6,
+    "country": "SI",
+    "artist": "Darja Švajger",
+    "song": "Prisluhni mi",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/jqM3mAfztU8",
+      "https://www.youtube-nocookie.com/embed/NCh6Afg-l3Q",
+      "https://www.youtube-nocookie.com/embed/FJNdeMNey28",
+      "https://www.youtube-nocookie.com/embed/GFekDMlblXY",
+      "https://www.youtube-nocookie.com/embed/dDvNLa5II6M"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "slovene"
+        ],
+        "displayedLanguages": null,
+        "title": "Prisluhni mi",
+        "content": "Prisluhni mi, v objemu me poglej\nZaupaj mi, ko noč te skrije v njej\nPriznaj, da tudi ti\nPoljubil sonce bi in sanjal\n\nV meni si, v vetru spremljaš me\nZdaj glas le tvoj prebuja se\nV žarek tiho si spleten\nKot noc si, zvezd dotik\nSkrivaš se, v meni tliš\n\nZaupajva, da eno je nebo\nV njem si ti, v tebi moje so sledi\nPriznajva si, kar v sebi nosiva\nVse je stih, vse ljubezni je dotik\n\nV sebi prosiva za čas\nPoti, trenutke sreče\nV njih izprosiva to noč\nTe sanje večnosti\nV njih sva jaz in ti\n\nZaupajva, da eno je nebo\nV njem si ti, v tebi moje so sledi\nPriznajva si, kar v sebi nosivа\nVse je stih, vse ljubezni je dotik\nVse je stih, vѕe ljubezni je dotik"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Listen to me",
+        "content": "Listen to me, look at me embraced\nTrust me when the night hides you\nAdmit that you too\nWould kiss the sun and dream\n\nYou are in me, you're accompanying me in the wind\nNow, only your voice is waking up\nYou're woven in a ray\nYou're like a night, a touch of stars\nYou hide, glimmering in me\n\nLet's trust that there is just one sky\nYou are in it, my traces are within you\nLet's confess what we keep in us\nEverything is verse, everything is a touch of love\n\nWe pray for time\nPaths, moments of joy\nWe plea for this night\nThis dream of eternity\nThere's me and you in it\n\nLet's trust that there is just one sky\nYou are in it, my traces are within you\nLet's confess what we keep in us\nEverything is verse, everything is a touch of love\nEverything is verse, everything iѕ а touch of love"
+      }
+    ],
+    "bpm": 144,
+    "tone": "G major",
+    "artistPeople": [
+      "Darja Švajger"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Primož Peterca",
+      "Sašo Fajon"
+    ],
+    "conductor": "Jože Privšek",
+    "lyricists": [
+      "Primož Peterca"
+    ],
+    "writers": null,
+    "broadcaster": "RTVSLO",
+    "commentators": [
+      "Damjana Golavšek"
+    ],
+    "jury": null,
+    "spokesperson": "Miša Molk"
+  },
+  {
+    "id": 7,
+    "country": "IL",
+    "artist": "Liora",
+    "song": "Amen",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/Gui9JWHsv-M",
+      "https://www.youtube-nocookie.com/embed/6DLEBZL4g8s",
+      "https://www.youtube-nocookie.com/embed/-hO4PczqJH8"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "hebrew"
+        ],
+        "displayedLanguages": [
+          "עברית"
+        ],
+        "title": "אמן",
+        "content": "אמן, אמן\n\nבתפילה, אמן\nשעולה, אמן\n'כל הנשמה תהלל יה\nאמן\n\nותן ברכת שלום ושמור על ביתנו\nקרב אותנו לחלום שבתוכנו\nתן תמיד ברכה במעשה ידנו\nפתח ליבנו שתמיד נשיר לך\n\nאלוהיי, אמן\nתקוותיי, אמן\nעטוף אותנו באהבה\nאמן\n\nתן לנו חיים ושמור עלינו\nתן שתתגשם אהבתנו\nתן לנו ברכה, האר פנינו\nפתח ליבנו שתמיד נשיר לך\n\nלעולם, אמן\nלכולם, אמן\nחזק את רוח האדם\nאמן\n\nבתפילה, אמן\nלשלום, אמן\n'כל הנשמה תהלל יה\nאמן\n\n'כל הנשמה תהלל יה\nאמן"
+      },
+      {
+        "type": 0,
+        "languages": [
+          "hebrew"
+        ],
+        "displayedLanguages": [
+          "ivrit"
+        ],
+        "title": "Amen",
+        "content": "Amen, Amen\n\nBitfila, Amen\nShe'ola, Amen\nKol hanshama tehalel Ya\nAmen\n\nVeten birkat shalom ushmor al beiteinu\nKarev otanu lachalom shebetocheinu\nTen tamid bracha bema'ase yadeinu\nPtach libeinu shetamid nashir lecha\n\nElohai, Amen\nTikvotai, Amen\nAtof otanu be'ahava\nAmen\n\nTen lanu chaim ushmor aleinu\nTen shetitgashem ahavateinu\nTen lanu bracha, ha'er paneinu\nPtach libeinu shetamid nashir lecha\n\nLa'olam, Amen\nLechulam, Amen\nChazek et ruach ha'adam\nAmen\n\nBitfila, Amen\nLashalom, Amen\nKol hanshama tehalel Ya\nAmen\n\nKol hanѕhama tehalel Yа\nAmen"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Amen",
+        "content": "Amen, Amen\n\nIn a prayer, Amen\nThat rises, Amen\nThe whole soul will praise God\nAmen\n\nAnd give a peace greeting and guard our homes\nBring us closer to the dream that is inside us\nGive us always a blessing in the things that we do\nOpen our hearts so that we always sing to you\n\nMy God, Amen\nMy hopes, Amen\nWrap us with love\nAmen\n\nGive us life and guard us\nLet our love be fulfilled\nGive us a blessing, light our faces\nOpen our hearts so that we always sing to you\n\nTo the world, Amen\nTo everyone, Amen\nStrengthen the human spirit\nAmen\n\nIn a prayer, Amen\nFor peace, Amen\nThe whole soul will praise God\nAmen\n\nThe whole soul will prаiѕe God\nAmen"
+      }
+    ],
+    "bpm": 163,
+    "tone": "B major",
+    "artistPeople": [
+      "Liora Simone Fadlon"
+    ],
+    "backings": [
+      "Avivit Cohen Dahan",
+      "Ayelet Shefi",
+      "Doron Karni",
+      "Guy Fridman",
+      "Nurit Fadlon"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Moshe Datz"
+    ],
+    "conductor": "Gadi Goldman",
+    "lyricists": [
+      "Hamutal Ben Zeev"
+    ],
+    "writers": null,
+    "broadcaster": "IBA",
+    "commentators": null,
+    "jury": null,
+    "spokesperson": "Daniel Pe'er"
+  },
+  {
+    "id": 8,
+    "country": "CY",
+    "artist": "Alexandros Panayi",
+    "song": "Sti Fotia",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/LMfRj5stHdI",
+      "https://www.youtube-nocookie.com/embed/5gfqn89nJU8",
+      "https://www.youtube-nocookie.com/embed/zS8_N9nYQg0"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": [
+          "ellinika"
+        ],
+        "title": "Sti Fotia",
+        "content": "Ksekino me kravyi tin boria\nKe to heri mu aplono sti fotia\nTon sophon profitia\nEleye tha me tripisun karfia\n\nMe tin griza mu stoli mathitevo\nKe ton ayio to Theo agapo\nTin alithia nothevo\nKe stathera prohoro\n\nKi omos dhen pistepsa (Dhe stamato)\nOrus andestepsa (Logus tha vro)\nIme o Elinas pu polema (Polema)\nIpan pos hathika (Dhe stamato)\nDhromus mu haraksan (Logus tha vro)\nEmina monos mu\nKi omos epezisa\nEzisa sti fotia\n\nI fotia sti psihi mu pu kei\nPanda o kindhinos iparhi na svisti\nAp' tis pikras to meli\nPu hinete sa di vrohi\n\nKi omos prohorisa (Dhe stamato)\nLoyia dhen honepsa (Logus tha vro)\nIme o Elinas pu prosperna (Prosperna)\nIpan na mi roto (Dhe stamato)\nLogus na mi zito (Logus tha vro)\nEzisa monos mu sti fotia (Sti fotia)\n\nKi omos dhen pistepsa (Dhe stamato)\nOrus andestepsa (Logus tha vro)\nIme o Elinas pu polema (Polema)\nIpan pos hathika (Dhe stamato)\nDhromus mu haraxan (Logus tha vro)\nEmina monos mu\nKi omos epezisa\nEzisa sti fotia\n\n(Dhe stamato)\n(Logus tha vro)\nIme o Elinas pu polema (Polema)\nIpan pos hathika (Dhe stamato)\nDhromus mu haraxan (Logus tha vro)\nEmina monos mu\nKi omos epezisa\nEzisa ѕti fotia\n\nSti fotiа"
+      },
+      {
+        "type": 0,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": [
+          "ελληνικά"
+        ],
+        "title": "Στη φωτιά",
+        "content": "Ξεκινώ με κραυγή την πορεία\nΚαι το χέρι μου απλώνω στη φωτιά\nΤων σοφών προφητεία\nΈλεγε θα με τρυπήσουν καρφιά\n\nΜε την γκρίζα μου στολή μαθητεύω\nΚαι τον άγιο τον Θεό αγαπώ\nΤην αλήθεια νοθεύω\nΚαι σταθερά προχωρώ\n\nΚι όμως δεν πίστεψα (Δεν σταματώ)\nΌρους αντέστρεψα (Λόγους θα βρω)\nΕίμαι ο Έλληνας που πολεμά (Πολεμά)\nΕίπαν πως χάθηκα (Δεν σταματώ)\nΔρόμους μου χάραξαν (Λόγους θα βρω)\nΈμεινα μόνος μου\nΚι όμως επέζησα\nΈζησα στη φωτιά\n\nΗ φωτιά στη ψυχή μου που καίει\nΠάντα ο κίνδυνος υπάρχει να σβηστεί\nΑπ' της πίκρας το μέλι\nΠου χύνεται σαν τη βροχή\n\nΚι ομως προχώρησα (Δεν σταματώ)\nΛόγια δεν χώνεψα (Λόγους θα βρω)\nΕίμαι ο Έλληνας που προσπερνά (Προσπερνά)\nΕίπαν να μη ρωτώ (Δεν σταματώ)\nΛόγους να μη ζητώ (Λόγους θα βρω)\nΈζησα μόνος μου στη φωτιά (Στη φωτιά)\n\nΚι όμως δεν πίστεψα (Δεν σταματώ)\nΌρους αντέστρεψα (Λόγους θα βρω)\nΕίμαι ο Έλληνας που πολεμά (Πολεμά)\nΕίπαν πως χάθηκα (Δεν σταματώ)\nΔρόμους μου χάραξαν (Λόγους θα βρω)\nΈμεινα μόνος μου\nΚι όμως επέζησα\nΈζησα στη φωτιά\n\n(Δεν σταματώ)\n(Λόγους θα βρω)\nΕίμαι ο Έλληνας που πολεμά (Πολεμά)\nΕίπαν πως χάθηκα (Δεν σταματώ)\nΔρόμους μου χάραξαν (Λόγους θα βρω)\nΈμεινα μόνος μου\nΚι όμως επέζησα\nΈζησα στη φωτιά\n\nΣτη φωτιά"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "In the fire",
+        "content": "I start my path with a shout\nAnd I take my hand to the fire\nWise men's prophecies\nTold me that I would be pierced with pins\n\nWith my grey uniform I learnt\nTo love the Holy God\nI change the truth\nAnd I walk ahead strongly\n\nAnd I don't believe yet (I do not stop)\nI changed the rules (I will find reasons)\nI'm the Greek who fights (Fights)\nThey said I lost my way (I do not stop)\nThey opened me paths (I will find reasons)\nI remained alone\nBut I lived again\nI lived in the fire\n\nThe fire which burns my soul\nIt's always about to be extinguished\nBy a bitter honey\nWhich falls like rain\n\nBut I went ahead (I do not stop)\nI didn't listen to their words (I will find reasons)\nI'm the Greek who goes ahead (Goes ahead)\nThey told me not to ask (I do not stop)\nThe told me not to look for reasons (I will find reasons)\nI lived alone in the fire (In the fire)\n\nAnd I don't believe yet (I do not stop)\nI changed the rules (I will find reasons)\nI'm the Greek who fights (Fights)\nThey said I lost my way (I do not stop)\nThey opened me paths (I will find reasons)\nI remained alone\nBut I lived again\nI lived in the fire\n\n(I do not stop)\n(I will find reasons)\nI'm the Greek who fights (Fights)\nThey said I lost my way (I do not stop)\nThey opened me paths (I will find reasonѕ)\nI remained alone\nBut I lived agаin\nI lived in the fire\n\nIn the fire"
+      }
+    ],
+    "bpm": 103,
+    "tone": "G minor",
+    "artistPeople": [
+      "Alex Panayi"
+    ],
+    "backings": [
+      "Christina Argyri",
+      "Dimitris Horianopoulos",
+      "Katerina Andreou",
+      "Nassia Trachonitou",
+      "Philippos Constantinos"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Giorgos Theophanous",
+    "lyricists": null,
+    "writers": [
+      "Alexandros Panayi"
+    ],
+    "broadcaster": "CyBC",
+    "commentators": [
+      "Neophytos Taliotis"
+    ],
+    "jury": null,
+    "spokesperson": "Andreas Iakovidis"
+  },
+  {
+    "id": 9,
+    "country": "GB",
+    "artist": "Love City Groove",
+    "song": "Love City Groove",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/Cy2HbL4rwaA",
+      "https://www.youtube-nocookie.com/embed/S5BcMyVYVzU",
+      "https://www.youtube-nocookie.com/embed/LcMEIN-y1wk",
+      "https://www.youtube-nocookie.com/embed/z1YTWwJC_7U"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Love City Groove",
+        "content": "We're really makin', we're really makin'\nWe're really makin', we're really makin'\nWe're really makin', we're really makin'\nWe're really makin' love now, uh…\n\nOoh, baby, you know how I been feelin'\n(Ooh babe, ooh babe, ooh ooh ooh babe, ooh babe)\nOoh, baby, you know how I been feelin'\n(Ooh babe, ooh babe, ooh ooh ooh babe, ooh babe)\nUh…\n\nBaby, baby, baby, you got me goin' crazy\nI'm feelin' kinda high, my mind is gettin' hazy\nBut when I think of you, I know just what to do\nYou make me feel so happy when I'm feelin' blue\n\nYou're pickin' me up with a kiss, a touch o' your hand\nYou're all that I want, you're everything I planned\nLike a fairy tale story, you're the man o' my dreams\nMy knight in shining armour, well, that's how it seems\n\nYou greet me in the morning with a kiss and a smile\nAnd for the rest of the day I'm on cloud nine\n(Ooh babe, ooh babe, ooh ooh ooh babe…)\nIt may sound like fantasy, but to me, it's real\nAnd I could trust my emotions 'cause I know what I feel\n\nWhat we have is special, and that it would last\nOur hearts beaten as one, it's pumpin' blood real fast\n(Ooh babe, ooh babe, ooh ooh ooh babe…)\n'Cause the connection is truly from above\nAnd I thank God\n\nIn the mornin' when the sun shines down on your body\nI know we're really makin' love now\nIn the mornin' when the sun shines down on your body\nI know we're really makin' love now\n\nNow baby, baby, when I first saw your face\nI saw you had flavour and I wanted a taste of this sweet thing\nBut now there's so much more\n'Cause everyday I'm thinkin' about what my baby has in store\n\nTrust and believe, day to day, you never doubt her\n'Cause I used to have a dream girl, but now I found her\nAnd she's by my side, she's my pride, my all\nTen foot tall, that's how I feel, I never fall, I never fell\n\nOh… what the hell, I'll admit it\nLove was the target and you hit it\nSo as I watch you sleep in the middle of the night\nYou open your eyes and I know it's so right\n\nTwo hearts, two minds, two people, one love\nAnd the way you're makin' me feel\nIt's like you're sent from up above\n(Ooh babe, ooh babe, ooh ooh ooh babe…)\nYour touch, your smell, your face, a unique breed\nIt's only love but it's all that I need\n\nIn the mornin' when the sun shines down on your body\nI know we're really makin' love now\nIn the mornin' when the sun shines down on your body\nI know we're really makin' love now\nIn the mornin' when the sun shines down on your body\nI know we're really makin' love now\n\nWe're really makin', we're really makin'\nWe're really makin', we're really makin'\nWe're really makin', we're really makin'\nWe're really makin' love now, uh…\n\nI'm glad that I been found, always wanted you around\nKeepin' me lost for words, yeah, I know how that sounds\nNow I been to many places and I seen many things\nBut nothin' that I know can ever make my heart sing like you do\nIt's like a voodoo, you know what I'm sayin'?\nBaby girl, I ain't playin'\nI'm glad that I'm the one to rock your world\n'Cause honey - yeah…\n\nIn the mornin' when the sun shines down on your body\nI know we're really makin' love now\nIn the mornin' when the sun shines down on your body\nI know we're really makin' love now\n\nIn the mornin' when the sun shines down on your body\nI know we're really makin' love now\nIn the mornin' when the sun shineѕ down on your body\nI know we're really mаkin' love now"
+      }
+    ],
+    "bpm": 99,
+    "tone": "F# minor",
+    "artistPeople": [
+      "Stephen Rudden",
+      "Jay Williams",
+      "Yinka Charles",
+      "Paul Hardy"
+    ],
+    "backings": [
+      "Jingles"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Mike Dixon",
+    "lyricists": null,
+    "writers": [
+      "Beanz",
+      "Jay Williams",
+      "Paul Hardy",
+      "Tatsiana Mais"
+    ],
+    "broadcaster": "BBC",
+    "commentators": [
+      "Terry Wogan"
+    ],
+    "jury": null,
+    "spokesperson": "Colin Berry"
+  },
+  {
+    "id": 10,
+    "country": "MT",
+    "artist": "Mike Spiteri",
+    "song": "Keep Me In Mind",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/7V4-3yEqCgY",
+      "https://www.youtube-nocookie.com/embed/jkrm_Lzbico",
+      "https://www.youtube-nocookie.com/embed/88p4Lhi48fY"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Keep Me In Mind",
+        "content": "That old feeling\nDreams we shared together\nAre just fragments of the past\n\nThere's a silence\nShades of stormy weather\nWas our love too good to last?\n\nLight a candle, sing a song\nLook for rainbows\nThere's nothing wrong\nEvery night I cry my heart out\n'Cause we're driftin' apart, now I know\n\nKeep me in mind\nWhen you're all alone\nDial my number\nI'll wait by the phone\n\nWe'll have tomorrow\nAnd sweet dreams to follow\nHold me forever\nSo keep me in mind, love\n'Cause you're in my heart\n\nA sweet memory\nFrom a world of laughter\nBrings back echoes\nNight and day\n\nLight a candle, sing a song\nLook for a rainbow\nThere's nothing wrong\nEvery night I cry my heart out\n'Cause we're driftin' apart, now I know\n\nKeep me in mind\nWhen you're all alone\nDial my number\nI'll wait by the phone\n\nSend me some lovin'\nAnd take me to heaven\nPut love on the line\nJust make it known that you're mine\n\nKeep me in mind\nWhen dark shadows fall\nDon't go to strangers\nI'm there when you call\nWe'll have tomorrow\nAnd sweet dreams to follow\nHold me forever\nSo keep me in mind, love\n'Cause you're in my heart\n('Cause you're in my heart)\n'Cause you're in my heart\n('Cause you're in my heart)\n'Cauѕe you're in my heаrt"
+      }
+    ],
+    "bpm": 163,
+    "tone": "F major",
+    "artistPeople": [
+      "Michael Spiteri"
+    ],
+    "backings": [
+      "Garrett Wall",
+      "Martina Tobin",
+      "Patricia O'Neill"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Ray Agius"
+    ],
+    "conductor": "Ray Agius",
+    "lyricists": [
+      "Alfred C. Sant"
+    ],
+    "writers": null,
+    "broadcaster": "PBM",
+    "commentators": [
+      "Enzo Gusman"
+    ],
+    "jury": null,
+    "spokesperson": "Stephanie Farrugia"
+  },
+  {
+    "id": 11,
+    "country": "GR",
+    "artist": "Elina Constantopoulou",
+    "song": "Pia prosefhi",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/SrTLEZZEChw",
+      "https://www.youtube-nocookie.com/embed/iUp8bcq-yMc",
+      "https://www.youtube-nocookie.com/embed/Mfkn45_0FLg"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": [
+          "ellinika"
+        ],
+        "title": "Pia prosefhi",
+        "content": "Ke gar evulodo miane ti yin taftin\nMi yignoskodes tin ivrin, in epiun…\n\nIha mia periusia, ti gatahrastikane\nKanan ierosilia ki ute pu drapikane\nTi istoria tis zois mu the skeftikane\n\nPia prosefhi ego na kano yia ta krimata tus\nPia prosefhi boro na po yia na sothun\nStazo krasi yia na xeplino t' amartimata tus\nPia prosefhi na po yi' aftus, pu me ponun\n\nNa mu parune to throno kaphi prospathisane\nEn' asteri iha mono ke to apetisane\nTo poso adexa sto hrono agnoisane\n\nPia prosefhi ego na kano yia ta krimata tus\nPia prosefhi boro na po yia na sothun\nStazo krasi yia na xeplino t' amartimata tus\nPia prosefhi na po yi' aftus, pu me ponun\n\nPia prosefhi ego na kano yia ta krimata tus\nPia prosefhi boro na po yia na sothun\nStazo krasi yia na xeplino t' amartimata tus\nPia prosefhi na po yi' аftuѕ, pu me ponun"
+      },
+      {
+        "type": 0,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": [
+          "ελληνικά"
+        ],
+        "title": "Ποια προσευχή",
+        "content": "\"Και γαρ εβούλοντο μυάναι την γην ταύτην\nΜη γιγνώσκοντες την ύβριν, ην εποίουν…\"\n\nΕίχα μια περιουσία, την καταχραστήκανε\nΚάναν ιεροσυλία κι ούτε που ντραπήκανε\nΤην ιστορία της ζωής μου δε σκεφτήκανε\n\nΠοια προσευχή εγώ να κάνω για τα κρίματά τους\nΠοια προσευχή μπορώ να πω για να σωθούν\nΣτάζω κρασί για να ξεπλύνω τ' αμαρτήματά τους\nΠοια προσευχή να πω γι' αυτούς, που με πονούν\n\nΝα μου πάρουνε το θρόνο κάποιοι προσπαθήσανε\nΈν' αστέρι είχα μόνο και το απαιτήσανε\nΤο πόσο άντεξα στο χρόνο αγνοήσανε\n\nΠοια προσευχή εγώ να κάνω για τα κρίματά τους\nΠοια προσευχή μπορώ να πω για να σωθούν\nΣτάζω κρασί για να ξεπλύνω τ' αμαρτήματά τους\nΠοια προσευχή να πω γι' αυτούς, που με πονούν\n\nΠοια προσευχή εγώ να κάνω για τα κρίματά τους\nΠοια προσευχή μπορώ να πω για να σωθούν\nΣτάζω κρασί για να ξεπλύνω τ' αμαρτήματά τους\nΠοια προσευχή να πω γι' αυτούς, που με πονούν"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Which prayer?",
+        "content": "They wanted to remove this land's honour\nWithout realising the insolence they were committing…\n\nI had a fortune and they abused it\nThey committed sacrilege and they weren't even ashamed\nThey didn't think of my life's history\n\nWhich prayer shall I say for their sins?\nWhich prayer can I say so they can be saved?\nI drop wine to purify their sins\nWhich prayer shall I say for those who make me suffer?\n\nSome tried to take my throne\nI had only one star and they claimed it\nThey ignored how long I will resist\n\nWhich prayer shall I say for their sins?\nWhich prayer can I say so they can be saved?\nI drop wine to purify their sins\nWhich prayer shall I say for those who make me suffer?\n\nWhich prayer shall I say for their sins?\nWhich prayer can I say so they can be saved?\nI drop wine to purify their sins\nWhich prayer shall I say for those who mаke me ѕuffer?"
+      }
+    ],
+    "bpm": 89,
+    "tone": "G minor",
+    "artistPeople": [
+      "Elina Konstantopoulou"
+    ],
+    "backings": [
+      "Marianta Pieridi",
+      "Stelios Zachariou"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Nikos Terzis"
+    ],
+    "conductor": "Haris Andreadis",
+    "lyricists": [
+      "Antonis Pappas"
+    ],
+    "writers": null,
+    "broadcaster": "ERT",
+    "commentators": [
+      "Dafni Bokota"
+    ],
+    "jury": null,
+    "spokesperson": "Fotini Giannoulatou"
+  },
+  {
+    "id": 12,
+    "country": "AT",
+    "artist": "Stella Jones",
+    "song": "Die Welt dreht sich verkehrt",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/Ta-dzguUpJY",
+      "https://www.youtube-nocookie.com/embed/FS531GWm9pY",
+      "https://www.youtube-nocookie.com/embed/keP8H-GRe7I"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "Die Welt dreht sich verkehrt",
+        "content": "Yeah yeah...\n\nDas Leben wirft mich aus der Bahn\nWenn du mich ansiehst\nUnd dann deine Hand mich berührt\nEs macht sich auf und davon, von dem Moment an\nIn dem dein Kuß mich verführt\n\nJede Norm ist mir egal\nUnd der Wahnsinn wird normal\n\nDie alte Welt dreht sich verkehrt\nWird federleicht, und schwebt davon\nGold und Platin sind nichts mehr wert\nIch bin Millionär\nWenn ich bei dir bin\nLachen und Weinen vereint\n\nOoh... yeah yeah yeah yeah...\n\nKomm' mach aus mir einen Clown\nDu Akrobat ohne Seil\nFliegt mit mir durch die Zeit\nEin Haus aus Tagträumen bauen\nWahrheit oder Betrug\nKein Problem weit und breit\n\nJede Norm ist mir egal\nUnd der Wahnsinn wird normal\nWird normal...\n\n(Die alte Welt dreht sich verkehrt)\nAh... wird federleicht, und schwebt davon\nGold und Platin sind nichts mehr wert\nIch bin Millionär, und leb' davon\n\nDie alte Welt dreht sich verkehrt\nWird federleicht\nWenn ich bei dir bin\nLachen und Weinen vereint\n\nYeah yeah yeаh...\nDie Welt dreht ѕich verkehrt"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "The world turns the wrong way",
+        "content": "Yeah yeah...\n\nLife throws me off course\nWhen you look at me\nAnd then your hand touches me\nIt's away from the very moment\nWhen your kiss seduced me\n\nEvery norm is the same to me\nAnd madness becomes normal\n\nThe old world turns the wrong way\nBe light like a feather and float away\nGold and platinum will have no value\nI'm a millionaire\nWhen you are with me\nLaughter and crying unites\n\nOoh... yeah yeah yeah yeah...\n\nMake a clown out of me\nYou acrobat without rope\nFly with me through time\nLet's build a house out of daydreams\nTruth or false\nNo problems around\n\nEvery norm is the same to me\nAnd madness becomes normal\nBecomes normal...\n\n(The old world turns the wrong way)\nAh... be light like a feather and float away\nGold and platinum will have no value\nI'm a millionaire, and live on it\n\nThe old world turns the wrong way\nBe light like a feather\nWhen I'm with you\nLaughter and crying united\n\nYeah yeah yeah...\nThe world turnѕ the wrong wаy"
+      }
+    ],
+    "bpm": 100,
+    "tone": "A major",
+    "artistPeople": [
+      "Stellisa Zacher"
+    ],
+    "backings": [
+      "Gerhard Lux",
+      "Jacqueline Patricio da Luz",
+      "Linda Spa",
+      "Lisa Jacob",
+      "Thomas Lang"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Michael Kienzl",
+    "lyricists": null,
+    "writers": [
+      "Mischa Krausz"
+    ],
+    "broadcaster": "ORF",
+    "commentators": [
+      "Ernst Grissemann"
+    ],
+    "jury": null,
+    "spokesperson": "Tilia Herold"
+  },
+  {
+    "id": 13,
+    "country": "IE",
+    "artist": "Eddie Friel",
+    "song": "Dreamin'",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/CRZxY4rLbvM",
+      "https://www.youtube-nocookie.com/embed/dTcQc_5rPgw",
+      "https://www.youtube-nocookie.com/embed/m8PXeIg6jbQ"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Dreamin'",
+        "content": "Dreamin'\nDreamin' on a silver sea of moonlight\nMagic fills the night\nMelodies alight, when I'm dreamin'\n\nDreamin'\nDreamin' how I love this nowhere feelin'\nRound and round I go\nShadows soft and low, when I'm dreamin'\n\nYou can sail on any ocean\nDream an easy melody\nMoonlight magic shines so gently\nMoonlight magic harmony\n\nNight time slips away in silence\n(Dreamin')\nAnd daylight steals across my silver sea\nAnd goodbye dreamin' in the moonlight\n(Goodbye)\nSleepy wake up to reality\n\nLalala...\nLala lala lala lala lalala...\nLala la lala...\nUnderneath the stars, dreamin'\n\nFar away a blue horizon\nDriftin' on the midnight sea\nMoonlight magic shines ѕo gently\nMoonlight magic harmony\n\n(Dreamin')\n(Lala lala lala lala lalala...)\nSleepy wake up to reality\n(Dreаmin')"
+      }
+    ],
+    "bpm": 89,
+    "tone": "A major",
+    "artistPeople": [
+      "Eddie Friel"
+    ],
+    "backings": [
+      "Eamonn Toal"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Noel Kelehan",
+    "lyricists": null,
+    "writers": [
+      "Barry Woods",
+      "Richard Abbott"
+    ],
+    "broadcaster": "RTÉ",
+    "commentators": [
+      "Pat Kenny"
+    ],
+    "jury": null,
+    "spokesperson": "Eileen Dunne"
+  },
+  {
+    "id": 14,
+    "country": "IS",
+    "artist": "Bó Halldórsson",
+    "song": "Núna",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/mt4-SJMcmtQ",
+      "https://www.youtube-nocookie.com/embed/_Rt0PuoIxYI",
+      "https://www.youtube-nocookie.com/embed/ghHtLSgh8_o"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "icelandic"
+        ],
+        "displayedLanguages": null,
+        "title": "Núna",
+        "content": "Núna, ef þú vilt, mun nóttin elska þig af líf' og sál\nNúna, ef þú vilt, hún ber, af vörum þér, sín leyndarmál\nNúna, ef þú vilt, mun ástin snerta augu þín svo djúp og blá, já\nNúna, ef þú vilt, njótum þess að elsk' og þrá\n\nÓ... ég veit allt tekur enda, fellur regn á grænan skóg\nOg á meðan þú ert hjá mér, vil ég elska með þér nóg\nÞessi nótt er fyrir okkur, þessi koss er handa þér\nHann mun ljóm' í gegnum tárin, þegar loks að morgn' ég fer\n\nNúna, ef þú vilt, mun nóttin elska þig af líf' og sál\nNúna, ef þú vilt, hún ber, af vörum þér, sín leyndarmál\nNúna, ef þú vilt, mun ástin snerta augu þín svo djúp og blá, já\nNúna, ef þú vilt, njótum þess að elsk' og þrá, já\n\nNúna, ef þú vilt, mun nóttin elska þig af líf' og sál\nNúna, ef þú vilt, hún ber, af vörum þér, sín leyndarmál\nÓ... núna, ef þú vilt, mun ástin snerta augu þín svo djúp og blá, já\nNúna, ef þú vilt, njótum þess að elsk' og þrá\nNúna, ef þú vilt, njótum þess аð elѕk' og þrá"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Now",
+        "content": "Now, if you want, the night will love you body and soul\nNow, if you want, it will carry your secrets from your lips\nNow, if you want, love will touch your eyes so deep and blue\nNow, if you want, we will love and desire\n\nOh, I know that all things come to an end, rain falls on green woods\nAnd while you're with me, I want to love you a lot\nThis night is ours, this kiss is for you\nIt will shed light on your tears, when in the morning I depart\n\nNow, if you want, the night will love you body and soul\nNow, if you want, it will carry your secrets from your lips\nNow, if you want, love will touch your eyes so deep and blue\nNow, if you want, we will love and desire\n\nNow, if you want, the night will love you body and soul\nNow, if you want, it will carry your secrets from your lips\nOh, now, if you want, love will touch your eyes so deep and blue\nNow, if you want, we will love and desire\nNow, if you want, we will love аnd deѕire"
+      }
+    ],
+    "bpm": 124,
+    "tone": "G major",
+    "artistPeople": [
+      "Björgvin Helgi Halldórsson"
+    ],
+    "backings": [
+      "Berglind Björk Jónasdóttir",
+      "Erna Þórarinsdóttir",
+      "Eyjólfur Kristjánsson",
+      "Guðrún Gunnarsdóttir",
+      "Stefán Hilmarsson"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Björgvin Halldórsson",
+      "Ed Welch"
+    ],
+    "conductor": "Frank McNamara",
+    "lyricists": [
+      "Jón Örn Marinósson"
+    ],
+    "writers": null,
+    "broadcaster": "RÚV",
+    "commentators": [
+      "Jakob Frímann Magnússon"
+    ],
+    "jury": null,
+    "spokesperson": "Áslaug Dóra Eyjólfsdóttir"
+  },
+  {
+    "id": 15,
+    "country": "TR",
+    "artist": "Arzu Ece",
+    "song": "Sev!",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/WGm8jAoG89E",
+      "https://www.youtube-nocookie.com/embed/eu6d7yKBdBE",
+      "https://www.youtube-nocookie.com/embed/HamP7mfT6R4",
+      "https://www.youtube-nocookie.com/embed/Qorj0opAiBw"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "turkish"
+        ],
+        "displayedLanguages": null,
+        "title": "Sev!",
+        "content": "Sev, içinde bir düş olmasa bile\nSev, sevgi bizimle\n\nSev, hiç durma sev\nSevmekle varolacak\nSonsuz bir dünya inan\nGül, hiç durma gül\nGülmek anlam verir hayatına\nUnutup bu dünyayı bir kere dene\n\nSev, gönlünce sev\nBak dünya gözlerine\nBir başka görünür inan\nGül, hiç durma gül\nGülmek anlam verir hayatına\nUnutup bu dünyayı bir kere dene\n\nHaydi gel bir şarkı söyle bana\nUzan bu şarkıyla sonsuzluğa\nGül, içinde bir düş olmasa bile\nSev, sevgi bizimle\n\nSev, hiç durma sev\nSevmekle varolacak\nSonsuz bir dünya inan\nGül, hiç durma gül\nGülmek anlam verir hayatına\nUnutup bu dünyayı bir kere dene\n\nHaydi gel bir şarkı söyle bana\nUzan bu şarkıyla sonsuzluğa\nGül, içinde bir düş olmasa bile\nSev, sevgi bizimle\n\nHaydi gel bir şarkı söyle bana\nUzan bu şarkıyla sonsuzluğa\nGül, içinde bir düş olmasа bile\nSev, ѕevgi bizimle"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Love!",
+        "content": "Love, though you don't have a dream inside\nLove, love is with us\n\nLove, love without stopping\nBelieve, that an endless world\nWill exist through love\nLaugh, laugh without stopping\nLaughing gives a sense to your life\nTry once to forget this world\n\nLove, with all your heart\nLook at the world's eyes\nBelieve that you see them different\nLaugh, laugh without stopping\nLaughing gives a sense to your life\nTry once to forget this world\n\nCome on, sing me a song\nTry to reach for eternity\nLaugh, though you don't have a dream inside\nLove, love is with us\n\nLove, love without stopping\nBelieve, that an endless world\nWill exist through love\nLaugh, laugh without stopping\nLaughing gives a sense to your life\nTry once to forget this world\n\nCome on, sing me a song\nTry to reach for eternity\nLaugh, though you don't have a dream inside\nLove, love is with us\n\nCome on, sing me a song\nTry to reach for eternity\nLaugh, though you don't have a dreаm inside\nLove, love is with uѕ"
+      }
+    ],
+    "bpm": 92,
+    "tone": "G major",
+    "artistPeople": [
+      "Arzu Ece"
+    ],
+    "backings": [
+      "Ece Sandallı",
+      "Füsun Coşkun",
+      "Sertan Belciler"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Melih Kibar"
+    ],
+    "conductor": "Melih Kibar",
+    "lyricists": [
+      "Zeynep Talu Kurşuncu"
+    ],
+    "writers": null,
+    "broadcaster": "TRT",
+    "commentators": [
+      "Bülend Özveren"
+    ],
+    "jury": null,
+    "spokesperson": "Ömer Önder"
+  },
+  {
+    "id": 16,
+    "country": "RU",
+    "artist": "Philipp Kirkorov",
+    "song": "Kolybelnaya Dlya Vulkana",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/YX5O4Ems3Pg",
+      "https://www.youtube-nocookie.com/embed/HyRKNLawyiU",
+      "https://www.youtube-nocookie.com/embed/-eeHUgjOd1Y"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": [
+          "russkiy"
+        ],
+        "title": "Kolybelnaya Dlya Vulkana",
+        "content": "Spjat daljini tikhim snom, spjat rjabjini nad prudom\nI daždji, i vjetra, pritajiljis da utra\n\nSpit vjeljikij akean, toljko ti adjin vulkan\nAgnjegrivij starik, nje umolknješ nji na mig\n\nVslušajsa davjerčiva v golos čelavječeskij\nAbratis, pažalujsta, k razumu i k radesti\n\nNavsegda zabud, vulkan, čem grazjil bilim vjekam\nTi tiranjit mir ustan, i garoj zjeljenaj stan\n\nTi navjek zabud, vulkan, čem grazjil bilim vjekam\nAbratis, pažalujsta, k razumu i k radesti\n\nSpi ugrumij vjeljikan, spi njedremljušij vulkan\nAtrekis at vajni, mira daj i tišini\n\nMira junim i sedim, mira grešnim i svjatim\nMira žiznji zjemnoj, mira njebu nad taboj\n\nTi navjek zabud, vulkan, čem grazjil bilim vjekam\nAbratis, pažalujsta, k razumu i k radesti\n\nAbratis, pažalujsta, k razumu i k rаdeѕti"
+      },
+      {
+        "type": 0,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": [
+          "русский"
+        ],
+        "title": "Колыбельная для вулкана",
+        "content": "Спят долины тихим сном, спят рябины над прудом\nИ дожди, и ветра, притаились до утра\n\nСпит великий океан, только ты один вулкан\nОгнегривый старик, не умолкнешь ни на миг\n\nВслушайся доверчиво в голос человеческий\nОбратись, пожалуйста, к разуму и к радости\n\nНавсегда забудь, вулкан, чем грозил былым векам\nТы тиранить мир устань, и горой зеленой стань\n\nТы навек забудь, вулкан, чем грозил былым векам\nОбратись, пожалуйста, к разуму и к радости\n\nСпи угрюмый великан, спи недремлющий вулкан\nОтрекись от войны, мира дай и тишины\n\nМира юным и седым, мира грешным и святым\nМира жизни земной, мира небу над тобой\n\nТы навек забудь, вулкан, чем грозил былым векам\nОбратись, пожалуйста, к разуму и к радости\n\nОбратись, пожалуйста, к разуму и к радости"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Lullaby for a volcano",
+        "content": "The valleys sleep deeply, the mountain ash sleeps beside the pond\nThe rain and the wind are quiet till the next morning\n\nThe immense ocean sleeps, only you, unique volcano\nVolcanic old man, you are never quiet even for a moment\n\nListen trustingly to the human voice\nPlease, turn back to common sense and to joy\n\nForget forever, volcano, what you have theatened for centuries\nStop to tyrannize the world and stay a green mountain\n\nForget eternally, volcano, what you have threatened for centuries\nPlease, turn back to common sense and to joy\n\nSleep, sullen giant, sleep, eternal guarding volcano\nRenounce of war, give us peace and silence\n\nGive peace for the old and the young, also for sinners and saints\nGive peace for life on earth, peace for the sky above\n\nForget eternally, volcano, what you have threatened for centuries\nPlease, turn back to common sense and to joy\n\nPlease, turn back to common senѕe аnd to joy"
+      }
+    ],
+    "bpm": 129,
+    "tone": "D major",
+    "artistPeople": [
+      "Philipp Bedrosovich Kirkorov (Фили́пп Бедро́сович Кирко́ров)"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Ilya Bershadskiy"
+    ],
+    "conductor": "Michael Finberg",
+    "lyricists": [
+      "Ilya Resnik"
+    ],
+    "writers": null,
+    "broadcaster": "ORT",
+    "commentators": null,
+    "jury": null,
+    "spokesperson": "Marina Danielyan"
+  },
+  {
+    "id": 17,
+    "country": "PL",
+    "artist": "Justyna",
+    "song": "Sama",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/vdR-E5U3D4s",
+      "https://www.youtube-nocookie.com/embed/ecRhNypdCaU",
+      "https://www.youtube-nocookie.com/embed/fkXPN49CWOk"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "polish"
+        ],
+        "displayedLanguages": null,
+        "title": "Sama",
+        "content": "Teraz o tym wiem\nKiedy świat na mnie czasem rozgniewa się\nDaje smutek bym\nTam gdzie wieżowca oko\nCzekała aż do zmroku\nW tym najdalszym z miejsc\nBy pchłą stać się małą\n\nTeraz o tym wiem\nKiedy świat na mnie czasem rozgniewa się\nDaje smutek bym\nTam gdzie wieżowca oko\nCzekała aż do zmroku\nSama tak\nI czuła się tak marnie\nPoczuła ѕię tak marnie\nJakby Bóg, dobry Bóg\nNie lubił pcheł\n\nOne - nah - wanna - ee - yeаh…"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Alone",
+        "content": "Now I know\nThat when the world is angry with me\nIt's sad and I remain\nThere at that skyscraper's stair's eye\nUntil the dusk comes\nIn this faraway place\nTo become a little flea\n\nNow I know\nThat when the world is angry with me\nIt's sad and I remain\nThere at that skyscraper's stair's eye\nUntil the dusk comes\nI'm alone\nAnd I feel poor\nFeeling so poor\nAs if God, the good God\nDidn't love little fleaѕ\n\nOne - nah - wanna - ee - yeаh…"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "spanish"
+        ],
+        "displayedLanguages": null,
+        "title": "Sola",
+        "content": "Ahora lo sé\nCuando el mundo a veces se enfada conmigo\nMe da tristeza y me quedo\nAllí donde el ojo del rascacielos\nEsperando a que anochezca\nEn ese lugar tan lejano\nPara convertirme en una pequeña pulga\n\nAhora lo sé\nCuando el mundo a veces se enfada conmigo\nMe da tristeza y me quedo\nAllí donde el ojo del rascacielos\nA esperar a que anochezca\nSola así\nY me sentía tan miserable\nTan, tan miserable\nComo si a Dios, el buen Dios\nNo le gustaran las pulgaѕ\n\nOne - nah - wanna - ee - yeаh…"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "ukrainian"
+        ],
+        "displayedLanguages": null,
+        "title": "На самоті",
+        "content": "Зараз це знаю\nКоли світ на мене часом злиться\nНавіює мені смуток\nТам де око хмарочоса\nЧекала аж до темряви\nВ тому найдальшому місці\nЗробити блоху маленькою\n\nЗараз о тим знаю\nКоли світ на мене часом злиться\nНавіює мені смуток\nТам де око хмарочоса\nЧекала аж до темряви\nНа самоті так\nІ почувалася такою нещасною\nПочувалася такою нещасною\nЯкби Бог, Добрий Бог\nНе любив бліх\n\nOne - nah - wannа - ee - yeаh…"
+      }
+    ],
+    "bpm": 178,
+    "tone": "D major",
+    "artistPeople": [
+      "Justyna Maria Steczkowska"
+    ],
+    "backings": [
+      "Magda Steczkowska"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Mateusz Pospieszalski",
+      "Wojciech Waglewski"
+    ],
+    "conductor": "Noel Kelehan",
+    "lyricists": [
+      "Wojciech Waglewski"
+    ],
+    "writers": null,
+    "broadcaster": "TVP",
+    "commentators": [
+      "Artur Orzech"
+    ],
+    "jury": null,
+    "spokesperson": "Jan Chojnacki"
+  },
+  {
+    "id": 18,
+    "country": "BA",
+    "artist": "Davor Popović",
+    "song": "Dvadeset i prvi vijek",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/OzwbESyePLY",
+      "https://www.youtube-nocookie.com/embed/xverANCrn-8",
+      "https://www.youtube-nocookie.com/embed/iF6hkaoqs8k",
+      "https://www.youtube-nocookie.com/embed/n6Okv8b_qm8",
+      "https://www.youtube-nocookie.com/embed/CsLOS9isu4s"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "bosnian"
+        ],
+        "displayedLanguages": null,
+        "title": "Dvadeset i prvi vijek",
+        "content": "Zaledila si more, najluđe valove\nI sakrila si bore, prve bore najslađe, od mene\n\nGdje si ti plavooka, ne teče med i mlijeko\nDaleko srce od oka, voli li te neko\nJoš nosim stari džemper, što si mi isplela\nI zauvijek mi srce prepolovila\n\nKad ulice su puste, tramvaji drijemaju\nI kad me magle guste gutaju\nPola srca kuca samo, pola je kod tebe\nKad životu puno damo on nas pojede\n\nDvadeset i prvi vijek nam draga dolazi\nA tebi nema traga\nDvadeset i prvi vijek nam draga dolazi\nA sreći nema traga\nA sreći nema traga\n\nU krevetu je doručak, a ljubav izvan njega\nS tobom je i rastanak, strasniji od svega\nProzor tvoj još gori, svjetionik što ne blijedi\nJa ne znam ko me stvori, da gubim sve što vrijedi\n\nKad zvijezde nebom pališ, tišina zapjeva\nKoliko mi fališ, da li znaš\nNišta mi ne vrijedi, i moj život blijedi\nPoput starog blue jeansa\n\nDvadeset i prvi vijek nam draga dolazi\nA tebi nema traga\nDvadeset i prvi vijek nam draga dolazi\nA sreći nema traga\nA ѕreći nema tragа"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "The 21st century",
+        "content": "You have frozen up the sea, the crazy waves\nAnd hidden the pores, the first sweetest pores from me\n\nWhere are you blue-eyed, my life's miserable\nDoes someone love your heart away from me\nI still wear the old jumper you've knitted for me\nAnd forever split my heart\n\nWhen streets are quiet and tramways asleep\nAnd when the thick fog is swallowing me\nOnly half the heart is pounding, half's with you\nWhen we give life everything, it eats us alive\n\nThe 21st century is coming, my dear\nAnd you're nowhere to be found\nThe 21st century is coming, my dear\nAnd happiness is nowhere to be found\nAnd happiness is nowhere to be found\n\nThe breakfast is in bed, but love is outside it\nFarewell with you is most horrific\nYour light's still on, like an everlasting lighthouse\nWhy was I born, when I lose everything I own\n\nWhen you light up the stars, quietness sings\nDo you know how much I miss you\nMy life is worth nothing\nIt's decaying, like the old blue jeans\n\nThe 21st century is coming, my dear\nAnd you're nowhere to be found\nThe 21st century is coming, my dear\nAnd happiness is nowhere to be found\nAnd hаppiness iѕ nowhere to be found"
+      }
+    ],
+    "bpm": 99,
+    "tone": "F minor",
+    "artistPeople": [
+      "Davorin Popović"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Sinan Alimanović",
+      "Zlatan Fazlić"
+    ],
+    "conductor": "Sinan Alimanović",
+    "lyricists": [
+      "Zlatan Fazlić"
+    ],
+    "writers": null,
+    "broadcaster": "RTVBIH",
+    "commentators": [
+      "Ismeta Dervoz-Krvavac"
+    ],
+    "jury": null,
+    "spokesperson": "Diana Grković-Foretić"
+  },
+  {
+    "id": 19,
+    "country": "BE",
+    "artist": "Frédéric Etherlinck",
+    "song": "La voix est libre",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/YtcH83cV2Dg",
+      "https://www.youtube-nocookie.com/embed/K0Bf9hzO2kY",
+      "https://www.youtube-nocookie.com/embed/iVNDtTaC520"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "La voix est libre",
+        "content": "La voix est libre, libre de tout\nTout est possible et on s'en fout\nEn équilibre sur les genoux\nLa voix est libre, libre de tout\n\nLa voix est libre, libre de tout\nTout est possible et on s'en fout\nPrends-toi pour cible, tiens-toi debout\nLa voix est libre, libre de tout\n\nLibre de crier tes rêves\nLe matin quand tu te lèves\nT'inventer un face-à-face devant ta glace\nRegarde-toi dans les yeux et parle avec qui tu veux\nTu t'es pas levé pour rien, c'est déjà bien\n\nLa voix est libre, libre de tout\nTout est possible et on s'en fout\nEn équilibre sur les genoux\nLa voix est libre, libre de tout\n\nLibre d'effacer l'écran\nDe ces images en noir et sang\nTu peux changer les couleurs qui te font peur\n(Yeah, yeah, yeah...)\nQuand tu descends dans la rue, si on t'a pas reconnu\nT'as pas crié assez fort, essaie encore\n\nLa voix est libre, libre de tout\nTout est possible et on s'en fout\nEn équilibre sur les genoux\nLa voix est libre, libre de tout\n\nLa voix est libre, libre de tout\nTout est possible et tu t'en fous\nChacun sa bible écris partout\nLа voix eѕt libre, libre de tout"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "The voice is free",
+        "content": "The voice is free, free of everything\nEverything is possible and we don't give a damn\nBalanced on our knees\nThe voice is free, free of everything\n\nThe voice is free, free of everything\nEverything is possible and we don't give a damn\nTake yourself as target, carry on\nThe voice is free, free of everything\n\nFree to cry out your dreams\nWhen you wake up in the morning\nTo imagine that you have a duel with your reflection\nLook yourself in the eyes and talk to whom you want\nYou didn't wake up for nothing, it's fine already\n\nThe voice is free, free of everything\nEverything is possible and we don't give a damn\nBalanced on our knees\nThe voice is free, free of everything\n\nFree to wipe out your screen\nOf those black and bloody pictures\nYou can change the colours that scare you\n(Yeah, yeah, yeah...)\nWhen you run down the street, if they didn't recognise you\nYou didn't cry out loud enough, try again\n\nThe voice is free, free of everything\nEverything is possible and we don't give a damn\nBalanced on our knees\nThe voice is free, free of everything\n\nThe voice is free, free of everything\nEverything is possible and you don't give a damn\nEach person hаs his own written bible\nThe voice iѕ free, free of everything"
+      }
+    ],
+    "bpm": 154,
+    "tone": "A major",
+    "artistPeople": [
+      "Frédéric Maeterlinck"
+    ],
+    "backings": [
+      "Angelo Crisci",
+      "Anne Theunis",
+      "Emilio Raponi",
+      "Jean-Paul Furnémont",
+      "Pierre Theunis"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Alec Mansion",
+    "lyricists": null,
+    "writers": [
+      "Pierre Theunis"
+    ],
+    "broadcaster": "RTBF",
+    "commentators": [
+      "André Vermeulen",
+      "Jean-Pierre Hautier"
+    ],
+    "jury": null,
+    "spokesperson": "Marie-Françoise Renson"
+  },
+  {
+    "id": 20,
+    "country": "PT",
+    "artist": "Tó Cruz",
+    "song": "Baunilha e chocolate",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/JcEvZSxxU0I",
+      "https://www.youtube-nocookie.com/embed/1tc4WlVdZcE",
+      "https://www.youtube-nocookie.com/embed/hIxEVpHzPVU"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "portuguese"
+        ],
+        "displayedLanguages": null,
+        "title": "Baunilha e chocolate",
+        "content": "Que povo é este, teu e meu\nOnde passou deitou raíz?\nMudou o mar, mudou o céu\nOnde não era amanheceu\nFez do mundo o seu país\n\nE o teu avô andou por lá\nA minha avó pôs cá o pé\nNosso amor é todo mar\nTens perfume de luar\nTenho gosto de café\n\nAmada de branca pele\nÉs nata no meu chá mate\nTem mais paladar que o mel\nCasar baunilha com chocolate\n\nGaivota branca foi achar\nNaquelas terras mais a sul\nGente doce e musical\nQue em seu canto tropical\nPôs o sonho e o mar azul\n\nQuem temperou o nosso amor\nFeito à guitarra e violão\nNo vai-vem da caravela\nCom pimenta e com canela\nCom gindungo e açafrão\n\nAmada de branca pele\nÉs nata no meu chá mate\nTem mais paladar que o mel\nCasar baunilha com chocolate\n\nQue povo é este que partiu\nE foi dobrar o Bojador?\nEste povo que sentiu o feitiço, o desafio\nDe inventar um novo amor\n\nDas mãos unidas nasce a flor\nE cada beijo sabe a paz\nQuando a alma sente o amor\nTenha o corpo qualquer cor\nPreto ou branco tanto faz\n\nQuando a alma ѕente o amor\nTenha o corpo qualquer cor\nPreto ou branco tanto fаz"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Vanilla and chocolate",
+        "content": "Who are these people, yours and mine\nWhom had spread roots wherever they went?\nThey changed the sea, they changed the sky\nWhere there was no dawn\nThey made the world their country\n\nYour grandfather was in these parts\nMy grandmother was here too\nOur love is the entire ocean\nYour perfume is moonlight\nMy taste is coffee\n\nMy sweetheart with white skin\nYou are the cream in my dark tea\nIt's sweeter than honey\nA mixture of vanilla and chocolate\n\nA white seagull was found\nIn those southern lands\nSweet and musical people\nWhose tropical singing\nMade the dream and the sea blue\n\nWho flavoured our love\nMade by the Spanish and Portuguese guitar\nIn the to-and-fro of caravels\nWith pepper and cinnamon\nWith chilli and saffron?\n\nMy sweetheart with white skin\nYou are the cream in my dark tea\nIt's sweeter than honey\nA mixture of vanilla and chocolate\n\nWho were those people who lifted anchor\nAnd rounded Cape Bojador?\nThose people who fell under the spell, the challenge\nTo invent a new love\n\nWhen hands are joined, a flower is born\nAnd each kiss is blissful peace\nWhen our souls feel love\nWhatever the colour of our body\nBlack or white is of no importance\n\nWhen our souls feel love\nWhatever the colour of our body\nBlack or white iѕ of no importаnce"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "hebrew"
+        ],
+        "displayedLanguages": null,
+        "title": "וניל ושוקולד",
+        "content": "איזה מין עם זה, שלך ושלי\nשהכה שורש בכל מקום\nשינה את הים, שינה את השמיים\nראה את הבוקר עולה איפה שלא היה קודם\nהפך את כל העולם למדינתו\n\nסבך הלך שם\nסבתי דרכה פה\nאהבתנו גדולה כמו הים\nריחך הוא אור הירח\nטעמי הוא הקפֶה\n\nאהובה עם עור בהיר\nאת שמנת בתה החזק שלי\nטעימה יותר מדבש\nערבוב של וניל ושוקולד\n\nנמצא שחף לבן\nבארצות הדרומיות ההן\nאנשים טובים ומוזיקליים\nשעם שירתם הטרופית\nיצרו את החלום ואת הים הכחול\n\nמי תיבל את אהבתנו\nעם גיטרה ספרדית ופורטוגלית\nעם התנודות של ספינת המפרש\nעם פלפל וקינמון\nעם צ'ילי וזעפרן\n\nאהובה עם עור בהיר\nאת שמנת בתה החזק שלי\nטעימה יותר מדבש\nערבוב של וניל ושוקולד\n\nאיזה מין עם זה שהפליג\nוהקיף את כף בוז'דור\nהעם שהרגיש את הכישוף והאתגר\nלהמציא אהבה חדשה\n\nמהידיים המשולבות צומח פרח\nולכל נשיקה יש טעם של שלום\nכשהנשמה מרגישה אהבה\nלגוף יכול להיות כל צבע\nשחור או לבן – זה לא משנה\n\nכשהנשמה מרגישה אהבה\nלגוף יכול להיות כל צבע\nשחור או לבן – זה לא משנה"
+      },
+      {
+        "type": 2,
+        "languages": [
+          "spanish"
+        ],
+        "displayedLanguages": null,
+        "title": "Vainilla y chocolate",
+        "content": "¿Qué pueblo es éste tuyo y mío, donde pasó, hechó raíz?\nCambió el mar, cambió el cielo, donde no era amaneció\nHizo del mundo su país\n\nTu abuelo se fue por allá, mi abuela puso aquí su pie\nNuestro amor es todo mar, tienes olor de azahar\nTengo gusto de café\n\nAmada de blanca piel té y nata en taza mate\nTu sabes mejor que miel casar vainilla con chocolate\n\nGaviota blanca fue a hallar de aquellas tierras más al sur\nGente dulce y musical que en su canto tropical\nPuso el sueño y el mar azul\n\nY quién sazonó nuestro amor bajo guitarras y un refrán\nEn mecida carabela con pimienta y con canela\nMalagueta y azafrán\n\nAmada de blanca piel té y nata en taza mate\nTu sabes mejor que miel casar vainilla con chocolate\n\n¿Qué pueblo es este que marchó y fue a pasar el equador?\nEste pueblo que sintió el hechizo y se lanzó\nA inventar un nuevo amor\n\nDe manos juntas nace la flor y cada beso sabe a paz\nCuando el alma siente amor, que del cuerpo el color\n¿Negro o blanco? ¿Qué más da?\n\nCuando el alma siente amor, que del cuerpo el color\n¿Negro o blanco? ¿Qué máѕ dа?"
+      }
+    ],
+    "bpm": 91,
+    "tone": "G major",
+    "artistPeople": [
+      "António Cruz"
+    ],
+    "backings": [
+      "Ana Isabel",
+      "Ed Sant’ana",
+      "Maimuna Jalles",
+      "Maria de Deus",
+      "Susana Félix"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "António Vitorino de Almeida"
+    ],
+    "conductor": "Thilo Krasmann",
+    "lyricists": [
+      "Rosa Lobato de Faria"
+    ],
+    "writers": null,
+    "broadcaster": "RTP",
+    "commentators": [
+      "Ana do Carmo"
+    ],
+    "jury": null,
+    "spokesperson": "Serenella Andrade"
+  },
+  {
+    "id": 21,
+    "country": "HU",
+    "artist": "Csaba Szigeti",
+    "song": "Új név egy régi ház falán",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/Ok86PTKzv0s",
+      "https://www.youtube-nocookie.com/embed/MWh6EATr3q0"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "hungarian"
+        ],
+        "displayedLanguages": null,
+        "title": "Új név egy régi ház falán",
+        "content": "A terem lassan elsötétül\nZsúfolt már a nézőtér\nArcok lenn a félhomályban\nNézem, hátha eljöttél\nDe attól félek már\nBárhol állsz, a sűrűségben elveszel\nHa itt leszel\nHa most nem látlak, nem tudom\nMikor lesz rá újabb alkalom\n\nTegnap néhány ismerősöm\nMondott rólad néhány szót\nTúl vagy már a rosz időkön\nNikor minden mindegy volt\nHívtunk volna már\nDe a régi számon amit tudtam\nMás felel, vagy senki sem\nMáshol laksz, vagy mással élsz?\nHa találkozunk, majd mindent elmesélsz\n\nÚj név a régi ház falán\nÚj év ez könnyebb lesz talán\nMás kép egy album másik oldalán\nÚj név a régi ház falán\nÚj év ez könnyebb lesz talán\nMásképp minden értelmetlen volna már\n\nÚj név a régi ház falán\nÚj év ez könnyebb lesz talán\nMás kép egy album máѕik oldаlán\nÚj név…"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "A new name on the old house wall",
+        "content": "The hall is slowly getting darker\nThe auditorium is already crowded\nFaces down there in the semi-darkness\nI'm looking, maybe you have come\nBut I'm afraid\nWherever you are, you're lost in the crowd\nIf you are here\nIf I don't see you now, I don't know\nWhen there will be another chance\n\nYesterday some friends told me\nSome words about you\nYou went through bad times\nWhen everything was the same\nWe already called you\nBut at the old number that I knew\nSomebody else answered or nobody\nAre you staying or living somewhere else?\nWhen we meet, you have to tell me everything\n\nA new name on the old house wall\nA new year, maybe it will be easier\nAnother photograph on a new page of the album\nA new name on the old house wall\nA new year, maybe it will be easier\nOtherwise everything would be more incomprehensible\n\nA new name on the old house wall\nA new year, maybe it will be eaѕier\nAnother photograph on a new page of the album\nA new nаme…"
+      }
+    ],
+    "bpm": 163,
+    "tone": "C major",
+    "artistPeople": [
+      "Csaba Szigeti"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Ferenc Balázs"
+    ],
+    "conductor": "Miklós Malek",
+    "lyricists": [
+      "Attila Horváth"
+    ],
+    "writers": null,
+    "broadcaster": "MTV",
+    "commentators": [
+      "István Vágó"
+    ],
+    "jury": null,
+    "spokesperson": "Katalin Bogyay"
+  },
+  {
+    "id": 22,
+    "country": "DE",
+    "artist": "Stone and Stone",
+    "song": "Verliebt in Dich",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/3jGi32Xqg8g",
+      "https://www.youtube-nocookie.com/embed/ZT4Ku58GvkE",
+      "https://www.youtube-nocookie.com/embed/KHVcwiW7G4g",
+      "https://www.youtube-nocookie.com/embed/_cYjcuPf4oo"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "Verliebt in Dich",
+        "content": "Manchmal, wenn ich ratlos bin\nUnd mein Glaube sich verirrt\nTief in mir die Trauer brennt\nJage nur hinter Träumen her\n\nIst mein Leben endlos leer?\nFinde keinen Frieden mehr\nSehnsucht schreit – Geborgenheit\nDoch Du bist da neben mir\nHey...\n\nKennst du das Gefühl?\nDu bist allein und die Seele friert\nMensch sein ist so schwer\nTraue Deinem Engel tief in Dir\n\nGlaub mir, ich steh zu Dir\nDu allein bist der Grund dafür\nIch fühle Dich nah, so nah bei mir\nFängst alle meine Tränen auf\n\nOh Lord, bin verliebt in Dich\nKann mich nicht wehren, nicht zu erklären\nWas zwischen Himmel und Erde geschieht\nOh Lord, bin verliebt in Dich\nKann mich nicht wehren, nicht zu erklären\nErinnerung bleibt und erzählt von Dir\nAllein Du bist der Grund dafür\n\nAngst, ich lass dich weiter ziehen\nHab dich oft genug erkannt\nIch weiss, mir kann jetzt nichts passieren\nTrage ein Herz voll Licht in mir\n\nStille Nacht, ich traue Dir\nFür mich gibt es keine Zweifel mehr\nKann Dich niemals mehr verlieren\nEin Traum wird wahr, nur mit Dir\n\nOh Lord, bin verliebt in Dich\nKann mich nicht wehren, nicht zu erklären\nWas zwischen Himmel und Erde geschieht\nOh Lord, bin verliebt in Dich\nKann mich nicht wehren, nicht zu erklären\nErinnerung bleibt und erzählt von Dir\nAllein Du bist der Grund dafür\n\nDu kannst meine Seele sehen\nAll das Licht in ihr gehört nur Dir\n\nOh... bin verliebt in Dich\nKann mich nicht wehren, nicht zu erklären\nWаs zwischen Himmel und Erde geschieht\nBin so verliebt in Dich (Bin so verliebt in Dich)\nBin so verliebt in Dich (Bin ѕo verliebt...)"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "In love with You",
+        "content": "Sometimes when I'm helpless\nAnd my belief has lost its way\nThe grief burns deep inside of me\nI'm only hunting after dreams\n\nIs my life endlessly empty?\nFinding no more peace\nLonging cries – safety\nBut You are here beside me\nHey...\n\nDo you know this feeling?\nYou're alone and your soul freezes\nIt's so difficult to be a human being\nTrust in Your angel deep inside of You\n\nBelieve me, I'm loyal to You\nYou are the only reason for that\nI feel You near, so near to me\nYou catch all my tears\n\nOh Lord, I'm in love with You\nCan't restrain myself, can't explain\nWhat happens between heaven and earth\nOh Lord, I'm in love with You\nCan't restrain myself, can't explain\nMemory stays and tells about You\nOnly You are the reason for that\n\nFear, I let you pass away\nI recognised you often enough\nI know now that nothing can happen to me\nI carry a heart full of light inside of me\n\nSilent night, I trust in You\nThere are no more doubts for me\nI can never lose You\nA dream becomes true, just with You\n\nOh Lord, I'm in love with You\nCan't restrain myself, can't explain\nWhat happens between heaven and earth\nOh Lord, I'm in love with You\nCan't restrain myself, can't explain\nMemory stays and tells about You\nOnly You are the reason for that\n\nYou can see my soul\nAll the light inside me belongs to You\n\nOh... I'm in love with You\nCan't restrain myself, can't explain\nWhat happens between heaven and eаrth\nI'm so in love with You (I'm so in love with You)\nI'm so in love with You (I'm ѕo in love...)"
+      }
+    ],
+    "bpm": 85,
+    "tone": "D minor",
+    "artistPeople": [
+      "Cheyenne Stone",
+      "Glen Penniston"
+    ],
+    "backings": [
+      "Evert van der Wal",
+      "Jerry Rix",
+      "Julian Feiffel",
+      "Monika Griesback"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Herman Weindorf",
+    "lyricists": null,
+    "writers": [
+      "Cheyenne Stone"
+    ],
+    "broadcaster": "ARD",
+    "commentators": [
+      "Horst Senker"
+    ],
+    "jury": null,
+    "spokesperson": "Carmen Nebel"
+  }
+]

@@ -1,0 +1,946 @@
+[
+  {
+    "id": 0,
+    "country": "GB",
+    "artist": "Sandie Shaw",
+    "song": "Puppet on a String",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/gPbtFAQekqI",
+      "https://www.youtube-nocookie.com/embed/Ga1kMdJCc_Q",
+      "https://www.youtube-nocookie.com/embed/3pDEqvW5YAU",
+      "https://www.youtube-nocookie.com/embed/rJm2KaQRjGA",
+      "https://www.youtube-nocookie.com/embed/X9VkEww2C2s",
+      "https://www.youtube-nocookie.com/embed/F2QSHg9DyXo",
+      "https://www.youtube-nocookie.com/embed/P6yv1p9AKr4"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Puppet on a String",
+        "content": "I wonder if one day that you'll say that you care\nIf you say you love me madly, I'll gladly be there\nLike a puppet on a string\n\nLove is just like a merry-go-round\nWith all the fun of the fair\nOne day I'm feeling down on the ground\nThen I'm up in the air\nAre you leading me on?\nTomorrow, will you be gone?\n\nI wonder if one day that you'll say that you care\nIf you say you love me madly, I'll gladly be there\nLike a puppet on a string\n\nI may win on the roundabout\nThen I'll lose on the swings\nIn or out, there is never a doubt\nJust who's pulling the strings\nI'm all tied up in you\nBut where's it leading me to?\n\nI wonder if one day that you'll say that you care\nIf you say you love me madly, I'll gladly be there\nLike a puppet on a string\n\nI wonder if one day that you'll say that you care\nIf you say you love me madly, I'll gladly be there\nLike a puppet on a string\n\nLike a puppet on а ѕtring"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": null,
+        "title": "Μαριονέτα σε μια Χορδή",
+        "content": "Αναρωτιέμαι αν μία μέρα θα πεις ότι νοιάζεσαι\nΑν πεις ότι με αγαπάς τρελά, θα είμαι ευχαρίστως εκεί\nΣαν μια μαριονέτα σε μια χορδή\n\nΗ αγάπη είναι ακριβώς σαν ένα γαϊτανάκι\nΜε όλο το κέφι του πανηγυριού\nΜια μέρα νιώθω πεσμένος στο έδαφος\nΤότε είμαι στον αέρα\nΜε οδηγείς;\nΑύριο, θα φύγεις;\n\nΑναρωτιέμαι αν μία μέρα θα πεις ότι νοιάζεσαι\nΑν πεις ότι με αγαπάς τρελά, θα είμαι ευχαρίστως εκεί\nΣαν μια μαριονέτα σε μια χορδή\n\nΜπορεί να κερδίσω στον κυκλικό κόμβο\nΜετά θα χάσω στις κούνιες\nΜέσα ή έξω, δεν υπάρχει ποτέ αμφιβολία\nΑπλώς ποιος τραβάει τις χορδές\nΕίμαι όλη δεμένη σε εσένα\nΑλλά πού με οδηγεί;\n\nΑναρωτιέμαι αν μία μέρα θα πεις ότι νοιάζεσαι\nΑν πεις ότι με αγαπάς τρελά, θα είμαι ευχαρίστως εκεί\nΣαν μια μαριονέτα σε μια χορδή\n\nΑναρωτιέμαι αν μία μέρα θα πεις ότι νοιάζεσαι\nΑν πεις ότι με αγαπάς τρελά, θα είμαι ευχαρίστως εκεί\nΣαν μια μαριονέτα σε μια χορδή\n\nΣαν μια μαριονέτα σε μια χορδή"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "finnish"
+        ],
+        "displayedLanguages": null,
+        "title": "Nukke Narussa",
+        "content": "Mietin, sanotko joskus, että välität\nJos sanot rakastavasi minua hulluna, olen mielelläni siellä\nKuin nukke narussa\n\nRakkaus on kuin karuselli\nKaikki messujen hauskuus\nYhtenä päivänä tunnen oloni masentuneeksi\nSitten olen ylhäällä ilmassa\nJohdatko minua harhaan?\nHuomenna, oletko poissa?\n\nMietin, sanotko joskus, että välität\nJos sanot rakastavasi minua hulluna, olen mielelläni siellä\nKuin nukke narussa\n\nVoin voittaa liikenneympyrässä\nSitten häviän keinuissa\nSisään tai ulos, ei ole koskaan epäilystäkään\nVain kuka vetää naruista\nOlen täysin kietoutunut sinuun\nMutta mihin tämä vie minut?\n\nMietin, sanotko joskus, että välität\nJos sanot rakastavasi minua hulluna, olen mielelläni siellä\nKuin nukke narussa\n\nMietin, sanotko joskus, että välität\nJos sanot rakastavasi minua hulluna, olen mielelläni siellä\nKuin nukke narussa\n\nKuin nukke narusѕа"
+      }
+    ],
+    "bpm": 123,
+    "tone": "C minor",
+    "artistPeople": [
+      "Sandra Ann Goodrich"
+    ],
+    "backings": [
+      "Gloria George",
+      "Maggie Stredder",
+      "Marian Davies"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Kenny Woodman",
+    "lyricists": null,
+    "writers": [
+      "Bill Martin",
+      "Phil Coulter"
+    ],
+    "broadcaster": "BBC",
+    "commentators": [
+      "Rolf Harris"
+    ],
+    "jury": null,
+    "spokesperson": "Michael Aspel"
+  },
+  {
+    "id": 1,
+    "country": "IE",
+    "artist": "Sean Dunphy",
+    "song": "If I Could Choose",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/KtQ-EYcUnWQ",
+      "https://www.youtube-nocookie.com/embed/trIsoM6AYrc"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "If I Could Choose",
+        "content": "They envy me, my hills of Clare\nThe white gulls calling in the soft sea air\nSo much to lose\nAnd yet I'd leave the hills of Clare\nAnd live in a desert if I had you there\nWhat would I lose if I could choose?\n\nIf I could choose a place to walk with you\nI'd choose the longest road\nAnd it would lead us to a house that no one knew\nBellows by the fire, and the turf smoke rising higher\nThan the lark that wings and always sings of you\n\nIf I could choose a time to talk with you\nI'd choose the longest day\nAnd over all the hills of Clare, I'd shout the news\nI would tell them how a day could last forever\nAnd I'd never leave your side if I could choose\n\nIf I could choose a time to talk with you\nI'd choose the longest day\nAnd over all the hills of Clare, I'd shout the news\nI would tell them how a day could last forever\nAnd I'd never leаve your side if I could chooѕe"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": null,
+        "title": "Αν μπορούσα να επιλέξω",
+        "content": "Με ζηλεύουν, οι λόφοι του Κλερ\nΟι λευκοί πελαργοί καλούν στο απαλό θαλασσινό αεράκι\nΤόσα να χάσω\nΑλλά ακόμα θα άφηνα τους λόφους του Κλερ\nΚαι θα ζούσα σε έρημο αν σ' είχα εκεί\nΤι θα έχανα αν μπορούσα να επιλέξω;\n\nΑν μπορούσα να επιλέξω τόπο να περπατήσω μαζί σου\nΘα επέλεγα τον πιο μακρύ δρόμο\nΚαι θα μας έφερνε σε ένα σπίτι που κανείς δεν ήξερε\nΦυσερό κοντά στη φωτιά, και ο καπνός από χλόη θα πήγαινε πιο ψηλά\nΑπό τον κορυδαλλό που πετά και πάντα τραγουδά για σένα\n\nΑν μπορούσα να επιλέξω ώρα να περπατήσω μαζί σου\nΘα επέλεγα τη πιο μεγάλη μέρα\nΚαι πάνω απ' όλους τους λόγους του Κλερ, θα αναφωνούσα τα νέα\nΘα τους έλεγα πως μια μέρα θα μπορούσε να κρατήσει για πάντα\nΚαι δεν θα έφευγα ποτέ από το μέρος σου, αν μπορούσα να επιλέξω\n\nΑν μπορούσα να επιλέξω ώρα να περπατήσω μαζί σου\nΘα επέλεγα τη πιο μεγάλη μέρα\nΚαι πάνω απ' όλους τους λόγους του Κλερ, θα αναφωνούσα τα νέα\nΘα τους έλεγα πως μια μέρα θα μπορούσε να κρατήσει για πάντα\nΚαι δεν θα έφευγα ποτέ από το μέρος σου, αν μπορούσα να επιλέξω"
+      }
+    ],
+    "bpm": 94,
+    "tone": "F major",
+    "artistPeople": [
+      "Sean Dunphy"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Michael Coffey"
+    ],
+    "conductor": "Noel Kelehan",
+    "lyricists": [
+      "Wesley Burrowes"
+    ],
+    "writers": null,
+    "broadcaster": "RTÉ",
+    "commentators": [
+      "Brendan O'Reilly"
+    ],
+    "jury": null,
+    "spokesperson": "Gay Byrne"
+  },
+  {
+    "id": 2,
+    "country": "FR",
+    "artist": "Noëlle Cordier",
+    "song": "Il doit faire beau là-bas",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/9eWFFOduXWI",
+      "https://www.youtube-nocookie.com/embed/3_Hktnik5mk"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Il doit faire beau là-bas",
+        "content": "Il doit faire beau là-bas, dans ce joli pays\nDe ma fenêtre à moi, je vois tomber la pluie\n\nPuisque tu es parti, c'était pour être heureux\nSi tu as réussi tant mieux\n\nJe déteste tous ces gens avec lesquels tu vis sans moi\nJe déteste tous ces gens qui ne te parlent jamais de moi\n\nC'est l'hiver et le vent que je vais traverser\nC'est pour toi maintenant l'été\n\nIl doit faire beau là-bas, dans ce joli pays\nDe ma fenêtre à moi, je vois tomber la pluie\n\nDéjà quatre saisons ont passé sur nous deux\nEt sur notre maison il pleut\n\nJe déteste tous ces gens avec lesquels je vis sans toi\nJe déteste tous ces gens qui ne me parlent jamais de toi\n\nSi tu dois revenir, n'attends pas trop longtemps\nJe ne peux retenir le temps\n\nIl doit faire beau là-bas, dans ce joli pays\nDe ma fenêtre à moi, je vois ѕ'enfuir la vie\n\nLа vie…"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "The weather must be good there",
+        "content": "The weather must be good there, in that beautiful country\nFrom my own window, I see the rain falling\n\nAs you left, it was for being happy\nAll the best if you've been successful\n\nI hate all those people with whom you live without me\nI hate all those people who never speak to you about me\n\nIt's winter and I'll go through the wind\nIt's summer for you now\n\nThe weather must be good there, in that beautiful country\nFrom my own window, I see the rain falling\n\nFour seasons have already passed over us\nAnd it rains on our house\n\nI hate all those people with whom you live without me\nI hate all those people who never speak to me about you\n\nIf you have to come back, don't wait too long\nI can't hold the time\n\nThe weather must be good there, in that beautiful country\nFrom my own window, I see life eѕcаping\n\nLife…"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": null,
+        "title": "Πρέπει να κάνει ωραία ο καιρός εκεί",
+        "content": "Πρέπει να κάνει ωραία ο καιρός εκεί, σ' αυτήν την όμορφη χώρα\nΑπό το παράθυρο μου, βλέπω να πέφτει η βροχή\n\nΚαθώς έφευγες, ήταν για την χαρά\nΑν το κατάφερες, σου εύχομαι όλα τα καλύτερα\n\nΜισώ όλους αυτούς τους ανθρώπους, με τους οποίους ζεις χωρίς εμένα\nΜισώ όλους αυτούς τους ανθρώπους, που δεν σου μιλούν ποτέ για μένα\n\nΕίναι χειμώνα και άνεμο που θα περάσω\nΓια σένα είναι τώρα καλοκαίρι\n\nΠρέπει να κάνει ωραία ο καιρός εκεί, σ' αυτήν την όμορφη χώρα\nΑπό το παράθυρο μου, βλέπω να πέφτει η βροχή\n\nΤέσσερις εποχές έχουν ήδη περάσει πάνω μας\nΚαι πάνω στο σπίτι μας βρέχει\n\nΜισώ όλους αυτούς τους ανθρώπους, με τους οποίους ζω χωρίς εσένα\nΜισώ όλους αυτούς τους ανθρώπους, που δε μου μιλούν ποτέ για σένα\n\nΑν πρέπει να επιστρέψεις, μην περιμένεις πάρα πολύ\nΔεν μπορώ να κρατήσω τον καιρό\n\nΠρέπει να κάνει ωραία ο καιρός εκεί, σ' αυτήν την όμορφη χώρα\nΑπό το παράθυρο μου, βλέπω να φεύγει η ζωή\n\nΗ ζωή…"
+      }
+    ],
+    "bpm": 115,
+    "tone": "F major",
+    "artistPeople": [
+      "Noëlle Cordier"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Hubert Giraud"
+    ],
+    "conductor": "Franck Pourcel",
+    "lyricists": [
+      "Pierre Delanoë"
+    ],
+    "writers": null,
+    "broadcaster": "ORTF",
+    "commentators": [
+      "Pierre Tchernia"
+    ],
+    "jury": null,
+    "spokesperson": "Jean-Claude Massoulier"
+  },
+  {
+    "id": 3,
+    "country": "LU",
+    "artist": "Vicky",
+    "song": "L'amour est bleu",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/8uncLrAqIU8",
+      "https://www.youtube-nocookie.com/embed/YPYmjd10VV4",
+      "https://www.youtube-nocookie.com/embed/9FIw_SVGW4o"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "L'amour est bleu",
+        "content": "Doux, doux, l'amour est doux\nDouce est ma vie, ma vie dans tes bras\nDoux, doux, l'amour est doux\nDouce est ma vie, ma vie près de toi\n\nBleu, bleu, l'amour est bleu\nBerce mon cœur, mon cœur amoureux\nBleu, bleu, l'amour est bleu\nBleu comme le ciel qui joue dans tes yeux\n\nComme l'eau, comme l'eau qui court\nMoi, mon cœur court après ton amour\n\nGris, gris, l'amour est gris\nPleure mon cœur lorsque tu t'en vas\nGris, gris, le ciel est gris\nTombe la pluie quand tu n'es plus là\n\nLe vent, le vent gémit\nPleure le vent lorsque tu t'en vas\nLe vent, le vent maudit\nPleure mon cœur quand tu n'es plus là\n\nComme l'eau, comme l'eau qui court\nMoi, mon cœur court après ton amour\n\nBleu, bleu, l'amour est bleu\nLe ciel est bleu lorsque tu reviens\nBleu, bleu, l'amour est bleu\nL'amour est bleu quand tu prends ma main\n\nFou, fou, l'amour est fou\nFou comme toi et fou comme moi\nBleu, bleu, l'amour est bleu\nL'amour est bleu quand je suis à toi\n\nL'amour est bleu quаnd je suiѕ à toi"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Love is blue",
+        "content": "Sweet, sweet, love is sweet\nSweet is my life, my life in your arms\nSweet, sweet, love is sweet\nSweet is my life, my life close to you\n\nBlue, blue, love is blue\nCradle my heart, my loving heart\nBlue, blue, love is blue\nBlue like the sky which play in your eyes\n\nLike the water, like the running water\nMe, my heart runs after your love\n\nGrey, grey, love is grey\nMy heart weeps since you went away\nGrey, grey, the sky is grey\nThe rain falls when you're not there anymore\n\nThe wind, the wind moans\nThe wind weeps since you went away\nThe wind, the cursed wind\nMy heart weeps when you're not there anymore\n\nLike the water, like the running water\nMe, my heart runs after your love\n\nBlue, blue, love is blue\nThe sky is blue when you return\nBlue, blue, love is blue\nLove is blue when you take my hand\n\nMad, mad, love is mad\nMad like you and mad like me\nBlue, blue, love is blue\nLove is blue when I am yours\n\nLove is blue when I аm yourѕ"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": null,
+        "title": "Η αγάπη είναι μπλε",
+        "content": "Γλυκιά, γλυκιά, η αγάπη είναι γλυκιά\nΓλυκιά είναι η ζωή μου, η ζωή μου στην αγκάλη σου\nΓλυκιά, γλυκιά, η αγάπη είναι γλυκιά\nΓλυκιά είναι η ζωή μου, η ζωή μου κοντά σου\n\nΜπλε, μπλε, η αγάπη είναι μπλε\nΚρατά την καρδιά μου, την καρδιά μου την ερωτευμένη\nΜπλε, μπλε, η αγάπη είναι μπλε\nΜπλε όπως τον ουρανό που παίζει στα μάτια σου\n\nΣαν το νερό, σαν το νερό που τρέχει\nΕγώ, η καρδιά μου, τρέχει μετά την αγάπη σου\n\nΓκρι, γκρι, η αγάπη είναι γκρι\nΗ καρδιά μου κλαίει από τότε που έφυγες\nΓκρι, γκρι, ο ουρανός είναι γκρι\nΠέφτει η βροχή όταν δεν είσαι εδώ πια\n\nΟ άνεμος, ο άνεμος θρηνεί\nΚλαίει ο άνεμος από τότε που έφυγες\nΟ άνεμος, ο καταραμένος άνεμος\nΗ καρδιά μου κλαίει από τότε που έφυγες\n\nΣαν το νερό, σαν το νερό που τρέχει\nΕγώ, η καρδιά μου, τρέχει μετά την αγάπη σου\n\nΜπλε, μπλε, η αγάπη είναι μπλε\nΟ ουρανός είναι μπλε, σαν επιστρέψεις\nΜπλε, μπλε, η αγάπη είναι μπλε\nΗ αγάπη είναι μπλε όταν μου παίρνεις το χέρι\n\nΤρελή, τρελή, η αγάπη είναι τρελή\nΤρελή σαν εσένα και τρελή σαν εμένα\nΜπλε, μπλε, η αγάπη είναι μπλε\nΗ αγάπη είναι μπλε όταν είμαι δικιά σου\n\nΗ αγάπη είναι μπλε όταν είμαι δικιά σου"
+      }
+    ],
+    "bpm": 112,
+    "tone": "G major",
+    "artistPeople": [
+      "Vassiliki Papathanassiou"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "André Popp"
+    ],
+    "conductor": "Claude Denjean",
+    "lyricists": [
+      "Pierre Cour"
+    ],
+    "writers": null,
+    "broadcaster": "CLT",
+    "commentators": [
+      "Jacques Navadic"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 4,
+    "country": "MC",
+    "artist": "Minouche Barelli",
+    "song": "Boum-badaboum",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/K3sDCRt_yhc",
+      "https://www.youtube-nocookie.com/embed/e4akP8J1Gwc",
+      "https://www.youtube-nocookie.com/embed/E9TLj2s5GvA",
+      "https://www.youtube-nocookie.com/embed/lXYYshXH-EU"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Boum-badaboum",
+        "content": "(Cinq, quatre, trois, deux, un, zéro)\n\nBoum-badaboum, boum boum\nBoum-badaboum, boum boum\n\nAvant de faire tout sauter, boum boum\nLaissez-moi le temps d'aimer, badaboum\nLaissez-moi encore la vie, boum boum\nAu moins mille et une nuits, badaboum\n\nBoum-badaboum, boum boum\nBoum-badaboum, boum boum\n\nLaissez-moi encore la vie, boum boum\nAu moins mille et une nuits, badaboum\nLaissez-moi mille et un jours, boum boum\nAvant le compte à rebours, badaboum\n\nBoum-badaboum, boum boum\nBoum-badaboum, boum boum\nLaissez-moi vivre un peu\n(Huit, sept, six, cinq, quatre, trois, deux)\nAvant de m' faire la peau\n(Cinq, quatre, trois, deux, un, zéro)\n\nBoum-badaboum, boum boum\nBoum-badaboum, boum boum\n\nSi mes jours me sont comptés, boum boum\nJe ne veux pas seulement aimer, badaboum\nS'il est d'autres paradis, boum boum\nJe veux les connaître aussi, badaboum\n\nBoum-badaboum, boum boum\nBoum-badaboum, boum boum\n\nS'il est d'autres paradis, boum boum\nJe veux les connaître aussi, badaboum\nQuand j'aurai tout essayé, boum boum\nJe partirai sanѕ regret, badaboum\n\nBoum-badaboum, boum boum\nBoum-badaboum, boum boum\nBoum-badaboum, boum boum\nBoum-badаboum, boum boum"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Boum-badaboum",
+        "content": "(Five, four, three, two, one, zero)\n\nBoom-badaboom, boom boom\nBoom-badaboom, boom boom\n\nBefore blowing everything up, boom boom\nLeave me the time to love, badaboom\nStill leave me my life, boom boom\nAt least a thousand and one nights, badaboom\n\nBoom-badaboom, boom boom\nBoom-badaboom, boom boom\n\nStill leave me my life, boom boom\nAt least a thousand and one nights, badaboom\nLeave me a thousand and one days, boom boom\nBefore counting backwards, badaboom\n\nBoom-badaboom, boom boom\nBoom-badaboom, boom boom\nLet me live a little\n(Eight, seven, six, five, four, three)\nBefore killing me\n(Five, four, three, two, one, zero)\n\nBoom-badaboom, boom boom\nBoom-badaboom, boom boom\n\nIf my days are counted, boom boom\nI don't only want to love, badaboom\nIf there exist other paradises, boom boom\nI want to know them too, badaboom\n\nBoom-badaboom, boom boom\nBoum-badaboom, boom boom\n\nIf there exist other paradiseѕ, boom boom\nI want to know them too, badaboom\nWhen I have tried everything, boom boom\nI'll leave without regret, badaboom\n\nBoom-badaboom, boom boom\nBoom-badaboom, boom boom\nBoom-badaboom, boom boom\nBoom-badаboom, boom boom"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": null,
+        "title": "Μπουμ-μπανταμπούμ",
+        "content": "(Πέντε, τέσσερα, τρία, δύο, ένα, μηδέν)\n\nΜπουμ-μπανταμπούμ, μπουμ μπουμ\nΜπουμ-μπανταμπούμ, μπουμ μπουμ\n\nΠριν εκραγούν όλα, μπουμ μπουμ\nΑφήστε μου την ώρα ν' αγαπήσω, μπανταμπούμ\nΑφήστε μου ακόμα τη ζωή, μπουμ μπουμ\nΤουλάχιστον χίλιες και μία νύκτες, μπανταμπούμ\n\nΜπουμ-μπανταμπούμ, μπουμ μπουμ\nΜπουμ-μπανταμπούμ, μπουμ μπουμ\n\nΑφήστε μου ακόμα τη ζωή, μπουμ μπουμ\nΤουλάχιστον χίλιες και μία νύκτες, μπανταμπούμ\nΑφήστε μου χίλιες και μία μέρες, μπουμ μπουμ\nΠριν την αντίστροφη μέτρηση, μπανταμπούμ\n\nΜπουμ-μπανταμπούμ, μπουμ μπουμ\nΜπουμ-μπανταμπούμ, μπουμ μπουμ\nΑφήστε μου να ζήσω λίγο\n(Οκτώ, εφτά, έξι, πέντε, τέσσερα, τρία, δύο)\nΠριν με σκοτώσετε\n(Πέντε, τέσσερα, τρία, δύο, ένα, μηδέν)\n\nΜπουμ-μπανταμπούμ, μπουμ μπουμ\nΜπουμ-μπανταμπούμ, μπουμ μπουμ\n\nΑν η μέρες μου είναι μετρημένες, μπουμ μπουμ\nΔεν θέλω μόνο ν' αγαπήσω, μπανταμπούμ\nΑν υπάρχουν άλλοι παράδεισοι, μπουμ μπουμ\nΘέλω να τους γνωρίσω και κείνους, μπανταμπούμ\n\nΜπουμ-μπανταμπούμ, μπουμ μπουμ\nΜπουμ-μπανταμπούμ, μπουμ μπουμ\n\nΑν υπάρχουν άλλοι παράδεισοι, μπουμ μπουμ\nΘέλω να τους γνωρίσω και κείνους, μπανταμπούμ\nΌταν θα τα έχω όλα δοκιμάσει, μπουμ μπουμ\nΘα φύγω χωρίς μετάνοια, μπανταμπούμ\n\nΜπουμ-μπανταμπούμ, μπουμ μπουμ\nΜπουμ-μπανταμπούμ, μπουμ μπουμ\nΜπουμ-μπανταμπούμ, μπουμ μπουμ\nΜπουμ-μπανταμπούμ, μπουμ μπουμ"
+      }
+    ],
+    "bpm": 135,
+    "tone": "F# major",
+    "artistPeople": [
+      "Marie-Pierre Barelli"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Michel Colombier",
+      "Serge Gainsbourg"
+    ],
+    "conductor": "Aimé Barelli",
+    "lyricists": [
+      "Serge Gainsbourg"
+    ],
+    "writers": null,
+    "broadcaster": "TMC",
+    "commentators": [
+      "Pierre Tchernia"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 5,
+    "country": "ES",
+    "artist": "Raphael",
+    "song": "Hablemos del amor",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/rlvaSsUB86U",
+      "https://www.youtube-nocookie.com/embed/nQL3CkEjRWM",
+      "https://www.youtube-nocookie.com/embed/4WleuihRCQw",
+      "https://www.youtube-nocookie.com/embed/apLXfZlAANM"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "spanish"
+        ],
+        "displayedLanguages": null,
+        "title": "Hablemos del amor",
+        "content": "Hablemos del amor\nUna vez más\nQue es toda la verdad de nuestra vida\nParemos un momento las horas y los días\nY hablemos del amor una vez más\n\nHablemos de mi amor\nY de tu amor\nDe la primera vez que nos miramos\nAcércame tus manos y unidos en la sombra\nHablemos del amor una vez más\n\n¿Qué nos importa? ¿Qué nos importa?\nAquella gente que mira la tierra\nY no ve más que tierra\n¿Qué nos importa? ¿Qué nos importa?\nToda esa gente que viene y que va\nPor el mundo sin ver la realidad\n\nHablemos de mi amor\nY de tu amor\nDe la primera vez que nos miramos\nAcércame tus manos y unidos en la sombra\nHablemos del amor una vez más\n\n¿Qué nos importa? ¿Qué nos importa?\nAquella gente que mira la tierra\nY no ve más que tierra\n¿Qué nos importa? ¿Qué nos importa?\nToda esa gente que viene y que va\nPor el mundo sin ver...\n\n¿Qué nos importa?\nNo hagamos caso de nadie\nY hablemos de amor\nDe nueѕtro аmor"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Let's talk about love",
+        "content": "Let's talk about love\nOne more time\nIt's all the truth in our life\nLet's stop the hours and the days for a moment\nAnd let's talk about love one more time\n\nLet's talk about my love\nAnd about your love\nAbout the first time we looked to each other\nGive me your hands and let's talk together in the shadow\nAbout love one more time\n\nWhat does it matter? What does it matter?\nAll those people that look at the earth\nAnd see nothing more but earth\nWhat does it matter? What does it matter?\nAll those people coming and going\nAlong the world without seeing the truth\n\nLet's talk about my love\nAnd about your love\nAbout the first time that we looked to each other\nGive me your hands and let's talk together in the shadow\nAbout love one more time\n\nWhat does it matter? What does it matter?\nAll those people that look at the earth\nAnd see nothing more but earth\nWhat does it matter? What does it matter?\nAll those people coming and going\nAlong the world without seeing...\n\nWhat does it matter?\nLet's not pay attention to anyone\nAnd let'ѕ talk аbout love\nAbout our love"
+      }
+    ],
+    "bpm": 102,
+    "tone": "F major",
+    "artistPeople": [
+      "Miguel Rafael Martos Sánchez"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Manuel Alejandro",
+    "lyricists": null,
+    "writers": [
+      "Manuel Alejandro"
+    ],
+    "broadcaster": "TVE",
+    "commentators": [
+      "Federico Gallo"
+    ],
+    "jury": null,
+    "spokesperson": "Blanca Álvarez"
+  },
+  {
+    "id": 6,
+    "country": "BE",
+    "artist": "Louis Neefs",
+    "song": "Ik heb zorgen",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/SDXe3A8a5NM",
+      "https://www.youtube-nocookie.com/embed/TevhC0Gw1fQ",
+      "https://www.youtube-nocookie.com/embed/KjfSIPPdKxY"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "dutch"
+        ],
+        "displayedLanguages": null,
+        "title": "Ik heb zorgen",
+        "content": "Oh oh, ik heb zorgen, oh oh, ik heb zorgen\nOh oh, ik heb zorgen en dat verveelt me zo\nOh oh, ik heb zorgen, oh oh, ik heb zorgen\nOh oh, ik heb zorgen en dat verveelt me zo\n\nZij was zo mooi, mooi als een lentelied\nMooier kon ze niet zijn\nZij was zo mooi, mooi als men zelden ziet\nEn er was maneschijn, mmm...\n\nOh oh, ik heb zorgen, oh oh, ik heb zorgen\nOh oh, ik heb zorgen en dat verveelt me zo\n\nHaar eerste zoen, zoen, die kwam net op tijd\nOh oh oh, wat een zoen\nEn ik dacht toen, laat ons die heerlijkheid\nNog maar eens overdoen, mmm...\n\nOh oh, ik heb zorgen, oh oh, ik heb zorgen\nOh oh, ik heb zorgen en dat verveelt me zo\n\nErgens heel ver, ver in een dennenboom\nZong toen die nachtegaal\nEn hij bracht mij de allerliefѕte droom\nEn die werd mij fataal, mmm...\n\nOh oh, ik heb zorgen, oh oh, ik heb zorgen\nOh oh, ik heb zorgen en dat verveelt me zo\nOh oh, ik heb zorgen, oh oh, ik heb zorgen\nOh oh, ik heb zorgen en dat verveelt me zo\n\nOh oh, ik heb zorgen, oh oh, ik heb zorgen\nOh oh, ik heb zorgen en dаt verveelt me zo"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "I have worries",
+        "content": "Oh oh, I have worries, oh oh, I have worries\nOh oh, I have worries and that bothers me so much\nOh oh, I have worries, oh oh, I have worries\nOh oh, I have worries and that bothers me so much\n\nShe was as beautiful, beautiful as a spring song\nShe couldn't be more beautiful\nShe was as beautiful, beautiful as one seldom sees\nAnd there was moonlight, mmm...\n\nOh oh, I have worries, oh oh, I have worries\nOh oh, I have worries and that bothers me so much\n\nHer first kiss, kiss, it came just in time\nOh oh oh, what a kiss\nAnd then I thought, let's do this glory\nOne time again, mmm...\n\nOh oh, I have worries, oh oh, I have worries\nOh oh, I have worries and that bothers me so much\n\nSomewhere far away, far away in a pine\nThat nightingale was singing\nAnd it brought to me my dearest dream\nAnd that dream was fatal to me, mmm...\n\nOh oh, I have worries, oh oh, I have worries\nOh oh, I have worries and that bothers me so much\nOh oh, I have worries, oh oh, I have worries\nOh oh, I have worries and that bothers me so much\n\nOh oh, I have worries, oh oh, I have worries\nOh oh, I have worries and thаt bothers me ѕo much"
+      }
+    ],
+    "bpm": 178,
+    "tone": "C# minor",
+    "artistPeople": [
+      "Ludwig Neefs"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Paul Quintens"
+    ],
+    "conductor": "Francis Bay",
+    "lyricists": [
+      "Phil van Cauwenbergh"
+    ],
+    "writers": null,
+    "broadcaster": "BRT",
+    "commentators": [
+      "Herman Verelst",
+      "Paule Herreman"
+    ],
+    "jury": null,
+    "spokesperson": "Ward Bogaert"
+  },
+  {
+    "id": 7,
+    "country": "SE",
+    "artist": "Östen Warnerbring",
+    "song": "Som en dröm",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/egGTA2yU0RU",
+      "https://www.youtube-nocookie.com/embed/x6cc4Wt29xM",
+      "https://www.youtube-nocookie.com/embed/xrMf6I_E-uM",
+      "https://www.youtube-nocookie.com/embed/FaEvbQiIIYQ"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "swedish"
+        ],
+        "displayedLanguages": null,
+        "title": "Som en dröm",
+        "content": "Som en dröm om ett paradis\nI en dröm och genom tårars dis\nHar jag sökt få ett svar\n\nSom en dröm genom nattens ljus\nKände jag som utav vingars sus\nDin mjuka hand emot min kind\n\nDu och jag, vi sökte samma svar\nSå trevande, utan att veta var\nGe mig din hand, så blir vår dröm till liv\nRäck mig din hand\n\nSom en dröm är mitt liv med dig\nI min dröm, där är du allt för mig\nOch mina drömmens svar\n\nI min dröm om en evighet\nHar jag nu funnit en verklighet\nJa, du är drömmens svar till mig\n\nDu och jag, vi sökte samma svar\nSå trevande, utan att veta var\nGe mig din hand, ѕå blir vår dröm till liv\nRäck mig din hаnd"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Like a dream",
+        "content": "Like a dream of paradise\nIn a dream and through the mist of tears\nI've searched for an answer\n\nLike a dream through the lights of the night\nI felt, like the gentle sound of wings\nYour hand against my cheek\n\nYou and I, we search the same answers\nSo hesitantly without knowing where to look\nGive me your hand, and our dream will come true\nGive me your hand\n\nLike a dream is my life with you\nIn my dream, you are everything to me\nAnd the answers of my dreams\n\nIn my dream of eternity\nI have now found a reality\nYes, you are the answer to my dreams\n\nYou and I, we search the same answers\nSo heѕitantly without knowing where to look\nGive me your hand, and our dream will come true\nGive me your hаnd"
+      }
+    ],
+    "bpm": 94,
+    "tone": "E minor",
+    "artistPeople": [
+      "Östen Warnerbring"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Curt Petterson",
+      "Marcus Österdahl"
+    ],
+    "conductor": "Mats Olsson",
+    "lyricists": [
+      "Patrice Hellberg"
+    ],
+    "writers": null,
+    "broadcaster": "SR",
+    "commentators": [
+      "Christina Hansegård"
+    ],
+    "jury": null,
+    "spokesperson": "Edvard Matz"
+  },
+  {
+    "id": 8,
+    "country": "DE",
+    "artist": "Inge Brück",
+    "song": "Anouschka",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/snx9B6tKuGU",
+      "https://www.youtube-nocookie.com/embed/yEof5Fkw8eQ",
+      "https://www.youtube-nocookie.com/embed/7vk2XsZ00Vk"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "Anouschka",
+        "content": "Musst nicht weinen, kleine Anouschka\nEr kommt wieder, kleine Anouschka\nWenn der Frühling kommt, wenn die Blumen blühn\nIst er wieder bei dir\n\nDeine Augen, kleine Anouschka\nSind voll Tränen, kleine Anouschka\nDoch die Welt ist weit, es verrinnt die Zeit\nTränen trocknet der Wind\n\nWenn es die wahre Liebe ist\nWird alles wieder gut\nDann kommt er auch zurück\nDenn er denkt an dich, immerzu an dich\n\nAnouschka\nSoviel Freude, kleine Anouschka\nWirst du haben, kleine Anouѕchka\nWenn der Frühling kommt, wenn die Blumen blühn\nEuer Leben beginnt\n\nLalalala lalalala...\nLalala lalala...\nDann kommt er auch zurück\nDenn er denkt an dich, immerzu аn dich\nAn dich"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Anouschka",
+        "content": "No need to cry, little Anouschka\nHe'll come back, little Anouschka\nWhen spring comes and the flowers bloom\nHe'll be back with you\n\nYour eyes, little Anouschka\nAre full of tears, little Anouschka\nBut the world is big, the time passes by\nAnd tears will be dried by the wind\n\nIf it's true love\nEverything will turn out fine\nThen he will come back\nBecause he's thinking of you, always of you\n\nAnouschka\nSo much joy, little Anouschka\nYou will have, little Anouschka\nWhen spring comes and the flowers bloom\nYour lives will begin\n\nLalalala lalalala...\nLalala lalala...\nThen he will come back\nBecause he's thinking of you, alwаyѕ of you\nOf you"
+      }
+    ],
+    "bpm": 123,
+    "tone": "B major",
+    "artistPeople": [
+      "Inge Brück"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Hans Blum",
+    "lyricists": null,
+    "writers": [
+      "Hans Blum"
+    ],
+    "broadcaster": "ARD",
+    "commentators": [
+      "Hans-Joachim Rauschenbach"
+    ],
+    "jury": null,
+    "spokesperson": "Karin Tietze-Ludwig"
+  },
+  {
+    "id": 9,
+    "country": "YU",
+    "artist": "Lado Leskovar",
+    "song": "Vse rože sveta",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/GjKYl7gdMwg",
+      "https://www.youtube-nocookie.com/embed/qNM-eROeD3I"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "slovene"
+        ],
+        "displayedLanguages": null,
+        "title": "Vse rože sveta",
+        "content": "Strel samo za pozdrav\nIn za zlovo je planil v noč\nSredi trav pokopan tu leži\nKjer je pal brez besede na ustih\n\nJaz pa čakam pomladi\nSlutim nežne dlani moje drage\nČutim božanje las in besedi dve\nBrez besed, sredi trav\nKo pomlad je tu\n\n<i style=\"color:#789\">Zakaj me ta beseda trobente spominja na tiste\nKi nimajo več pravih besed na ustih?</i>\n\nLe zakaj vse te rože\nSredi polja leže in trohnijo?\nDa bi vsi ti ljudje\nZaslutili čas\nIn pomlad, ki za vse\nJe enkrat ѕаmo"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "All the flowers of this world",
+        "content": "A shot just to salute\nAnd to say goodbye and off he went into night\nBuried in the middle of the grass, he lies here\nWhere he fell down without a word on his lips\n\nI'm waiting for spring\nI can sense the tender palms of my dear\nI feel the caress of my hair and some words\nWithout words among the grass\nWhen the spring is here\n\n<i style=\"color:#789\">Why does the sound of the trumpet reminds me of those\nWho don't have the right words in their mouths?</i>\n\nWhy do all these flowers\nLie and fester in the middle of the field?\nSo that all these people would\nAnticipate the time\nAnd the spring that for аll comeѕ\nOnly once"
+      }
+    ],
+    "bpm": 106,
+    "tone": "E major",
+    "artistPeople": [
+      "Lado Leskovar"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Urban Koder"
+    ],
+    "conductor": "Mario Rijaveć",
+    "lyricists": [
+      "Milan Lindič"
+    ],
+    "writers": null,
+    "broadcaster": "JRT",
+    "commentators": [
+      "Miloje Orlović",
+      "Mladen Delić",
+      "Tomaž Terček"
+    ],
+    "jury": null,
+    "spokesperson": "Saša Novak"
+  },
+  {
+    "id": 10,
+    "country": "IT",
+    "artist": "Claudio Villa",
+    "song": "Non andare più lontano",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/FlnJLOjsV44",
+      "https://www.youtube-nocookie.com/embed/r2Wfa1LvZ0w"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "italian"
+        ],
+        "displayedLanguages": null,
+        "title": "Non andare più lontano",
+        "content": "Amore, amore, non andare più lontano\nIl mondo non è quello dei tuoi sogni\nLa gente non è come pensi tu\n\nAmore, amore, non andare più lontano\nE stringimi le mani per capire\nChe io posso piangere per te\n\nAl tuo paese, la terra è sempre umida di nebbia\nE le persone sono tutte uguali:\nNon hanno tanti sogni come te\n\nIo le ho guardate, non hanno neanche il pane per campare\nNon hanno niente, ma si sanno amare\nE allora sono ricche più di te\n\nAmore, amore, non andare più lontano\nIl mondo non è quello dei tuoi sogni\nLa gente non è come pensi tu\n\nAmore, amore, non andare più lontano\nE stringimi le mani per capire\nChe io posso piangere per te\n\nAmore\n\nAmore, amore, non andare più lontano\nE stringimi le mani per capire\nChe io posѕo piangere per te\n\nAmore... amore... аmore"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Don't go far away anymore",
+        "content": "My love, my love, don't go far away anymore\nThe world is not the one from your dreams\nPeople are not as you think\n\nMy love, my love, don't go far away anymore\nAnd hold my hands to understand\nThat I can cry for you\n\nIn your countryside, the earth is always damp of mist\nAnd people are all the same\nThey don't have as many dreams as you have\n\nI've watched them, they even don't have bread for living\nThey don't have anything, but they know how to love\nAnd now they're richer than you\n\nMy love, my love, don't go far away anymore\nThe world is not the one from your dreams\nPeople are not as you think\n\nMy love, my love, don't go far away anymore\nAnd hold my hands to understand\nThat I can cry for you\n\nMy love\n\nMy love, my love, don't go far away anymore\nAnd hold my hands to underѕtand\nThat I cаn cry for you\n\nMy love... my love... my love"
+      }
+    ],
+    "bpm": 97,
+    "tone": "E minor",
+    "artistPeople": [
+      "Claudio Pica"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Gino Mescoli"
+    ],
+    "conductor": "Giancarlo Chiaramello",
+    "lyricists": [
+      "Vito Pallavicini"
+    ],
+    "writers": null,
+    "broadcaster": "RAI",
+    "commentators": [
+      "Renato Tagliani"
+    ],
+    "jury": null,
+    "spokesperson": "Mike Bongiorno"
+  },
+  {
+    "id": 11,
+    "country": "PT",
+    "artist": "Eduardo Nascimento",
+    "song": "O vento mudou",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/vylnyd4skSo",
+      "https://www.youtube-nocookie.com/embed/Hf4NizmlouY",
+      "https://www.youtube-nocookie.com/embed/YcDQ42MOaGg",
+      "https://www.youtube-nocookie.com/embed/1ArowgqxlTU"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "portuguese"
+        ],
+        "displayedLanguages": null,
+        "title": "O vento mudou",
+        "content": "Oiçam, oiçam: o vento mudou e ela não voltou\nAs aves partiram, as folhas caíram\n\nEla quis viver e o mundo correr\nPrometeu voltar se o vento mudar\n\nE o vento mudou e ela não voltou\nSei que ela mentiu, p'ra sempre fugiu\nVento, por favor, traz-me o seu amor\nVê que eu vou morrer se não mais a ter\n\nNuvens, tenham dó que eu estou tão só\nBatam-lhe à janela, chorem sobre ela\n\nE as nuvens choraram e quando voltaram\nSoube que mentira, p'ra sempre fugira\nNuvens, por favor, cubram minha dor\nJá que eu vou morrer se não maiѕ a ter\n\nOiçam! Oiçam! Oiçam! Oiçam! Oiçаm!"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "The wind changed",
+        "content": "Listen, listen: the wind changed and she didn't return\nThe birds flew away, the leaves fell on the ground\n\nShe wanted to live and travel around the world\nShe promised to return if the wind changed\n\nAnd the wind changed and she didn't return\nI know that she lied, and ran away forever\nWind, if you can, bring me back her love\nBecause I'm going to die, without her by my side\n\nClouds, have mercy with this lonely me\nKnock on her window, cry over her\n\nAnd the clouds have cried, and when they came back\nI knew that she lied, and ran away forever\nClouds, please cover my pain\nBecаuse I'm going to die, without her by my side\n\nListen! Listen! Listen! Listen! Liѕten!"
+      }
+    ],
+    "bpm": 148,
+    "tone": "A major",
+    "artistPeople": [
+      "Eduardo Nascimento"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Nuno Nazareth Fernandes"
+    ],
+    "conductor": "Armando Tavares Belo",
+    "lyricists": [
+      "João Magalhães Pereira"
+    ],
+    "writers": null,
+    "broadcaster": "RTP",
+    "commentators": [
+      "Henrique Mendes"
+    ],
+    "jury": null,
+    "spokesperson": "Maria Manuela Furtado"
+  },
+  {
+    "id": 12,
+    "country": "FI",
+    "artist": "Fredi",
+    "song": "Varjoon-suojaan",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/-GrU7Jfc9HM",
+      "https://www.youtube-nocookie.com/embed/yJpToVQ07C8"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "finnish"
+        ],
+        "displayedLanguages": null,
+        "title": "Varjoon-suojaan",
+        "content": "Varjoon alta polttavan auringon\nVarjoon tieltä tuskien päästävä on\nSuojaan alta hehkuvan taivahan\nSuojaan luokse vihreän keitahan\n\nYllä auringon hohde, alla on polttava maa\nMielessä varjoisa kohde, jonne yksin kulkea saan\n\nVarjoon alta polttavan auringon\nVarjoon pian pois minun päästävä on\nSuojaan alta hehkuvan taivahan\nSuojaan alle lehdistön tuuhean\n\nVarjoon valokeilojen julkeain\nVarjoon tahdon seurasta kuuluisain\nSuojaan luota polttavan rakkauden\nSuojaan luokse kaipauksen hiljaisen\n\nRauhaton eloni on vain, kaiken nyt kestää mä saan\nJo mainetta kylliksi sain, rauhaan mä kaipailen vaan\n\nVarjoon valokeiloista tahdon pois\nVarjoon yksinäistä vaikk' siellä ois\nSuojaan tahdon viimeinkin rauhaisaan\nSilloin vasta onneni vihdoin ѕaаn"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "To the shadow – to safety",
+        "content": "Into the shadow from under the burning sun\nI must get into the shadow from the street of pain\nTo safety from under the glowing sky\nTo safety, to a green oasis\n\nAbove is the shining sun, underneath is the burning ground\nIn the mind the shady resort, where I can go by myself\n\nInto the shadow from under the burning sun\nI must soon get away, into the shadow\nTo safety from under the glowing sky\nTo safety under bushy leaves\n\nInto the shadow from the shameless spotlights\nI want to get into the shadow, away from the company of the famous\nTo safety, away from the burning love\nTo safety of silent longing\n\nMy life is just restless, now I have to stand everything\nI already got enough fame, rest is all I miss\n\nI want to get into the shadow, away from the spotlights\nInto the shadow, although it would be lonely there\nI want to go to the peaceful safety, eventually\nThat's when I could finally find my hаppinesѕ"
+      }
+    ],
+    "bpm": 113,
+    "tone": "Bb major",
+    "artistPeople": [
+      "Matti Kalevi Siitonen"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Lasse Mårtenson"
+    ],
+    "conductor": "Ossi Runne",
+    "lyricists": [
+      "Alvi Vuorinen"
+    ],
+    "writers": null,
+    "broadcaster": "YLE",
+    "commentators": [
+      "Aarno Walli"
+    ],
+    "jury": null,
+    "spokesperson": "Poppe Berg"
+  },
+  {
+    "id": 13,
+    "country": "NL",
+    "artist": "Thérèse Steinmetz",
+    "song": "Ring-dinge",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/54AX_A4Fcks",
+      "https://www.youtube-nocookie.com/embed/6QMY3pmYFO8"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "dutch"
+        ],
+        "displayedLanguages": null,
+        "title": "Ring-dinge",
+        "content": "Dit wordt een ring-dinge-dinge-ding\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding\nRinge-ding dag\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding dag\n\nAls ik zin heb om hardop te zingen\nDoor het huis en de straten te springen\nAls een straatmuzikant, heel elegant\nVoor me buigt met z'n hoed in de hand\n\nAls ik 's morgens al wodka wil drinken\nEn spontaan met de bakker wil klinken\nNou, dan is het geen vraag:\nDit wordt vandaag weer een dag zonder één dissonant\n\nDit wordt een ring-dinge-dinge-ding\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding\nRinge-ding dag\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding dag\n\nAls ik lach om een hand vol met nieten\nEn de haan van de toren wil schieten\nMet een waterkanon, in een ballon\nDoor de lucht zweef en stoei met de zon\n\nAls ik voel dat ik uren kan feesten\nEn het minste verruil voor het meeste\nNou, dan is het geen vraag\nIk doe vandaag weer een bod op een groot carillon\n\nDit wordt een ring-dinge-dinge-ding\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding\nRinge-ding dag\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding dag\n\nAls ik straks een minister ga bellen\nOm de mop van de dag te vertellen\nAls ik dans, als ik zwaai, vraag om lawaai\nNou, dan heb ik vandaag weer m'n draai\n\nAls ik 's avonds een beatband wil huren\nVoor een plechtig diner met de buren\nAls dan iedereen lacht, zeg ik vannacht:\n\"Deze dag was weer eindeloos fraai\"\n\nDit was een ring-dinge-dinge-ding\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding\nRinge-ding dag\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding dag\n\nDit waѕ een ring-dinge-dinge-ding\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding\nDinge-ding dag\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding dag\n\nRing-dinge-dinge-ding dag\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding\nRing-dinge-dinge-ding dаg"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Ring-ding",
+        "content": "This will be a ring-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-a-ding day\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding day\n\nWhen I feel like singing out loud\nJumping through the house and the streets\nWhen a street musician, very elegantly\nBows to me with hat in hand\n\nWhen I feel like drinking vodka in the morning\nAnd clinking spontaneously with the baker\nWell, then it's no question:\nToday will be again a day without one dissonance\n\nThis will be a ring-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-a-ding day\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding day\n\nWhen I laugh about a hand full of blanks\nAnd when I want to shoot the weathercock off the tower\nWith a water cannon, in a balloon\nWhen I float through the air and frolick with the sun\n\nWhen I feel that I can party for hours\nAnd exchange the less for the most\nNow, then it's no question\nToday I make a bid for a big carillon\n\nThis will be a ring-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-a-ding day\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding day\n\nWhen I'm going to call a minister\nTo tell the joke of the day\nWhen I dance, when I swing, ask for noise\nWell, then I found my niche\n\nWhen I want to hire a beat group for the evening\nFor a solemn dinner with the neighbours\nWhen everyone laughs then, I'll say tonight:\n\"This day was again endlessly fine\"\n\nThis was a ring-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-a-ding day\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding day\n\nThis waѕ a ring-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nDing-a-ding day\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding day\n\nRing-ding-a-ding-a-ding day\nRing-ding-a-ding-a-ding\nRing-ding-a-ding-a-ding\nRing ding-a-ding-a-ding dаy"
+      }
+    ],
+    "bpm": 114,
+    "tone": "C minor",
+    "artistPeople": [
+      "Thérèse Steinmetz"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Johnny Woodhouse"
+    ],
+    "conductor": "Dolf van der Linden",
+    "lyricists": [
+      "Gerrit den Braber"
+    ],
+    "writers": null,
+    "broadcaster": "NTS",
+    "commentators": [
+      "Leo Nelissen"
+    ],
+    "jury": null,
+    "spokesperson": "Ellen Blazer"
+  },
+  {
+    "id": 14,
+    "country": "AT",
+    "artist": "Peter Horten",
+    "song": "Warum es hunderttausend Sterne gibt",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/ZgnZfdkQ530"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "Warum es hunderttausend Sterne gibt",
+        "content": "Warum es hunderttausend Sterne gibt\nDes Nachts am weiten blauen Himmelszelt?\nWarum ein Mensch oft einen anderen liebt\nViel mehr als alles auf der Welt?\n\nWarum Millionen Blumen blühen\nUnd die Sonne scheint für Arm und Reich?\nDass Jugend und Vergehen\nHier auf Erden für alle gleich?\n\nWas immer auch für dich bestimmt\nNimm als dein Schicksal hin\nVielleicht erkennt dein Herz\nDaraus des Lebens wahren Sinn\n\nWarum es hunderttausend Sterne gibt\nDes Nachts am weiten blauen Himmelszelt?\nWarum es immer wieder Wunder gibt\nEin Herz oft treu zum andern hält?\n\nWarum es auch für Arme wieder Frühling wird\nOft schöner als für den, der Reich?\nWeil für den einen überm Himmelszelt\nJa, alle Menschen auf der Erde gleich\nWeil für den einen überm Himmelszelt\nJa, alle Menѕchen аuf der Erde gleich"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Why are there a hundred thousand stars",
+        "content": "Why are there a hundred thousand stars\nAt night in the deep blue sky?\nWhy does someone often love someone else\nMuch more than anything else in the world?\n\nWhy do millions of flowers bloom\nAnd does the sun shine for the poor and rich?\nIs youth and dying\nHere on earth equal for everyone?\n\nWhat ever is destined for you\nTake it as your destiny\nPerhaps your heart realizes\nThis way, the real sense of life\n\nWhy are there a hundred thousand stars\nAt night in the deep blue sky?\nWhy are there always miracles?\nHolds a heart often truely to another heart?\n\nWhy does also for the poor the springtime come\nOften more beautiful than for the rich?\nBecause for God in heaven\nYes, everybody on earth is equal\nBecause for God in heaven\nYes, everybody on earth iѕ equаl"
+      }
+    ],
+    "bpm": 164,
+    "tone": "C major",
+    "artistPeople": [
+      "Peter Horton"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Kurt Peche"
+    ],
+    "conductor": "Johannes Fehring",
+    "lyricists": [
+      "Karin Bognar"
+    ],
+    "writers": null,
+    "broadcaster": "ORF",
+    "commentators": [
+      "Emil Kollpacher"
+    ],
+    "jury": null,
+    "spokesperson": "Walter Richard Langer"
+  },
+  {
+    "id": 15,
+    "country": "NO",
+    "artist": "Kirsti Sparboe",
+    "song": "Dukkemann",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/Y7I__FNMevk",
+      "https://www.youtube-nocookie.com/embed/sSzMIIWRk3k",
+      "https://www.youtube-nocookie.com/embed/Rs-Xs5fZRmI",
+      "https://www.youtube-nocookie.com/embed/BV_r9_Yuudo",
+      "https://www.youtube-nocookie.com/embed/GoKwSBVnth8"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "norwegian"
+        ],
+        "displayedLanguages": null,
+        "title": "Dukkemann",
+        "content": "Det var en søt liten dukkemann\nEn så fri og freidig og glad\nHan lo av de andre små dukker, han, å ja…\n\nFor denne særegne dukkemann\nTenk, han var skarpsindig som få\nHan sa at de henger jo alle mann i tråd\n\nHan lo av de dumme små dukker som danset\nPå ordre fra noe de ikke forstod\nHan lo så han hikstet, men plutselig stanset han opp\nFor hans tråd den ble klippet i to\n\nOg se vår særegne dukkemann\nHan forsto: hvis dansen skal gå\nDa må man nok sprelle som alle mann i tråd\n\nHan lo av de dumme små dukker som danset\nPå ordre fra noe de ikke forstod\nHan lo så han hikstet, men plutselig stanset han opp\nFor hans tråd den ble klippet i to\n\nSå ble vår særegne dukkemann\nUten liv og måtte forstå:\nEn tråd har en snelle, så hvis man vil telle\nDa må man nok sprelle ѕom alle mаnn i tråd"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Puppet man",
+        "content": "There was a sweet little puppet man\nSomeone so free and bold and happy\nHe was laughing at all the other puppets, him, oh yes…\n\nBecause this particular puppet man\nImagine, he was sharper than most\nHe said, all of them are hanging on a string\n\nHe laughed at all the stupid little puppets dancing\nAt the command of something they didn't understand\nHe howled with laughter, but suddenly stopped\nBecause his string was cut in half\n\nAnd look, our particular puppet man\nHe understood: if the dance is to go on\nThen you have to jump about like all on a string\n\nHe laughed at all the stupid little puppets dancing\nAt the command of something they didn't understand\nHe howled with laughter, but suddenly stopped\nBecause his string was cut in half\n\nThus our particular puppet man became\nLifeless and had to understand:\nA string has a spool and if you want to count\nYou must jump like everyone on а ѕtring"
+      }
+    ],
+    "bpm": 105,
+    "tone": "G major",
+    "artistPeople": [
+      "Kirsti Sparboe"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Tor Hultin"
+    ],
+    "conductor": "Øivind Bergh",
+    "lyricists": [
+      "Ola B. Johannessen"
+    ],
+    "writers": null,
+    "broadcaster": "NRK",
+    "commentators": [
+      "Erik Diesen"
+    ],
+    "jury": null,
+    "spokesperson": "Sverre Christophersen"
+  },
+  {
+    "id": 16,
+    "country": "CH",
+    "artist": "Géraldine",
+    "song": "Quel cœur vas-tu briser ?",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/gWonRzGuSw4",
+      "https://www.youtube-nocookie.com/embed/WbzXWKtHFFg"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Quel cœur vas-tu briser ?",
+        "content": "Quel cœur vas-tu briser\nMaintenant que le mien\nA cessé de battre pour toi ?\nQuel cœur vas-tu briser ?\nPuisque je n'ai plus rien\nRien de toi que des mots sans voix\n\nQuel cœur vas-tu briser\nEn lui donnant l'espoir\nD'une vie de rêve pour deux ?\nQuel cœur vas-tu briser\nEn lui donnant à croire\nQue toi seul peut le rendre heureux ?\nHeureux…\n\nC'est si facile de faire croire\nÀ des chemins semés de fleurs\nSurtout lorsqu'on parle à un cœur\nQui ne demande qu'à y croire\n\nQuel cœur vas-tu briser\nMaintenant que le mien\nNe croit plus en rien, ni en toi ?\nQuel cœur vas-tu briser\nPour le seul plaisir vain\nDe sentir qu'il vit sous ta loi ?\n\nQuel cœur vas-tu briser\nPoursuivant ton chemin\nEn croyant que tu vis ta vie ?\nQuel cœur vas-tu briѕer\nTout au long de tа vie ?\nLe tien, le tien, le tien"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Which heart are you going to break?",
+        "content": "Which heart are you going to break\nNow that mine\nStopped beating for you?\nWhich heart are you going to break?\nSince I have nothing anymore\nNothing from you but words without voice\n\nWhich heart are you going to break\nGiving him the hope\nOf a dream life for two?\nWhich heart are you going to break\nMaking him believe\nThat only you can make him happy?\nHappy…\n\nIt's so easy to make believe\nThe roads seeded with flowers\nAbove all since we spoke to our heart\nThat asks us only to believe in it\n\nWhich heart are you going to break\nNow that mine\nBelieves in nothing anymore, neither in you?\nWhich heart are you going to break\nJust for vain pleasure\nOf feeling that he lives under your law?\n\nWhat heart are you going to break\nFollowing your road\nBelieving that you live your life?\nWhat heart are you going to breаk\nThroughout your life?\nYours, yours, yourѕ"
+      }
+    ],
+    "bpm": 95,
+    "tone": "Eb major",
+    "artistPeople": [
+      "Géraldine Gogly"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Daniel Faure"
+    ],
+    "conductor": "Hans Möckel",
+    "lyricists": [
+      "Gérard Gray"
+    ],
+    "writers": null,
+    "broadcaster": "SSR SRG",
+    "commentators": [
+      "Georges Hardy",
+      "Giovanni Bertini",
+      "Theodor Haller"
+    ],
+    "jury": null,
+    "spokesperson": "Alexandre Burger"
+  }
+]

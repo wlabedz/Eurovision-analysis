@@ -1,0 +1,948 @@
+[
+  {
+    "id": 0,
+    "country": "CH",
+    "artist": "Lys Assia",
+    "song": "Refrain",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/EXS3v09LKS8",
+      "https://www.youtube-nocookie.com/embed/1HKSP_HQ5hk",
+      "https://www.youtube-nocookie.com/embed/txTm_sQ53sg",
+      "https://www.youtube-nocookie.com/embed/yCTc22m-vt0",
+      "https://www.youtube-nocookie.com/embed/6MYWsA8NsJs",
+      "https://www.youtube-nocookie.com/embed/wBUaeYz_ABM",
+      "https://www.youtube-nocookie.com/embed/eNcucCnVFNc"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Refrain",
+        "content": "(Refrain d'amour…)\n\nRefrain, couleur du ciel, parfum de mes vingt ans\nJardin plein de soleil où je courais enfant\nPartout je t'ai cherché, mon amoureux lointain\nGuettant par les sentiers où tu prenais ma main\n\nLes jours s'en sont allés et nous avons grandi\nL'amour nous a blessés, le temps nous a guéris\nMais seule et sans printemps\nJe cours en vain les bois, les champs\nDis, souviens-toi nos amours d'autrefois?\n\nLes années passent à tire-d'aile\nEt sur les toits de mon ennui coule la pluie\nOù sont parties les caravelles, volant mon cœur\nPortant mes rêves vers ton oubli?\nJ'aurais voulu que tu reviennes comme jadis\nPorter des fleurs à ma persienne\nEt ta jeunesse en mon logis\n\nRefrain, couleur de pluie, regret de mes vingt ans\nChagrin, mélancolie de n'être plus enfant\nMais seule et loin de toi, par les chemins où tu n'es pas\nJe vais, pleurant mes amours de vingt аnѕ"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Refrain",
+        "content": "(Refrain of love…)\n\nRefrain, colour of the sky, the scent of my twenties\nGarden full of sun where I spent my childhood\nEverywhere I've been looking for you, my distant love\nWaiting along the path where you took my hand\n\nThe days passed away and we grew up\nLove wounded us, time cured us\nBut lonesome and without spring\nI run in vain through the woods, the fields\nSay, do you remember our old loves?\n\nThe years pass away as quick as lightning\nAnd upon the roofs of my concern pours the rain\nWhere did the caravels leave, stealing my heart\nCarrying my dreams away from your memory?\nI wanted you to come back like bygone\nCarrying flowers to my shutter\nAnd your youthfulness to my home\n\nRefrain, colour of the rain, regret of my twenties\nSorrow, melancholy not to be a child anymore\nBut lonesome and far from you, along the roads where you аre not\nI go, crying the loves of my twentieѕ"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": null,
+        "title": "Επωδός",
+        "content": "(Επωδός της αγάπης…)\n\nΕπωδός, χρώμα του ουρανού, το άρωμα των είκοσι μου\nΚήπος γεμάτος ήλιο όπου πέρασα τα παιδικά μου χρόνια\nΠαντού ψάχνω για εσένα, μακρινή μου αγάπη\nΠεριμένοντας δίπλα στο μονοπάτι όπου μου πήρες το χέρι\n\nΟι μέρες πέρασαν και μεγαλώσαμε\nΗ αγάπη μας τραυμάτισε, ο χρόνος μας θεράπευσε\nΑλλά μοναχός και χωρίς άνοιξη\nΤρέχω μάταια μέσα στα δάση, τα χωράφια\nΠες, θυμάσε τις παλιές μας αγάπες;\n\nΤα χρόνια περνούν όσο γρήγορα όσο ένας κεραυνός\nΚαι πάνω στις οροφές της ανησυχίας μου πέφτει η βροχή\nΠού έφυγαν οι καραβέλες, κλέβοντας την καρδιά μου\nΚουβαλώντας τα όνειρά μου μακριά από τη μνήμη σου;\nΉθελα να έρθεις πίσω όπως παλιά\nΚουβαλώντας λουλούδια στο παντζούρι μου\nΚαι τη νεότητά σου στο σπίτι μου\n\nΕπωδός, χρώμα της βροχής, μετάνια των είκοσί μου\nΘλίψη, μελαγχολία να μην είσαι παιδί πια\nΑλλά μοναχή και μακριά σου, στους δρόμους που δεν είσαι\nΠάω, κλαίγοντας τους έρωτες των είκοσί μου"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "thai"
+        ],
+        "displayedLanguages": null,
+        "title": "ท่อนสร้อย",
+        "content": "(ท่อนสร้อยรัก…)\n\nท่อนสร้อย สีฟ้างาม กลิ่นหอมวัยเยาว์\nสวนแดดพราว ฉันเคยวิ่ง เล่นเบาเบา\nเฝ้าตามหา รักแสนไกล สุดปลายเงา\nแอบเฝ้าดู ตามทางเรา เคยเกี่ยวมือ\n\nวันคืนล่วงเลย เราเติบโตไป\nรักเคยทำร้าย แต่เวลาก็รักษาใจ\nแต่ฉันเพียงเดียวดาย\nไร้ใบไม้ผลิ ชีวิตว่างเปล่า\nเธอจำได้ไหม รักเราเมื่อวันวาน?\n\nกาลเวลาผ่านไปรวดเร็ว\nบนหลังคาแห่งความเหงา ฝนรินไหล\nเรือใบไกลลอยไปแห่งใด หัวใจฉัน\nฝันฉันลอยไปสู่ความลืมเลือน\nฉันหวังเพียงให้เธอกลับคืนมา\nนำดอกไม้ วางริมหน้าต่าง\nพาความเยาว์วัย คืนสู่หัวใจ\n\nท่อนสร้อย สีฝนจาง น้ำตาวัยเยาว์\nเศร้าและเหงา ไม่ได้เป็นเด็กดังเก่า\nแต่ฉันเพียงลำพัง บนทางเธอไม่มีเรา\nก้าวไป พร่ำไห้ถึงรักวัยเยาว์"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "spanish"
+        ],
+        "displayedLanguages": null,
+        "title": "Estribillo",
+        "content": "(Estribillo de amor…)\n\nEstribillo, color de cielo, perfume de mis veinte años\nJardín lleno de sol donde corría de niña\nPor todos lados yo te busqué, mi amado lejano\nBuscando los caminos donde tomabas mi mano\n\nLos días se fueron y nosotros crecimos\nEl amor nos hirió, el tiempo nos curó\nPero sola y sin primavera\nCorro en vano por el bosque, los campos\nDime, ¿recuerdas nuestros amores del ayer?\n\nLos años pasan volando\nY sobre los tejados de mi aburrimiento corre la lluvia\n¿Hacia donde partieron las carabelas, robando mi corazón\nLlevando mis sueños hacia tu olvido?\nHabría querido que volvieses como antes\nTrayendo flores a mi persiana\nY tu juventud a mi hogar\n\nEstribillo, color de lluvia, arrepentimiento de mis veinte años\nDolor, melancolía de ya no ser niña\nPero sola y lejos de ti, por los caminos donde no estás\nYo voy, llorando por mis amores de los veinte аñoѕ"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Припев",
+        "content": "(Припев любви…)\n\nПрипев, цвет неба, аромат моих двадцати лет\nЗалитый солнцем сад, где я бегала в детстве\nВезде я искала тебя, мой далекий возлюбленный\nСмотрела на тропинки, где ты брал меня за руку\n\nДни шли, мы взрослели\nЛюбовь ранила нас, время исцелило нас\nНо в одиночестве и без весны\nЯ тщетно бегу по лесам и полям\nСкажи, помнишь ли ты нашу прежнюю любовь?\n\nГоды летят\nИ по крышам моей скуки льет дождь\nКуда ушли каравеллы, украв мое сердце\nУнося мои мечты в забвение?\nЯ бы хотела, чтобы вы вернулись, как когда-то\nПринося цветы на мои ставни\nИ юность свою в мой дом\n\nПрипев цвет дождя, сожаление о моих двадцати годах\nПечаль, меланхолия о том, что я больше не ребенок\nНо в одиночестве и вдали от тебя, по тропинкам, где тебя нет\nЯ иду, оплакивая свою любовь двадцати лет"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "italian"
+        ],
+        "displayedLanguages": null,
+        "title": "Ritornello",
+        "content": "(Ritornello dell'amore…)\n\nRitornello, colore del cielo, profumo dei miei vent'anni\nGiardino pieno di sole dove ho trascorso la mia infanzia\nOvunque ti ho cercato, amore mio lontano\nAspettando lungo il sentiero dove hai preso la mia mano\n\nI giorni sono passati e siamo cresciuti\nL'amore ci ha feriti, il tempo ci ha guariti\nMa solitario e senza primavera\nCorro invano attraverso i boschi, i campi\nTi ricordi i nostri vecchi amori?\n\nGli anni passano veloci come un fulmine\nE sui tetti della mia preoccupazione versa la pioggia\nDove sono andate le caravelle, rubandomi il cuore\nPortare i miei sogni lontano dalla tua memoria?\nVolevo che tornassi come un tempo\nPortare fiori al mio otturatore\nE la tua giovinezza a casa mia\n\nRitornello, colore della pioggia, rimpianto dei miei vent'anni\nDolore, malinconia per non essere più una bambina\nMa solitario e lontano da te, lungo le strade dove non ѕei\nVado, piangendo gli amori dei miei vent'аnni"
+      },
+      {
+        "type": 2,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "Du Goldner Traum Aus Meiner Jugendzeit",
+        "content": "Refrain, du gold'ner Traum aus meiner Jugendzeit\nRefrain, mein liebes Lied, wie bist du doch so weit\nDie Tage erster Liebe waren wunderbar\nUnd alle Märchen, die wir träumten, wurden wahr\n\nRefrain, du gold'ner Traum aus meiner Jugendzeit\nMein Herz sehnt sich so sehr nach der Vergangenheit\nDer Himmel und die Sterne wünschten uns das große Glück\nDu gold'ner Traum, komm noch einmal zurück\n\nDie Jahre gingen viel zu schnell und auf dem Pfad der Einsamkeit\nHab ich geweint\nWann wird der Himmel wieder hell, wann kehrst du wieder, gold'ne Zeit\nVoll Seligkeit\n\nWann pflücken wir wie damals Blumen dort im Feld?\nWann geh'n wir wieder Hand in Hand gemeinsam durch die schöne Welt?\n\nRefrain, du gold'ner Traum aus meiner Jugendzeit\nMein Herz sehnt sich so sehr nach der Vergangenheit\nDer Himmel und die Sterne wünschten uns daѕ große Glück\nDu gold'ner Traum, komm noch einmаl zurück"
+      }
+    ],
+    "bpm": 105,
+    "tone": "C major",
+    "artistPeople": [
+      "Rosa Mina Schärer"
+    ],
+    "backings": [
+      "Anita Traversi",
+      "Athos Beretta",
+      "Carmen Tumiati",
+      "Luciano Rezzonico",
+      "Silvano Beretta"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Géo Voumard"
+    ],
+    "conductor": "Fernando Paggi",
+    "lyricists": [
+      "Émile Gardaz"
+    ],
+    "writers": null,
+    "broadcaster": "SSR SRG",
+    "commentators": [
+      "Georges Hardy"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 1,
+    "country": "NL",
+    "artist": "Jetty Paerl",
+    "song": "De vogels van Holland",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/u45UQVGRVPA",
+      "https://www.youtube-nocookie.com/embed/FJNEcYoavAU"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "dutch"
+        ],
+        "displayedLanguages": null,
+        "title": "De vogels van Holland",
+        "content": "De vogels van Holland zijn zo muzikaal\nZe leren in hun prille jeugd al tierelieren\nDe merel, de lijster en de nachtegaal\nOm zo de lent' in Holland goed te kunnen vieren\n\n't Is geen wonder, want nergens zijn de plassen zo blauw\nAls in Holland, mijnheer\nAls in Holland, mevrouw\n't Is geen wonder, want nergens is het gras zo vol dauw\nZijn de meisjes zo lief, zijn de meisjes zo trouw\nEn daarom zijn de vogels hier allemaal\nZo muzikaal\nZo muzikaal\nZo muzikaal\n\nDe hele wereld door heb ik vogels horen zingen\nIn het zuiden, in het westen, in het noorden\nIn vele verre landen heb ik vogels horen zingen\nZij zingen kleine liedjes zonder woorden\n\nDe Franse vogels zingen tudeludelu\nJapanse vogels zingen tudeludelu\nChinese vogels zingen tudeludelu\nMaar de vogels zingen nergens zo gelukkig en blij\nAls in Holland in het voorjaar in de wei\n\nDe vogels van Holland zijn zo muzikaal\nZe leren in hun prille jeugd al tierelieren\nDe merel, de lijster en de nachtegaal\nOm zo de lent' in Holland goed te kunnen vieren\n\n't Is geen wonder, want nergens zijn de plassen zo blauw\nAls in Holland, mijnheer\nAls in Holland, mevrouw\n't Is geen wonder want nergens is het gras zo vol dauw\nZijn de meisjes zo lief, zijn de meisjes zo trouw\nEn daarom zijn de vogelѕ hier allemaal\nZo muzikaal\nZo muzikaal\nZo muzikaаl"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "The birds of Holland",
+        "content": "The birds of Holland are so musical\nThey already learn to twitter in their early youth\nThe blackbird, the thrush and the nightingale\nSo they can celebrate spring in Holland\n\nIt's no wonder, because nowhere the puddles are so blue\nAs in Holland, sir\nAs in Holland, madam\nIt's no wonder, because nowhere the grass is so full of dew\nAre the girls so sweet, are the girls so faithfull\nAnd that's why all the birds here are\nSo musical\nSo musical\nSo musical\n\nAcross the whole world I've heard birds sing\nTo the south, to the west, to the north\nIn many faraway countries I've heard birds sing\nThey sing little songs without words\n\nThe French birds sing toodledoo\nJapanese birds sing toodledoo\nChinese birds sing toodledoo\nBut nowhere the birds sing so happily and cheerfully\nAs in Holland in spring in the meadow\n\nThe birds of Holland are so musical\nThey already learn to twitter in their early youth\nThe blackbird, the thrush and the nightingale\nSo they can celebrate the spring in Holland\n\nIt's no wonder, because nowhere the puddles are so blue\nAs in Holland, sir\nAs in Holland, madam\nIt's no wonder, because nowhere the grass is so full of dew\nAre the girls so sweet, are the girls so faithfull\nAnd that's why all the birds here are\nSo musical\nSo musical\nSo muѕicаl"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Птицы Голландии",
+        "content": "Птицы Голландии так музыкальны\nОни учатся щебетать в младенчестве\nДрозды, молочницы и соловьи\nЧтобы они могли как следует отпраздновать весну в Голландии\n\nЭто неудивительно, ведь нигде лужи не бывают такими голубыми\nКак в Голландии, сэр\nКак в Голландии, мадам\nНеудивительно, ведь нигде трава не бывает такой насыщенной\nДевушки так милы, девушки так верны\nИ поэтому все птицы здесь\nТак музыкальны\nТак музыкальны\nТак музыкальны\n\nПо всему миру я слышала пение птиц\nНа юге, на западе, на севере\nВо многих далеких странах я слышала пение птиц\nОни поют маленькие песенки без слов\n\nФранцузские птицы поют туделуделу\nЯпонские птицы поют туделуделу\nКитайские птицы поют туделуделу\nНо нигде птицы не поют так счастливо и радостно\nКак в Голландии весной на лугу\n\nПтицы Голландии так музыкальны\nОни учатся щебетать в младенчестве\nДрозды, молочницы и соловьи\nЧтобы они могли как следует отпраздновать весну в Голландии\n\nЭто неудивительно, ведь нигде лужи не бывают такими голубыми\nКак в Голландии, сэр\nКак в Голландии, мадам\nНеудивительно, ведь нигде трава не бывает такой насыщенной\nДевушки так милы, девушки так верны\nИ поэтому все птицы здесь\nТак музыкальны\nТак музыкальны\nТак музыкальны"
+      }
+    ],
+    "bpm": 139,
+    "tone": "C major",
+    "artistPeople": [
+      "Jetty Paerl"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Cor Lemaire"
+    ],
+    "conductor": "Fernando Paggi",
+    "lyricists": [
+      "Annie M. G. Schmidt"
+    ],
+    "writers": null,
+    "broadcaster": "NTS",
+    "commentators": [
+      "Piet te Nuyl Jr."
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 2,
+    "country": "CH",
+    "artist": "Lys Assia",
+    "song": "Das alte Karussell",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/lVpf8uzHnX0",
+      "https://www.youtube-nocookie.com/embed/l9Hli6h3k9s",
+      "https://www.youtube-nocookie.com/embed/-Xe4s007EnI"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "Das alte Karussell",
+        "content": "Das alte Karussell\nDas geht nicht mehr so schnell\nDie Pferdchen und die Wagen\nDie woll'n nicht von der Stell'\n\nDa hilft auch kein flattiern\nUnd auch kein neu Lattiern\nDa hilft nur noch das Eine:\nMan muss es einmal schmiern\n\nUnd auch das alte Orgelspiel\nDas piepst wie eine Maus\nVon Zeit zu Zeit wird's ihm zu viel\nDann setzt es einfach aus\n\nDas alte Karussell\nDas geht nicht mehr so schnell\nDie Pferdchen und die Wagen\nDie woll'n nicht von der Stell'\n\nDie Kleinen und Großen\nSie ziehen und stoßen\nUnd so geht es im Kreise herum\n\nDie Pferdchen, die traben\nUnd ziehn an den Wagen\nUnd die Orgel, die wird wieder jung\n\nEin komischer Gesell'\nDieses alte Karussell\nVon unten bis oben ist alles verschoben\nDoch im Kreis geht es doch noch herum\n\nDas alte Karussell\nDas geht nicht mehr so schnell\nDie Pferdchen und die Wagen\nDie woll'n nicht von der Stell'\n\nDas alte Karussell, oo…\nDas alte Kаrusѕell"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "The old carousel",
+        "content": "The old carousel\nIt doesn't go as fast anymore\nThe ponies and the wagons\nThey don't want to get going\n\nFlattering doesn't help either\nAnd neither does putting up new boards\nThere is only one thing that does help:\nOnce in a while it has to be greased\n\nAnd also the old organ\nIt squeaks like a mouse\nAnd sometimes it can't take it anymore\nThen it just turns off\n\nThe old carousel\nIt doesn't go as fast anymore\nThe ponies and the wagons\nThey don't want to get going\n\nThe small ones and the large ones\nThey pull and push\nAnd that way it goes round in circles\n\nThe ponies are trotting\nAnd pulling on the wagons\nAnd the organ is getting young again\n\nA funny thing\nThis old carousel\nFrom down to above everything is shifted\nBut it still goes round in a circle\n\nThe old carousel\nIt doesn't go as fast anymore\nThe ponies and the wagons\nThey don't want to get going\n\nThe old carousel, ooh…\nThe old cаrouѕel"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Старая карусель",
+        "content": "Старая карусель\nОна больше не едет так быстро\nЛошади и кареты\nОни не хотят покидать это место\n\nНикакие уговоры не помогут\nИ никакие новые решетки\nОстается только одно:\nНужно смазать ее один раз\n\nИ старый орган играет\nОн пищит, как мышь\nВремя от времени это становится слишком\nТогда он просто останавливается\n\nСтарая карусель\nОна больше не едет так быстро\nЛошади и кареты\nОни не хотят покидать это место\n\nМаленькие и большие\nОни тянут и толкают\nИ так они едут по кругу\n\nМаленькие лошадки рысят\nИ тянут повозку\nИ орган снова становится молодым\n\nВеселый парень\nЭта старая карусель\nВсе сдвинуто снизу вверх\nНо она все равно крутится и крутится\n\nСтарая карусель\nОна больше не едет так быстро\nЛошади и кареты\nОни не хотят покидать это место\n\nСтарая карусель, ооо…\nСтарая карусель"
+      }
+    ],
+    "bpm": 104,
+    "tone": "C major",
+    "artistPeople": [
+      "Rosa Mina Schärer"
+    ],
+    "backings": [
+      "Anita Traversi",
+      "Athos Beretta",
+      "Carmen Tumiati",
+      "Luciano Rezzonico",
+      "Silvano Beretta"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Fernando Paggi",
+    "lyricists": null,
+    "writers": [
+      "Fernando Paggi",
+      "George Betz-Stahl"
+    ],
+    "broadcaster": "SSR SRG",
+    "commentators": [
+      "Georges Hardy"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 3,
+    "country": "BE",
+    "artist": "Fud Leclerc",
+    "song": "Messieurs les noyés de la Seine",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/U9O3sqlyra0",
+      "https://www.youtube-nocookie.com/embed/AXIdd12FtM4"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Messieurs les noyés de la Seine",
+        "content": "Messieurs les noyés de la Seine\nOuvrez-moi les portes de l'eau\nJe suis fatigué d'user mes semaines\nSur le pavé noir de Puteaux\n\nMessieurs les noyés de la Seine\nOuvrez-moi les portes de l'eau\nJ'ai tant voyagé sous son ciel de laine\nQue le vent m'a brûlé la peau\n\nJe suis depuis toujours marié à la misère\nJe n'ai connu l'amour que sur un lit de pierre\nLe soleil pour les riches, la lune pour les gueux\nPourquoi, si tout le monde triche, jouer encore le jeu?\n\nMessieurs les noyés de la Seine\nOuvrez-moi les portes de l'eau\nJe suis fatigué de n'avoir pour ciel\nQue les ponts rouillés de Puteaux\n\nMessieurs les noyés de la Seine\nJ'ai tant regardé les bateaux\nQue d'Aubervilliers jusqu'à Bourg-la-Reine\nJe porte Paris sur mon dos\n\nLa fille que j'aimais ne m'a jamais aimé\nLes copains que j'avais m'ont tous abandonné\nJe fais le tour du monde pour trouver le printemps\nMais comme la terre est ronde, ça peut durer longtemps\n\nMessieurs les noyés de la Seine\nOuvrez-moi les portes de l'eau\nJe suis fatigué de voir la dégaine\nDes enfants trahis de Puteaux\n\nMessieurs les noyés de la Seine\nParis me doit bien un berceau\nJe m'endormirai sans amour ni haine\nEntre ses bras de ѕable et d'eаu"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "The drowned men of the river Seine",
+        "content": "The drowned men of the river Seine\nOpen the water gates for me\nI'm tired of spending my weeks\nOn the black paving of Puteaux\n\nThe drowned men of the river Seine\nOpen the water gates for me\nI've been travelling so long under its woollen sky\nSo the wind has burnt my skin\n\nI'm married to misery forever\nI've never known better than love on a stone bed\nThe sun for the rich, the moon for the clochards\nWhy playing the game, when everyone cheats?\n\nThe drowned men of the river Seine\nOpen the water gates for me\nI'm tired of only having for heaven\nThe rusty bridges of Puteaux\n\nThe drowned men of the river Seine\nI've watched the boats so much\nThat from Aubervilliers to Bourg-la-Reine\nI'm carrying Paris on my back\n\nThe girl I loved, never loved me\nThe friends I had, have all left me\nI'm travelling around the world to find springtime\nBut since the earth is round, it might take a long time\n\nThe drowned men of the river Seine\nOpen the water gates for me\nI'm tired of watching the strange appearance\nOf the betrayed children of Puteaux\n\nThe drowned men of the river Seine\nParis owes me a cradle\nI'll fall asleep without love and hate\nBetween its arms of ѕand and wаter"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": null,
+        "title": "Πνιγμένοι άνδρες του Σηκουάνα",
+        "content": "Πνιγμένοι άνδρες του Σηκουάνα\nΑνοίξτε μου τις πόρτες του νερού\nΈχω κουραστεί να περνώ τις εβδομάδες μου\nΣτο μαύρο πεζοδρόμιο του Πουτώ\n\nΠνιγμένοι άνδρες του Σηκουάνα\nΑνοίξτε μου τις πόρτες του νερού\nΈχω ταξιδέψει τόσο κάτω από τον μάλλινο του ουρανό\nΏστε ο αέρας να έχει κάψει το δέρμα μου\n\nΉμουνα πάντα παντρεμένος με τη μιζέρια\nΔεν έχω γνωρίσει τον έρωτα παρά σ' ένα πέτρινο κρεβάτι\nΟ ήλιος για τους πλούσιους, η σελήνη για τους αλήτες\nΓιατί να παίζω ακόμα το παιχνίδι, αν όλοι κλέβουν\n\nΠνιγμένοι άνδρες του Σηκουάνα\nΑνοίξτε μου τις πόρτες του νερού\nΈχω κουραστεί από το να έχω ως παράδεισο τίποτα\nΠαρά τις σκουριασμένες γέφυρες του Πουτώ\n\nΠνιγμένοι άνδρες του Σηκουάνα\nΈχω δει αρκετά τις βάρκες\nΏστε από το Ομπερβιγιέ ως το Μπουγ-λα-Γεν\nΚουβαλώ το Παρίσι στην πλάτη μου\n\nΤο κορίτσι που αγαπούσα δε μ' αγάπησε ποτέ\nΟι φίλοι που είχε μ' έχουν όλοι αφήσει\nΈχω γυρίσει τον κόσμο για να βρω την άνοιξη\nΑλλά αφού η Γη είναι σφαιρική, αυτό μπορεί να διαρκέσει πολύ\n\nΠνιγμένοι άνδρες του Σηκουάνα\nΑνοίξτε μου τις πόρτες του νερού\nΈχω κουραστεί να βλέπω τη περίεργη εμφάνιση\nΤων προδομένων παιδιών του Πουτώ\n\nΠνιγμένοι άνδρες του Σηκουάνα\nΤο Παρίσι μου χρωστά μια κούνια\nΘα κοιμηθώ χωρίς αγάπη, ούτε μίσος\nΑνάμεσα στα χέρια από άμμο και νερό"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "portuguese"
+        ],
+        "displayedLanguages": null,
+        "title": "Senhores, os afogados do Sena",
+        "content": "Cavalheiros morreram afogados no Sena\nAbra as portas da água para mim\nEstou cansado de usar minhas semanas\nNa calçada negra de Puteaux\n\nCavalheiros morreram afogados no Sena\nAbra as portas da água para mim\nEu tenho viajado muito sob seu céu de lã\nQue o vento queimou minha pele\n\nEu sempre fui casado com a miséria\nEu só conhecia o amor sobre uma cama de pedra\nO sol para os ricos, a lua para os mendigos\nPor que, se todo mundo está trapaceando, ainda joga o jogo?\n\nCavalheiros morreram afogados no Sena\nAbra as portas da água para mim\nEstou cansado de não ter céu\nDo que as pontes enferrujadas de Puteaux\n\nCavalheiros morreram afogados no Sena\nObservei muito os barcos\nDe Aubervilliers a Bourg-la-Reine\nEu carrego parís nas minhas costas\n\nA garota que eu amei nunca me amou\nOs amigos que eu tinha me abandonado\nEu vou ao redor do mundo para encontrar a primavera\nMas como a Terra é redonda, pode durar muito tempo\n\nCavalheiros morreram afogados no Sena\nAbra as portas da água para mim\nEstou cansado de ver o desenho rápido\nFilhos Traídos de Puteaux\n\nCavalheiros morreram afogados no Sena\nParis me deve um berço\nVou adormecer sem amor ou ódio\nEntre seus braçoѕ de areia e águа"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Утонувшие в Сене",
+        "content": "Господа, утонувшие в Сене\nОткройте мне ворота воды\nЯ устал проводить недели\nНа черных мостовых Путо\n\nГоспода, утонувшие в Сене\nОткройте мне ворота воды\nЯ так много путешествовал под ее серым небом\nЧто ветер сжег мне кожу\n\nЯ всегда был женат на несчастье\nЯ познал любовь только на каменном ложе\nСолнце для богатых, луна для бедных\nЗачем, если все жульничают, играть в эту игру?\n\nГоспода, утонувшие в Сене\nОткройте мне ворота воды\nЯ устал от неба\nНа ржавых мостах Путо\n\nГоспода, утонувшие в Сене\nЯ видел так много лодок\nОт Обервилье до Бур-ла-Рен\nЯ несу Париж на своей спине\n\nДевушка, которую я любил, никогда не любила меня\nДрузья, которые у меня были, все меня бросили\nЯ отправляюсь в кругосветное путешествие, чтобы найти весну\nНо так как земля круглая, оно может длиться очень долго\n\nГоспода, утонувшие в Сене\nОткройте мне ворота воды\nЯ устал видеть эти лица\nПреданных детей Путо\n\nГоспода, утонувшие в Сене\nПариж должен мне колыбель\nЯ усну без любви и ненависти\nВ его объятиях песка и воды"
+      }
+    ],
+    "bpm": 122,
+    "tone": "G minor",
+    "artistPeople": [
+      "Fernand Urbain Dominic Leclerc"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Jack Say",
+      "Jean Miret"
+    ],
+    "conductor": "Léo Souris",
+    "lyricists": [
+      "Robert Montal"
+    ],
+    "writers": null,
+    "broadcaster": "NIR",
+    "commentators": [
+      "Piet te Nuyl Jr.",
+      "Raymond Colbert"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 4,
+    "country": "DE",
+    "artist": "Walter Andreas Schwarz",
+    "song": "Im Wartesaal zum großen Glück",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/jqo-whfb0mk",
+      "https://www.youtube-nocookie.com/embed/EfZ6_7iNBqs",
+      "https://www.youtube-nocookie.com/embed/vutE6EA03QE"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "Im Wartesaal zum großen Glück",
+        "content": "Es gibt einen Hafen, da fährt kaum ein Schiff\nUnd wenn eines fährt, so in unbestimmte Fernen\nUnd es kommt, wenn es ankommt, von sehr weit schon her\nUnd einer steigt aus und der kommt übers Meer\nMit gläserner Fracht von den Sternen\n\nUnd man baute am Kai der Vergangenheit\nEinen Saal mit Blick auf das Meer\nUnd mit Wänden aus Träumen gegen die Wirklichkeit\nDenn die liebte man nicht sehr\n\nIm Wartesaal zum großen Glück\nDa warten viele, viele Leute\nDie warten seit gestern auf das Glück von morgen\nUnd leben mit Wünschen von übermorgen\nUnd vergessen, es ist ja noch heute\nAch… die armen, armen Leute\n\nUnd sie blickten aufs Meer und sie sahen auch das Schiff\nGerade als es abfuhr in unbestimmte Fernen\nUnd sie jagten auf Träumen hinter ihm her\nUnd sahen ihn nicht, wie er kam übers Meer\nMit gläserner Fracht von den Sternen\n\nUnd er ging am Kai der Vergangenheit vorbei\nUnd die im Saal, die liess er einfach stehn\nGing grade aus in die Wirklichkeit\nUnd da hat man ihn lächeln sehn\n\nIm Wartesaal zum großen Glück\nDa warten viele, viele Leute\nDie warten seit gestern auf das Glück von morgen\nUnd leben mit Wünschen von übermorgen\nUnd vergessen, es ist ja noch heute\nHa… die armen, armen Leute\n\nUnd es fuhren am Morgen die Fischer hinaus\nUnd es glühte der Himmel bis in unbestimmte Fernen\nUnd da kam er gegangen und ihre Netze waren leer\nDoch da holte er für sie die Sonne aus dem Meer\nUnd trug sie empor zu den Sternen\n\nUnd sie glänzte weit durch die Wirklichkeit\nUnd es tanzten die Boote im Licht\nNur im Saal am Kai der Vergangenheit\nDa sah man die Sonne nicht\n\nIm Wartesaal zum großen Glück\nDa warten viele, viele Leute\nDie warten seit gestern auf das Glück von morgen\nUnd leben mit Wünschen von übermorgen\nUnd vergessen, es iѕt ja noch heute\nTja… die аrmen Leute"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Dans la salle d'attente du grand bonheur",
+        "content": "Il y a un port où presque aucun bateau ne part\nEt quand un part, c'est vers des horizons incertains\nEt il arrive, s'il arrive, venant de très loin\nEt quelqu'un descend, venant de la mer\nAvec une cargaison de verre venant des étoiles\n\nEt on a construit sur le quai du passé\nUne salle avec vue sur la mer\nEt avec des murs faits de rêves contre la réalité\nCar on n'aimait pas beaucoup cette dernière\n\nDans la salle d'attente du grand bonheur\nBeaucoup, beaucoup de gens attendent\nIls attendent depuis hier le bonheur de demain\nEt vivent avec les souhaits de après-demain\nEt oublient que c'est encore aujourd'hui…\nAh… les pauvres, pauvres gens\n\nEt ils regardaient la mer, et ils virent aussi le bateau\nJuste au moment où il partait vers des horizons incertains\nEt ils le poursuivaient en rêves, le suivaient\nMais ne le virent pas arriver par la mer\nAvec sa cargaison de verre venant des étoiles\n\nEt il passa devant le quai du passé\nEt ceux dans la salle, il les laissa simplement là\nIl marcha tout droit vers la réalité\nEt là, on le vit sourire\n\nDans la salle d'attente du grand bonheur\nBeaucoup, beaucoup de gens attendent\nIls attendent depuis hier le bonheur de demain\nEt vivent avec les souhaits de après-demain\nEt oublient que c'est encore aujourd'hui…\nAh… les pauvres, pauvres gens\n\nEt le matin, les pêcheurs sont partis\nEt le ciel brillait jusqu'à des horizons incertains\nEt alors il est arrivé, et leurs filets étaient vides\nMais il a pris pour eux le soleil dans la mer\nEt l'a porté haut vers les étoiles\n\nEt il brillait loin à travers la réalité\nEt les bateaux dansaient dans la lumière\nSeulement dans la salle sur le quai du passé\nOn ne voyait pas le soleil\n\nDans la salle d'attente du grand bonheur\nBeaucoup, beaucoup de gens attendent\nIls attendent depuis hier le bonheur de demain\nEt vivent avec les souhaits de après-demain\nEt oublient que c'est encore aujourd'hui…\nOui… les pаuvres genѕ"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "In the waiting room for great luck",
+        "content": "There is a harbour where hardly a ship sails\nAnd when one does, it sails to the undetermined distance\nAnd it comes, when it arrives, from very far away\nAnd someone gets out and comes across the sea\nWith a cargo from the stars made of glass\n\nAnd they built on the quay of the past\nA room with a seaview\nAnd with walls made of dreams to combat reality\nBecause they didn't like it much\n\nIn the waiting room for great luck\nMany, many people are waiting\nThey're waiting since yesterday for tomorrow's luck\nAnd living with wishes for the day after tomorrow\nAnd forgetting that it's still today\nOh… those poor, poor people\n\nAnd they looked at the sea and they also saw the ship\nJust as it was leaving for the undetermined distance\nAnd they chased it right behind on their dreams\nAnd didn't see him coming across the sea\nWith a cargo from the stars made of glass\n\nAnd he passed along the quay of the past\nAnd simply ignored the people in the room\nWent straight out into reality\nAnd there people saw him smiling\n\nIn the waiting room for great luck\nMany, many people are waiting\nThey're waiting since yesterday for tomorrow's luck\nAnd living with wishes for the day after tomorrow\nAnd forgetting that it's still today\nHah… those poor, poor people\n\nAnd the fishermen sailed out in the morning\nAnd the sky glowed into the undetermined distance\nAnd then he came by and their nets were empty\nYet he raised the sun out of the sea for them\nAnd carried it up to the stars\n\nAnd it shone all through reality\nAnd the boats danced in the light\nOnly in the room on the quay of the past\nWas the sun not seen at all\n\nIn the waiting room for great luck\nMany, many people are waiting\nThey're waiting since yesterday for tomorrow's luck\nAnd living with wishes for the day after tomorrow\nAnd forgetting that it's still todаy\nWell… thoѕe poor people"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "spanish"
+        ],
+        "displayedLanguages": null,
+        "title": "En la sala de espera de la gran felicidad",
+        "content": "Hay un puerto donde apenas zarpa un barco\nY si uno lo hace, es hacia destinos inciertos\nY cuando llega, si llega, viene desde muy, muy lejos\nY alguien desciende, que viene del mar\nCon una carga de vidrio traída de las estrellas\n\nY se construyó en el muelle del pasado\nUn salón con vista al mar\nY con paredes hechas de sueños contra la realidad\nPorque esa, no se amaba demasiado\n\nEn la sala de espera de la gran felicidad\nEsperan muchas, muchas personas\nEsperan desde ayer la dicha del mañana\nY viven con deseos del pasado mañana\nY se olvidan de que aún es hoy…\nAh… pobres, pobres personas\n\nY miraban al mar, y también vieron el barco\nJusto cuando partía hacia destinos inciertos\nY lo siguieron en sueños, lo persiguieron\nY no lo vieron llegar por el mar\nCon su carga de vidrio traída de las estrellas\n\nY pasó junto al muelle del pasado\nY a los del salón simplemente los dejó ahí\nSiguió recto hacia la realidad\nY allí se le vio sonreír\n\nEn la sala de espera de la gran felicidad\nEsperan muchas, muchas personas\nEsperan desde ayer la dicha del mañana\nY viven con deseos del pasado mañana\nY se olvidan de que aún es hoy…\nAh… pobres, pobres personas\n\nY por la mañana salieron los pescadores\nY el cielo ardía hasta donde no hay fin\nY entonces él llegó, y sus redes estaban vacías\nPero él sacó el sol del mar para ellos\nY lo llevó alto, hasta las estrellas\n\nY brillaba lejos a través de la realidad\nY los botes danzaban en la luz\nSolo en el salón del muelle del pasado\nNo se veía el sol\n\nEn la sala de espera de la gran felicidad\nEsperan muchas, muchas personas\nEsperan desde ayer la dicha del mañana\nY viven con deseos del pasado mañana\nY se olvidan de que aún es hoy…\nSí… pobres personаѕ"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "В ожидании большого счастья",
+        "content": "Есть гавань, куда почти не заходит корабль\nА если и плывет, то на неопределенное расстояние\nИ когда он прибывает, он приходит издалека\nИ кто-то сходит с корабля и пересекает море\nСо стеклянным грузом со звезд\n\nИ они построили на набережной прошлого\nЗал с видом на море\nИ со стенами мечты против реальности\nПотому что они не очень любили ее\n\nВ зале ожидания большого счастья\nМного, много людей ждут\nЖдут со вчерашнего дня завтрашнего счастья\nИ живут мечтами о послезавтрашнем дне\nИ забывают, что это все еще сегодня\nО… бедные, бедные люди\n\nОни смотрели на море и тоже видели корабль\nКогда он уплывал в неопределенную даль\nИ они гнались за ним в своих мечтах\nИ не увидели его, когда он пересек море\nСо стеклянным грузом звезд\n\nИ он проходил мимо набережной прошлого\nА тех, кто был в зале, он просто оставил стоять\nИ вышел прямо в реальность\nИ там его увидели улыбающимся\n\nВ зале ожидания большого счастья\nМного, много людей ждут\nЖдут со вчерашнего дня завтрашнего счастья\nИ живут, загадывая желания на послезавтра\nИ забывают, что это все еще сегодня\nХа… бедные, бедные люди\n\nИ рыбаки выходили в море по утрам\nИ небо светилось до бесконечности\nА потом он пришел, и их сети были пусты\nНо тогда он достал для них солнце из моря\nИ вознес его к звездам\n\nИ оно сияло далеко сквозь реальность\nИ лодки танцевали в этом свете\nТолько в зале на набережной прошлого\nТам не было видно солнца\n\nВ зале ожидания большого счастья\nМного, много людей ждут\nЖдут со вчерашнего дня завтрашнего счастья\nИ живут, загадывая желания на послезавтра\nИ забывают, что это все еще сегодня\nНу… бедные люди"
+      }
+    ],
+    "bpm": 136,
+    "tone": "C minor",
+    "artistPeople": [
+      "Walter Andreas Schwarz"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Fernando Paggi",
+    "lyricists": null,
+    "writers": [
+      "Walter Andreas Schwarz"
+    ],
+    "broadcaster": "ARD",
+    "commentators": [
+      "Irene Koss"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 5,
+    "country": "FR",
+    "artist": "Mathé Altéry",
+    "song": "Le Temps perdu",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/x1e8gPquGVY",
+      "https://www.youtube-nocookie.com/embed/b50tomgljZM"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Le Temps perdu",
+        "content": "Chante, carillon\nLe chant du temps perdu\nChante ta chanson à mon cœur éperdu\nMoi, je pleure celui que j'aime\n\nBerce dans le soir\nMon rêve et mes sanglots\nVerse en moi l'espoir de le revoir bientôt\nHâte-toi, car j'attends toujours\n\nVienne le temps du bonheur\nLe temps d'amour qui seul peut calmer mon cœur\n\nCoule le ruisseau\nVers la mer qui t'attend\nRoule dans tes eaux toute la vie du printemps\nMoi, toujours j'attends ton retour\n\nLes heures s'enfuient lentement dans la nuit\nChacune d'elles monotone sonne\nEt j'attends le jour, imaginant toujours\nQue tu me rendras ton amour un jour\n\nChante, carillon\nChante pour mon bonheur\nChante ta chanson, si légère à mon cœur\nChante aussi pour celui que j'aime\n\nBerce dans le soir\nNos étreintes d'amour\nVerse en moi l'espoir de le garder toujours\nChante, j'oublie le temps perdu\n\nSonne, mais sans te presser\nL'heure d'amour qui nous retient enlacés\n\nCoule le ruisseau\nVers la mer qui t'attend\nRoule dans tes eaux toute la vie du printemps\nMoi, toujours j'аttendѕ ton retour"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Lost time",
+        "content": "Sing, carillon\nThe song of lost time\nSing your song to my fiery heart\nI cry for the one I love\n\nLull in the evening\nMy dream and my sobs\nPour in me the hope to meet him soon\nHurry up, because I'm still waiting\n\nMay come the time of happiness\nThe time of love, which only can calm down my heart\n\nDivert the river\nInto the sea that is waiting for you\nCherish in these waters all life of springtime\nI will always wait for your return\n\nThe hours flee slowly in the night\nEvery hour rings monotonously\nAnd I'm waiting for the day, always imagining\nThat you will give back your love to me one day\n\nSing, carillon\nSing for my happiness\nSing your song, so softly to my heart\nAlso sing for the one I love\n\nLull in the evening\nOur love embraces\nPour in me the hope to keep him forever\nSing, I forget the lost time\n\nRing, but you don't have to hurry\nThe hour of love keeps us clasped\n\nDivert the river\nInto the sea that is waiting for you\nCherish in these waters all life of springtime\nI will alwayѕ wаit for your return"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Потерянное время",
+        "content": "Пой, колокольчик\nПесню о потерянном времени\nСпой свою песню моему смятенному сердцу\nЯ плачу о том, кого люблю\n\nУбаюкивает вечер\nМой сон и мои рыдания\nВложи в меня надежду на скорую встречу с ним\nПоторопись, ведь я все еще жду\n\nНаступит время счастья\nВремя любви, которая одна может успокоить мое сердце\n\nТечь ручьем\nК морю, которое ждет тебя\nВ твоих водах вся жизнь весны\nЯ все еще жду твоего возвращения\n\nЧасы медленно ускользают в ночь\nКаждый монотонный час отзвенел\nИ я жду дня, всегда представляя\nЧто однажды ты вернешь мне свою любовь\n\nПой, колокольчик\nПой для моего счастья\nПой свою песню, которая так легка для моего сердца\nСпой для того, кого я люблю\n\nУбаюкивает вечер\nНаши любовные объятия\nВложи в меня надежду сохранить его навсегда\nПой, я забываю о потерянном времени\n\nЗвони, но не спеши\nВ час любви, что нас связывает\n\nРучей течет\nК морю, которое ждет тебя\nВ твоих водах течет вся жизнь весны\nЯ всегда жду твоего возвращения"
+      }
+    ],
+    "bpm": 133,
+    "tone": "Eb major",
+    "artistPeople": [
+      "Marie-Thérèse Renée Micheline Altare"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "André Lodge"
+    ],
+    "conductor": "Franck Pourcel",
+    "lyricists": [
+      "Rachel Thoreau"
+    ],
+    "writers": null,
+    "broadcaster": "RTF",
+    "commentators": [
+      "Michelle Rebel"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 6,
+    "country": "LU",
+    "artist": "Michèle Arnaud",
+    "song": "Ne crois pas",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/Pv7GJkqtNuc",
+      "https://www.youtube-nocookie.com/embed/kbEHwIr9IAc"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Ne crois pas",
+        "content": "Si on te dit que tu plais aux belles\nY a pas de quoi t'en vanter\nEt au lieu de te moquer d'elles \nTu f'rais mieux d'en profiter\n\nNe crois pas que tout' ta vie \nOn t'aimera pour tes beaux yeux \nCar si tous leur fait envie \nC'est qu't'es jeune et rien de mieux\n\nNe crois pas, ne crois pas\nQue tu s'ras toujours beau gosse \nNe crois pas, ne crois pas \nQue ta jeunesse durera\n\nTu seras comme tout le monde \nAvec le teint décati \nLe bidon en mappemonde \nEt tout's les dents desserties\n\nQuand t'auras le crâne bien lisse \nLe geste mal assuré \nEt le regard en coulisse \nT'iras de faire réparer\n\nNe crois pas, ne crois pas \nQue tu s'ras toujours beau gosse \nNe crois pas, ne crois pas \nQue ta jeunesse durera\n\nTu t'crois malin \nÀ vouloir jouer les insondables\nLes intouchables \nDu début jusqu'à la Saint Glin-Glin\n\nC'est pas sérieux \nLes Hermès, Adonis, les Hercules \nQui déambulent \nSans songer qu'un jour ils seront vieux\n\nSi on te dit qu't'a une belle gueule\nY a pas de quoi t'en vanter \nEt au lieu d'faire le bégueule \nTu f'rais mieux d'en profiter\n\nNe crois pas que tout' ta vie \nOn t'aimera pour tes beaux yeux \nCar si ta gueule fait envie\nC'est qu't'es jeune et rien de mieux\n\nNe crois pas, ne crois pas\nQue tu s'ras toujours beau gosse \nNe crois pas, ne crois pas \nQue ta jeunesse durera\n\nNe crois pas, ne crois pas \nNe crois pas que ta jeunesѕe durerа"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Don't believe",
+        "content": "If they told you that you have a good look\nThere is nothing to boast about\nAnd instead of playing the good look\nYou should take advantage of it\n\nDon't believe that all your life\nYou will be loved for your nice eyes\nBecause if your face makes other envious\nIt's because you're young and nothing better\n\nDon't believe, don't believe\nThat you will be always a handsome boy\nDon't believe, don't believe\nThat your youth will last\n\nYou will be like everybody\nWith faded colour\nThe belly as a globe\nAnd all your teeth unset\n\nWhen you will have your skull quite smooth\nClumsy gesture\nAnd sidelong glance\nYou'll go to be repaired\n\nDon't believe, don't believe\nThat you will always be a handsome boy\nDon't believe, don't believe\nThat your youth will last\n\nYou think you're clever\nTo play the unfathomable\nThe untouchable\nFrom the start until never in a month of Sundays\n\nIt's not serious\nHermes, Adonis, Hercules\nWho stroll\nWithout thinking that one day they will get old\n\nIf they told you that you have a good look\nThere is nothing to boast about\nAnd instead of playing the good look\nYou should take advantage of it\n\nDon't believe that all your life\nYou will be loved for your nice eyes\nBecause if your face makes other envious\nIt's because you're young and nothing better\n\nDon't believe, don't believe\nThat you will always be a handsome boy\nDon't believe, don't believe\nThat your youth will last\n\nDon't believe, don't believe\nDon't believe that your youth will lаѕt"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Не верь",
+        "content": "Если говорят, что вы привлекательны для красивых\nЭто не повод для хвастовства\nИ вместо того, чтобы смеяться над ними\nЛучше извлечь из этого пользу\n\nНе верь, что всю жизнь\nОни будут любить тебя за твои глаза\nПотому что если они вызывают зависть\nЭто потому, что вы молоды и ничего лучше не придумали\n\nНе верь, не верь\nЧто ты всегда будешь красивым\nНе верь, не верь\nЧто ваша молодость продлится\n\nВы станете таким же, как все\nС блеклым цветом лица\nС животом, как карта мира\nИ все зубы выпадут\n\nКогда у тебя гладкий череп\nУ тебя плохое настроение\nИ выражение твоего лица\nВы пойдете и вылечитесь\n\nНе думай, не думай\nЧто ты всегда будешь красивым\nНе думай, не думай\nЧто твоя молодость продлится\n\nВы думаете, что вы умны\nПытаясь изобразить непостижимое\nНеприкасаемый\nОт начала и до конца\n\nТы не можешь быть серьезным\nГермес, Адонис, Геркулес\nХодят вокруг\nНе задумываясь о том, что однажды они состарятся\n\nЕсли вам скажут, что у вас красивое лицо\nТо хвастаться нечем\nИ вместо того, чтобы выпендриваться\nЛучше извлечь из этого пользу\n\nНе верь, что всю жизнь\nЛюди будут любить вас за ваши глаза\nПотому что если ваше лицо заставляет людей хотеть вас\nЭто потому, что вы молоды и ничего лучше не придумали\n\nНе верь, не верь\nЧто ты всегда будешь красивым\nНе верь, не верь\nЧто ваша молодость продлится\n\nНе верь, не верь\nНе верь, не верь, что твоя молодость продлится"
+      }
+    ],
+    "bpm": 137,
+    "tone": "Bb major",
+    "artistPeople": [
+      "Micheline Caré"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Jacques Lassry",
+    "lyricists": null,
+    "writers": [
+      "Christian Guitreau"
+    ],
+    "broadcaster": "CLT",
+    "commentators": null,
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 7,
+    "country": "IT",
+    "artist": "Franca Raimondi",
+    "song": "Aprite le finestre",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/OuVmJmW-8wo",
+      "https://www.youtube-nocookie.com/embed/Jv_HLb3neiU",
+      "https://www.youtube-nocookie.com/embed/3IylriU5YI4"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "italian"
+        ],
+        "displayedLanguages": null,
+        "title": "Aprite le finestre",
+        "content": "La prima rosa rossa è già sbocciata\nE nascon timide le viole mammole\nOrmai, la prima rondine è tornata:\nNel cielo limpido comincia a volteggiar\nIl tempo bello viene ad annunciar\n\nAprite le finestre al nuovo sole\nÈ primavera, è primavera\nLasciate entrare un poco d'aria pura\nCon il profumo dei giardini e i prati in fior\n\nAprite le finestre ai nuovi sogni\nBambine belle, innamorate\nÈ forse il più bel sogno che sognate\nSarà domani la felicità:\n\nNel cielo fra le nuvole d'argento\nLa luna ha già fissato appuntamento\nAprite le finestre al nuovo sole\nÈ primavera, festa dell'amor\n\nLa la la la la la la la la la la\nAprite le finestre al nuovo sol\n\nSul davanzale un piccolo usignolo\nDall'ali tenere, le piume morbide\nHa già spiccato il timido suo volo\nE contro i vetri ha cominciato a picchiettar\nIl suo più bel messaggio vuol portar:\n\nÈ primavera, è primavera\n\nAprite le finestre ai nuovi sogni\nAlle speranze, all'illusione\nLasciate entrare l'ultima canzone\nChe dolcemente scenderà nel cuor\n\nNel cielo fra le nuvole d'argento\nLa luna ha già fissato appuntamento\nAprite le finestre al nuovo sole\nÈ primavera, festa dell'amor\n\nLa la la la la la la la la la la\nAprite le fineѕtra al primo аmor"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Open your windows",
+        "content": "The first red rose has already blossomed\nAnd sweet-smelling violets shyly come up\nThe first swallow is back by now\nIt's starting to whirl in the clear sky\nIt comes to announce nice weather\n\nOpen your windows to the newly born sun\nIt's spring, it's spring\nLet a little fresh air in\nWith the smell of gardens and flowery meadows\n\nOpen your windows to new dreams\nBeautiful little girls in love\nIt's maybe the most beautiful dream you dream\nTomorrow it will be happiness\n\nIn the sky, among the silver clouds\nThe moon has already set a date\nOpen your windows to the newly born sun\nIt's spring, the festival of love\n\nLa la la la la la la la la la la\nOpen your windows to the newly born sun\n\nOn the window-sill a small nightingale\nWith tender wings and soft feathers\nHas already shyly flown up\nAnd it's started tapping on the glass\nIt wants to bring its most beautiful message:\n\nIt's spring, it's spring\n\nOpen your windows to new dreams\nTo hope, to illusion\nLet the last song in\nIt will softly go down into your heart\n\nIn the sky, among the silver clouds\nThe moon has already set a date\nOpen your windows to the new sun\nIt's spring, the festival of love\n\nLa la la la la la la la la la lа\nOpen your windows to the firѕt love"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Откройте окна",
+        "content": "Первая красная роза уже расцвела\nИ робкие наскоки фиалок\nВот уже и первая ласточка вернулась:\nВ чистом небе она начинает порхать\nНаступает хорошая погода\n\nОткройте окна навстречу новому солнцу\nЭто весна, это весна\nВпустите немного чистого воздуха\nС ароматом цветущих садов и лугов\n\nОткройте окна для новых мечтаний\nКрасивые девушки, влюбленные\nВозможно, самый прекрасный сон, который вам снится\nБудет завтрашним счастьем\n\nВ небе среди серебристых облаков\nЛуна уже назначила встречу\nОткройте окна навстречу новому солнцу\nВесна, праздник любви\n\nЛа-ла-ла-ла-ла-ла-ла\nОткройте окна навстречу новому солнцу\n\nНа подоконнике сидит соловей\nС нежными крыльями, мягкими перьями\nУже совершил свой робкий полет\nИ о стекло он начал биться\nОн хочет передать свое самое прекрасное послание:\n\nВесна, весна\n\nОткройте свои окна для новых мечтаний\nДля надежд, для иллюзий\nВпустите последнюю песню\nКоторая будет сладко звучать\n\nВ небе среди серебряных облаков\nЛуна уже назначила встречу\nОткройте окна для нового солнца\nВесна, праздник любви\n\nЛа-ла-ла-ла-ла-ла-ла\nОткройте окна навстречу первой любви"
+      }
+    ],
+    "bpm": 143,
+    "tone": "D major",
+    "artistPeople": [
+      "Franca Raimondi"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Virgilio Panzuti"
+    ],
+    "conductor": "Gian Stellari",
+    "lyricists": [
+      "Pinchi"
+    ],
+    "writers": null,
+    "broadcaster": "RAI",
+    "commentators": [
+      "Bianca Maria Piccinino"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 8,
+    "country": "NL",
+    "artist": "Corry Brokken",
+    "song": "Voorgoed voorbij",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/jI4_Z-OCev4",
+      "https://www.youtube-nocookie.com/embed/KG1EvBEr7Yc"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "dutch"
+        ],
+        "displayedLanguages": null,
+        "title": "Voorgoed voorbij",
+        "content": "Voorgoed voorbij\nNu zijn we nooit meer samen\nM'n lieveling\nWat heb ik jou gedaan?\n\nVoorgoed voorbij\nGesloten zijn je ramen\nMaar net als toen\nZie ik viooltjes staan\n\nDe hele wereld geurt\nDe lentebloesem kleurt\nAch, waarom is er ieder jaar een nieuwe mei?\nDat is voor mij voorgoed voorbij\nDe lente van mijn leven\nDat lachend getij\n'T Is alles voorbij\n\nVoor jou was het maar spel\nIk weet heel goed\nJe hebt het niet anders bedoeld\nMaar ik, ik meende 't wel\n'K Heb het maar al te diep gevoeld\n\nDe hele wereld geurt\nDe lentebloesem kleurt\nAch, waarom is er ieder jaar een nieuwe mei?\nDat is voor mij voorgoed voorbij\nDe lente van mijn leven\nDat lachend getij\n'T Is аlleѕ voorbij"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Over for good",
+        "content": "Over for good\nNow we'll never be together again\nMy darling\nWhat have I done to you?\n\nOver for good\nYour windows are closed\nBut just like then\nI still see violets\n\nThe whole world smells good\nThe spring-flower is colouring\nAh, why is there every year a new May?\nFor me, it's over forever\nThe spring of my life\nThat season of mirth\nIt's all over\n\nFor you it was just a game\nI know very well that\nYou didn't mean it that way\nBut me, I did mean it\nI felt it very deeply\n\nThe whole world smells good\nThe spring-flower is colouring\nAh, why is there every year a new May?\nFor me, it's over forever\nThe spring of my life\nThat season of mirth\nIt'ѕ аll over"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Ушла навсегда",
+        "content": "Ушла навсегда\nТеперь мы никогда больше не будем вместе\nМой дорогой\nЧто я сделала с тобой?\n\nУшла навсегда\nЗакрыла твои окна\nНо как и тогда\nЯ вижу фиалки\n\nВесь мир благоухает\nКраски весеннего цветения\nАх, почему каждый год наступает новый май?\nДля меня он исчез навсегда\nВесна моей жизни\nУлыбчивый прилив\nВсе кончено\n\nДля тебя это была лишь игра\nЯ прекрасно знаю\nТы не хотел по-другому\nНо я, я имела это в виду\nЯ чувствовала это слишком глубоко\n\nВесь мир благоухает\nКраски весеннего цветения\nАх, почему каждый год наступает новый май?\nДля меня он исчез навсегда\nВесна моей жизни\nУлыбчивый прилив\nВсе кончено"
+      }
+    ],
+    "bpm": 128,
+    "tone": "Bb major",
+    "artistPeople": [
+      "Corry Brokken"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Fernando Paggi",
+    "lyricists": null,
+    "writers": [
+      "Jelle de Vries"
+    ],
+    "broadcaster": "NTS",
+    "commentators": [
+      "Piet te Nuyl Jr."
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 9,
+    "country": "BE",
+    "artist": "Mony Marc",
+    "song": "Le Plus Beau Jour de ma vie",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/BkXU4JAvnks",
+      "https://www.youtube-nocookie.com/embed/cigjO4vaRa0"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Le Plus Beau Jour de ma vie",
+        "content": "Les cloches sonnent\nTout carillonne\nLe plus beau jour de ma vie\nAujourd'hui je me marie\nDing dong, ding dong\n\nSi maman pleure\nC'est bientôt l'heure\nEt papa m'offre le bras\nNous partons à petits pas\nDing dong, ding dong\n\nLes tout petits enfants me suivent gravement\nPortant ma robe sous mon voile blanc\nVoici mon Prince Charmant, il sourit tendrement\nJe m'avance vers lui le cœur battant\n\nMinute brève comme en un rêve\nNos deux êtres pleins d'amour\nVont être unis pour toujours\nDing dong, ding dong\n\nQuel instant émouvant\nJe suis tout étourdie\nPuis ta main sur ma main\nSimplement j'ai dit 'oui'\n\nOrgue en sourdine, tout s'illumine\nLe portail est large ouvert\nNous sortons sous le ciel clair\nDing dong, ding dong\n\nOn nous admire et j'entends dire\n\"Regardez, elle est jolie\"\n\"Comme ils sont bien assortis\"\nDing dong, ding dong\n\nUn doux bonheur m'étreint tandis que sur ma main\nTes yeux caressent mon anneau d'or fin\nL'espace d'un instant, je refais le serment\nDe vivre pour t'aimer fidèlement\n\nLes cloches sonnent\nTout carillonne\nPour que jamais je n'oublie\nLe pluѕ beau jour de mа vie\nDing dong, ding dong"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "The most beautiful day of my life",
+        "content": "The bells are ringing\nThey're all chiming\nThe most beautiful day of my life\nToday I'm getting married\nDing dong, ding dong\n\nIf mother cries\nThe time has come\nAnd father offers his arm\nWe leave with little steps\nDing dong, ding dong\n\nThe little children follow me gravely\nCarrying my dress under my white veil\nHere is my Charming Prince, he smiles tenderly\nI'm approaching him with pounding heart\n\nA short minute as in a dream\nWe're both full of love\nWe'll always be united\nDing dong, ding dong\n\nWhat a moving moment\nI'm completely absent-minded\nLay your hand on my hand\nI simply said 'yes, I do'\n\nA subdued organ, everything is clearing up\nThe portal is wide open\nWe're leaving under a bright sky\nDing dong, ding dong\n\nThe people admire us and I hear them saying\n\"Look, she's beautiful\"\n\"They match together\"\nDing dong, ding dong\n\nLuck accepts me with open arms\nYour eyes caress my fine golden ring\nThe space of a moment, I remake the oath\nOf living to love you faithfully\n\nThe bells are ringing\nThey're all chiming\nI'll never forget\nThe moѕt beautiful dаy of my life\nDing dong, ding dong"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Лучший день в моей жизни",
+        "content": "Колокола звонят\nВсе звонит\nСамый счастливый день в моей жизни\nСегодня я выхожу замуж\nДинь-дон, динь-дон\n\nЕсли мама плачет\nУже почти время\nИ папа протягивает мне руку\nМы уходим медленными шагами\nДинь-дон, динь-дон\n\nМаленькие дети идут за мной\nВ моем платье под белой вуалью\nА вот и мой прекрасный принц, который нежно улыбается\nЯ иду к нему с бьющимся сердцем\n\nКраткий миг, как сон\nНаши два сердца, полные любви\nСоединятся навсегда\nДинь-дон, динь-дон\n\nКакой трогательный момент\nУ меня так кружится голова\nТвоя рука на моей руке\nЯ просто сказала \"да\"\n\nПриглушенный орган, все вокруг светится\nВорота широко открыты\nМы выходим в чистое небо\nДинь-дон, динь-дон\n\nЛюди восхищаются нами, и я слышу, как они говорят\n\"Смотрите, какая она красивая\n\"Как хорошо они подходят друг другу\"\nДинь-дон, динь-дон\n\nСладкое счастье охватывает меня, когда на моей руке\nТвои глаза ласкают мое кольцо из чистого золота\nНа мгновение я снова даю клятву\nЖить, чтобы верно любить тебя\n\nКолокола звонят\nВсе звонит\nЧтобы я никогда не забывала\nСамый счастливый день в моей жизни\nДинь-дон, динь-дон"
+      }
+    ],
+    "bpm": 107,
+    "tone": "Eb major",
+    "artistPeople": [
+      "Simone Hubertine Léa Marcotty"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Claude Alix"
+    ],
+    "conductor": "Léo Souris",
+    "lyricists": [
+      "David Bee"
+    ],
+    "writers": null,
+    "broadcaster": "NIR",
+    "commentators": [
+      "Piet te Nuyl Jr.",
+      "Raymond Colbert"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 10,
+    "country": "DE",
+    "artist": "Freddy Quinn",
+    "song": "So geht das jede Nacht",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/DJFGwPVKfyk",
+      "https://www.youtube-nocookie.com/embed/1ABQpAW2Z3c"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "So geht das jede Nacht",
+        "content": "Am Sonntag mit Jimmy, am Montag mit Jack\nAm Dienstag, da gehst du mit Johnny weg\n\nSo geht das jede Nacht (So geht das jede Nacht)\nSo geht das jede Nacht (So geht das jede Nacht)\nDas hätt ich nie, nie, nie von dir gedacht\n\nIch schenk dir Blumen und fahr dich ins Büro\nFühr deine Mutter jeden Sonntag in den Zoo\nDoch dich bringt am Mittwoch der Billy nach Haus\nAm Donnerstag gehst du mit Tommy aus\n\nSo geht das jede Nacht (So geht das jede Nacht)\nSo geht das jede Nacht (So geht das jede Nacht)\nDas hätt ich nie, nie, nie von dir gedacht\n\nIch hab dich damals als Baby schon geliebt\nJetzt hab ich Boogie und den Cha Cha Cha geübt\nDoch du tanzt am Freitag, am Freitag mit Ben\nSamstag mit einem, den ich nicht mal kenn\n\nSo geht das jede Nacht (So geht das jede Nacht)\nSo geht das jede Nacht (So geht das jede Nacht)\nDas hätt ich nie, nie, nie von dir gedacht\n\nDoch wenn du gedacht hast, ich sitze zuhaus\nIch geh jeden Tag mit 'ner andren aus\n\nSo geht das jede Nacht (So geht das jede Nacht)\nSo geht das jede Nacht (So geht das jede Nacht)\nDas hätt'ѕt du nie, nie, nie von mir gedаcht"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "That's how it is every night",
+        "content": "On Sunday with Jimmy, on Monday with Jack\nOn Tuesday you go off with Johnny\n\nThat's how it is every night (That's how it is every night)\nThat's how it is every night (That's how it is every night)\nI've never, never thought that of you\n\nI give you flowers and drive you to the office\nTake your mother every Sunday to the zoo\nBut on Wednesday Billy brings you home\nAnd on Thursday you go out with Tommy\n\nThat's how it is every night (That's how it is every night)\nThat's how it is every night (That's how it is every night)\nI've never, never thought that of you\n\nI've loved you since you were a baby\nNow I've been practicing the boogie and the cha-cha-cha\nBut on Friday, on Friday you're dancing with Ben\nSaturday with someone I don't even know\n\nThat's how it is every night (That's how it is every night)\nThat's how it is every night (That's how it is every night)\nI've never, never thought that of you\n\nBut if you were thinking I've been sitting at home\nI've been going out with someone else every day\n\nThat's how it is every night (That's how it is every night)\nThat's how it is every night (That's how it iѕ every night)\nYou've never, never thought thаt of me"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Так проходит каждый вечер",
+        "content": "В воскресенье с Джимми, в понедельник с Джеком\nВо вторник ты встречаешься с Джонни\n\nТак проходит каждый вечер (Так проходит каждый вечер)\nТак проходит каждая ночь (Так проходит каждая ночь)\nЯ бы никогда, никогда, никогда не подумал о тебе такого\n\nЯ буду дарить тебе цветы и возить тебя в офис\nВожу твою маму в зоопарк каждое воскресенье\nНо Билли привозит тебя домой в среду\nВ четверг ты идешь на свидание с Томми\n\nТак проходит каждый вечер (Так проходит каждый вечер)\nТак проходит каждая ночь (Так проходит каждая ночь)\nЯ бы никогда, никогда, никогда не подумал о тебе такого\n\nЯ любил тебя, когда ты была ребенком\nТеперь я практикуюсь в буги и ча-ча-ча\nНо ты танцуешь в пятницу, в пятницу с Беном\nВ субботу с кем-то, кого я даже не знаю\n\nТак проходит каждая ночь (Так проходит каждая ночь)\nТак проходит каждая ночь (Так проходит каждая ночь)\nЯ бы никогда, никогда, никогда не подумал о тебе такого\n\nНо если ты думала, что я буду сидеть дома\nЯ каждый день встречаюсь с кем-то другим\n\nТак проходит каждая ночь (Так проходит каждая ночь)\nТак проходит каждая ночь (Так проходит каждая ночь)\nТы бы никогда, никогда, никогда не подумала обо мне такого"
+      }
+    ],
+    "bpm": 185,
+    "tone": "F major",
+    "artistPeople": [
+      "Franz Eugen Helmut Manfred Niedl-Petz"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Lotar Olias"
+    ],
+    "conductor": "Fernando Paggi",
+    "lyricists": [
+      "Peter Moesser"
+    ],
+    "writers": null,
+    "broadcaster": "ARD",
+    "commentators": [
+      "Irene Koss"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 11,
+    "country": "FR",
+    "artist": "Dany Dauberson",
+    "song": "Il est là",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/c4EpfbOZVZA",
+      "https://www.youtube-nocookie.com/embed/3-o5jOtL9mw"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Il est là",
+        "content": "Je ne peux changer ma vie, il est là\nAussitôt que je le fuis, il est là\nJ'ai beau faire, j'ai beau dire\nJe ne vois que son sourire\nQui toujours semble me dire:\n\"Je suis là, je suis là\"\n\nAccroché dans tous mes rêves, il est là\nEt me poursuivant sans trêve, il est là\nIl a le pouvoir du diable\nQui règne sur ses semblables\nMais quel pouvoir formidable\nIl est là, il est là\n\nJ'ai tout tenté pour l'oublier\nJ'ai traversé le monde entier\nMais aucun homme ne m'a donné\nUne telle part d'éternité\n\nJe ne peux changer ma vie, il est là\nAussitôt que je le fuis, il est là\nIl est extraordinaire\nEt puis comme il sait vous plaire\nNon, il n'y a rien à faire\nIl est là, il est là\n\nPartout ses yeux, partout ses lèvres\nJe sens en moi comme une fièvre\nTout mon être est anéanti\nEt tout le temps je me redis:\n\nJe ne peux changer ma vie, il est là\nAussitôt que je le fuis, il est là\nJ'ai beau faire, j'ai beau dire\nJe ne vois que son sourire\nQui toujours semble me dire:\n\"Je suis là, je suis là\"\n\nQuand je marche dans la rue, il est là\nAu milieu de la cohue, je le vois\nIl a sur moi une emprise\nQui me fait peur et me grise\nEt ma volonté se brise\nIl est là, il est là\n\nOh, j'ai vraiment tout essayé\nSans jamais pouvoir me passer\nNi de son corps ni d'ses baisers\nC'est impossible d'pas l'aimer\n\nJe ne peux changer ma vie, il est là\nAussitôt que je le fuis, il est là\nEt jusqu'à ma dernière heure\nJusqu'à mon dernier quart d'heure\nUne seule chose demeure\n\nJe le verrai là devant moi\nÀ tout jamais il serа là\nIl est là, il est là, il est là\nIl est là\n\nIl eѕt là"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "He's there",
+        "content": "I can't change my life, he's there\nAs soon as I run away from him, he's there\nWhatever I do, whatever I say\nI only see his smile\nWhich always seems to say to me:\n\"I'm there, I'm there\"\n\nClung in all my dreams, he's there\nAnd forcing my attention unremittingly, he's there\nHe has the power of a devil\nWho rules over his fellows\nBut what a wonderful power\nHe's there, he's there\n\nI've tried everything to forget him\nI've crossed the whole world\nBut no man has given me\nSuch a part of eternity\n\nI can't change my life, he's there\nAs soon as I run away from him, he's there\nHe's extraordinary\nAnd how he knows to please you then\nNo, there's nothing to do\nHe's there, he's there\n\nEverywhere his eyes, everywhere his lips\nI feel like I have a fever inside of me\nMy whole being is destroyed\nAnd all the time I repeat to myself:\n\nI can't change my life, he's there\nAs soon as I run away from him, he's there\nWhatever I do, whatever I say\nI only see his smile\nWhich always seems to say to me\n\"I'm there, I'm there\"\n\nWhen I'm walking in the street, he's there\nIn the middle of the crush, I see him\nHe has a hold on me\nWhich frightens me and carries me away\nAnd my desire breaks down\nHe's there, he's there\n\nOh, I really tried everything\nForever able to do without\nHis body and his kisses\nIt's impossible not to love him\n\nI can't change my life, he's there\nAs soon as I run away from him, he's there\nAnd until my last hour\nUntil my last quarter\nOnly one thing will remаin\n\nI will see him there in front of me\nHe will be there forever\nHe's there, he's there, he's there\nHe's there\n\nHe'ѕ there"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Он здесь",
+        "content": "Я не могу изменить свою жизнь, он рядом\nКак только я убегаю от него, он тут как тут\nЧто бы я ни делала, что бы ни говорила\nЯ вижу только его улыбку\nКоторая, кажется, всегда говорит:\n\"Я здесь, я здесь\"\n\nОн рядом, цепляется за все мои мечты\nИ преследует меня без устали, он здесь\nОн обладает силой дьявола\nКоторый властвует над своими собратьями\nНо какая грозная сила\nОн здесь, он здесь\n\nЯ перепробовала все, чтобы забыть его\nЯ объездила весь мир\nНо ни один человек не дал мне\nТакой кусочек вечности\n\nЯ не могу изменить свою жизнь, он рядом\nКак только я убегаю от него, он тут как тут\nОн необыкновенный\nИ он знает, как доставить тебе удовольствие\nНет, ничего не поделаешь\nОн здесь, он здесь\n\nВезде его глаза, везде его губы\nЯ чувствую жар внутри себя\nВсе мое естество разбито вдребезги\nИ все это время я твержу себе:\n\nЯ не могу изменить свою жизнь, он рядом\nКак только я убегаю от него, он тут как тут\nЧто бы я ни делала, что бы ни говорила\nВсе, что я вижу, - это его улыбка\nКоторая, кажется, всегда говорит:\n\"Я здесь, я здесь\"\n\nКогда я иду по улице, он рядом\nВ центре толпы я вижу его\nОн держит меня в руках\nЭто пугает и возбуждает меня\nИ моя воля ломается\nОн здесь, он здесь\n\nО, я перепробовала все\nИ не могу насытиться\nЕго тело и его поцелуи\nНевозможно не любить его\n\nЯ не могу изменить свою жизнь, он рядом\nКак только я убегаю от него, он тут как тут\nИ до последнего часа\nДо последней четверти часа\nЛишь одно останется\n\nЯ буду видеть его перед собой\nВечно и всегда он будет рядом\nОн здесь, он здесь, он здесь\nОн здесь\n\nОн здесь"
+      }
+    ],
+    "bpm": 151,
+    "tone": "G minor",
+    "artistPeople": [
+      "Suzanne Marguerite Renée Gauche"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Franck Pourcel",
+    "lyricists": null,
+    "writers": [
+      "Simone Vallauris"
+    ],
+    "broadcaster": "RTF",
+    "commentators": [
+      "Michelle Rebel"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 12,
+    "country": "LU",
+    "artist": "Michèle Arnaud",
+    "song": "Les Amants de minuit",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/r99NL_NvJps",
+      "https://www.youtube-nocookie.com/embed/1YIoHnEmcfU"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Les Amants de minuit",
+        "content": "Les amants de minuit par hasard se rencontrent\nPar hasard se rencontrent\nEt quant à ce qui suit - bonheur ou malencontreux\nSeule le sait la nuit\n\nÀ l'angle de deux rues, aux tables d'un café\nAu long d'une avenue, deux ombres sont venues\nEt puis, les jeux sont faits\n\nPas de mots inutiles, pas de baisers perdus\nPas de baisers perdus\nPas d'aveux difficiles ni de cœurs morfondus\nNi décevant idylle\n\nÀ l'aube sans retour\nLes amants désapprennent leurs noms et leurs amours\nElles valent les miennes usés par tant de jours\n\nLes amants de minuit par hasard se rencontrent\nPar hasard se rencontrent\nEt quant à ce qui suit - bonheur ou malencontreux\nSeule le sait la nuit\n\nEt si leurs cœurs se donnent un peu plus qu'une nuit\nIl n'y aura personne, personne entre elle et lui\nPour leur crier maldonne\n\nLes amants de minuit par hasard se rencontrent\nPar hasаrd ѕe rencontrent"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Midnight lovers",
+        "content": "Midnight lovers, by chance meet together\nBy chance meet together\nAnd, about what will follow, happiness or unfortunate\nOnly knows the night\n\nAt the corner of two streets, at a café tables\nOn the avenue, two shadows had come\nAnd then, the die is cast\n\nNo pointless words, no lost kisses\nNo lost kisses\nNo difficult confessions, nor dejected heart\nNor disappointing romance\n\nAt dawn no return\nLovers unlearn their names and their loves\nIt is quite the equal of mine, worn out by so many days\n\nMidnight lovers, by chance meet together\nBy chance meet together\nAnd, about what will followed, happiness or unfortunate\nOnly knows the night\n\nAnd if their heart gave themselves a little bit more than one night\nThere will be nobody, nobody between her and him\nTo shout them misdeal\n\nMidnight loverѕ, by chance meet together\nBy chаnce meet together"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Полуночные любовники",
+        "content": "Случайная встреча полуночных любовников\nСлучайная встреча\nИ что за этим последует - счастье или несчастье\nЗнает только ночь\n\nНа углу двух улиц, за столиками кафе\nВдоль аллеи появились две тени\nИ тогда все ставки сделаны\n\nНи бесполезных слов, ни потерянных поцелуев\nНикаких потерянных поцелуев\nНи трудных признаний, ни скорбных сердец\nНикакой разочаровывающей романтики\n\nНа заре невозврата\nВлюбленные не знают своих имен и своих возлюбленных\nОни так же хороши, как и мои, измученные многими днями\n\nСлучайная встреча полуночных любовников\nСлучайная встреча\nИ что будет дальше - счастье или несчастье\nЗнает только ночь\n\nИ если их сердца отдадут чуть больше, чем одну ночь\nНикто, никто не встанет между ним и ею\nЧтобы накликать беду на них\n\nСлучайная встреча полуночных любовников\nСлучайная встреча"
+      }
+    ],
+    "bpm": 99,
+    "tone": "B major",
+    "artistPeople": [
+      "Micheline Caré"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Simone Laurencin"
+    ],
+    "conductor": "Jacques Lassry",
+    "lyricists": [
+      "Jacques Lassry"
+    ],
+    "writers": null,
+    "broadcaster": "CLT",
+    "commentators": null,
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 13,
+    "country": "IT",
+    "artist": "Tonina Torielli",
+    "song": "Amami se vuoi",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/k19AnMpqnE4",
+      "https://www.youtube-nocookie.com/embed/6tNxDrL-Rso",
+      "https://www.youtube-nocookie.com/embed/9WDXszyCzmI"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "italian"
+        ],
+        "displayedLanguages": null,
+        "title": "Amami se vuoi",
+        "content": "Mi piace tanto accarezzarti\nSugli occhi timidi baciarti\nMa non mi sento di giurarti\nSe tu mi chiedi eterno amor\n\nAbbandoniamoci al destino\nSoltanto lui non sa ingannar\nE se rimango a te vicino\nNon lusingarti, ma non disperar, no\n\nAmami se vuoi, tienimi se puoi\nIo son l'amor che svanisce\nMa dei baci miei non fidarti mai\nIo son l'amor che ferisce\n\nE quando fra le braccia mi stringi dolcemente\nAncor più dolcemente ti dirò\nAmami se vuoi, tienimi se puoi\nPerché io sono così\n\nE se rimango a te vicino\nNon lusingarti, ma non disperar, no\n\nAmami se vuoi, tienimi se puoi\nIo son l'amor che svanisce\nMa dei baci miei non fidarti mai\nIo son l'amor che ferisce\n\nE quando fra le braccia mi stringi dolcemente\nAncor più dolcemente ti dirò\nAmаmi se vuoi, tienimi se puoi\nPerché io sono coѕì"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Love me if you want to",
+        "content": "I really like caressing you\nKissing your shy eyes\nBut I don't feel like swearing\nIf you ask me for eternal love\n\nLet's give ourselves up to destiny\nHe's the only one who can't cheat\nAnd if I stay near you\nDon't flatter yourself, but don't despair, no\n\nLove me if you want to, hold me if you can\nI'm the love that fades away\nBut never trust my kisses\nI'm the love that hurts\n\nAnd when you hold me softly in your arms\nEven more softly, I'll say to you:\n\"Love me if you want to, hold me if you can\nBecause I'm like this\"\n\nAnd if I stay near you\nDon't flatter yourself, but don't despair, no\n\nLove me if you want to, hold me if you can\nI'm the love that fades away\nBut never trust my kisses\nI'm the love that hurts\n\nAnd when you hold me softly in your arms\nEven more softly, I will say to you:\n\"Love me if you want to, hold me if you can\nBecаuse I'm like thiѕ\""
+      },
+      {
+        "type": 1,
+        "languages": [
+          "russian"
+        ],
+        "displayedLanguages": null,
+        "title": "Люби меня, если хочешь",
+        "content": "Я люблю ласкать тебя\nЦеловать твои застенчивые глаза\nНо мне не хочется клясться тебе\nЕсли ты попросишь меня о вечной любви\n\nДавай отдадимся судьбе\nТолько она не может обмануть\nИ если я останусь рядом с тобой\nНе льсти себе, но и не отчаивайся, нет\n\nЛюби меня, если хочешь, обними меня, если сможешь\nЯ - любовь, которая исчезает\nНо никогда не доверяй моим поцелуям\nЯ - любовь, которая ранит\n\nИ когда ты нежно обнимешь меня\nЕще слаще я скажу\nЛюби меня, если хочешь, обними меня, если можешь\nВедь я такая\n\nИ если я останусь рядом с тобой\nНе льсти себе, но и не отчаивайся, нет\n\nЛюби меня, если хочешь, обними меня, если сможешь\nЯ - любовь, которая исчезает\nНо никогда не доверяй моим поцелуям\nЯ - любовь, которая ранит\n\nИ когда ты нежно обнимешь меня\nЕще слаще я скажу тебе\nЛюби меня, если хочешь, обними меня, если можешь\nВедь я такая"
+      }
+    ],
+    "bpm": 110,
+    "tone": "F major",
+    "artistPeople": [
+      "Tonina Torrielli"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Vittorio Mascheroni"
+    ],
+    "conductor": "Gian Stellari",
+    "lyricists": [
+      "Mario Panzeri"
+    ],
+    "writers": null,
+    "broadcaster": "RAI",
+    "commentators": [
+      "Bianca Maria Piccinino"
+    ],
+    "jury": null,
+    "spokesperson": null
+  }
+]

@@ -1,0 +1,1014 @@
+[
+  {
+    "id": 0,
+    "country": "ES",
+    "artist": "Massiel",
+    "song": "La, la, la",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/JhPAZOwEY0I",
+      "https://www.youtube-nocookie.com/embed/-Q1pBcKp8Pk",
+      "https://www.youtube-nocookie.com/embed/Vfl11H5PhLo",
+      "https://www.youtube-nocookie.com/embed/MT64siim0HI",
+      "https://www.youtube-nocookie.com/embed/ywbehvoVfv0",
+      "https://www.youtube-nocookie.com/embed/jIRmcyejUuo"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "spanish"
+        ],
+        "displayedLanguages": null,
+        "title": "La, la, la",
+        "content": "(La la la…)\n\nYo canto a la mañana que ve mi juventud\nY al sol que día a día nos trae nueva inquietud\nTodo en la vida es como una canción\nQue cantan cuando naces y también en el adios\n\nLa la la…\n\nLe canto a mi madre que dio vida a mi ser\nLe canto a la tierra que me ha visto crecer\nY canto al día en que sentí el amor\nAndando por la vida aprendí eѕta canción\n\nLa la lа…"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "indonesian"
+        ],
+        "displayedLanguages": null,
+        "title": "La, la, la",
+        "content": "(La la la…)\n\nAku bernyanyi untuk pagi yang menjadi saksi masa mudaku\nDan untuk matahari yang membawa harapan baru hari demi hari\nSegala sesuatu dalam hidup ini seperti sebuah lagu\nYang dinyanyikan saat kau lahir dan juga saat perpisahanmu\n\nLa la la…\n\nAku bernyanyi untuk ibuku yang memberiku hidupku\nAku bernyanyi untuk bumi yang telah melihatku tumbuh\nDan aku bernyanyi untuk hari ketika aku meraѕakan cinta\nMenjalani hidup, aku mempelajari lagu ini\n\nLa la lа…"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "La, la, la",
+        "content": "(La la la…)\n\nJe chante au matin qui voit ma jeunesse\nEt au soleil qui chaque jour nous apporte de nouvelles promesses\nTout dans la vie est comme une chanson\nQue l'on chante à la naissance et aussi lors de l'adieu\n\nLa la la…\n\nJe chante pour ma mère qui a donné vie à mon être\nJe chante pour la terre qui m'a vu grandir\nEt je chante le jour où j'ai ressenti l'amour\nEn marchant dans la vie, j'ai appris cette chanѕon\n\nLa la lа…"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "La, la, la",
+        "content": "(La la la…)\n\nI sing to the morning which sees my youth\nAnd to the sun that brings us new hope day by day\nEverything in life is like a song\nWhich is sung when you were born and also on your farewell\n\nLa la la…\n\nI sing to my mother who gave me my life\nI sing to the earth which has seen me growing\nAnd I sing to the day when I felt love\nWalking through life I learned this ѕong\n\nLa la lа…"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "La, la, la",
+        "content": "(La la la la…)\n\nIch singe dem Morgen, der meine Jugend sieht\nUnd der Sonne, die uns Tag für Tag neue Unruhe bringt\nAlles im Leben ist wie ein Lied\nDas gesungen wird, wenn du geboren wirst und auch beim Abschied\n\nLa la la la…\n\nIch singe meiner Mutter, die mir das Leben schenkte\nIch singe dem Land, das mich aufwachsen sah\nUnd ich singe dem Tag, an dem ich die Liebe spürte\nAuf meinem Weg durchs Leben lernte ich eѕta Lied\n\nLa la la lа…"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": null,
+        "title": "Λα, λα, λα",
+        "content": "(Λα λα λα…)\n\nΤραγουδώ στο πρωί που βλέπει τη νεότητά μου\nΚαι στον ήλιο που φέρνει σε εμας καινούργια ελπίδα μέρα παρά μέρα\nΤα πάντα στη ζωή είναι σαν τραγούδι\nΤο οποίο τραγουδιέται όταν γεννήθηκες αλλά και στον αποχαιρετισμό σου\n\nΛα λα λα…\n\nΤραγουδώ στη μητέρα μου που μου έδωσε τη ζωή μου\nΤραγουδώ στη γη που με έχει δει να μεγαλώνω\nΚαι τραγουδώ στη μέρα όταν ένιωσα αγάπη\nΠερπατώντας στη ζωή έμαθα αυτό το τραγούδι\n\nΛα λα λα…"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "hebrew"
+        ],
+        "displayedLanguages": null,
+        "title": "לה לה לה",
+        "content": "(לה לה לה…)\n\nאני שרה לבוקר, שאת נעוריי ראה\nולשמש, שבכל יום, דאגה נוספת מביאה\nהכל בחיים הוא ממש כמו שיר\nשמוּשָׁר כשאת נוֹלֶדֶת, וגם כשמתים\n\nלה, לה, לה…\n\nאני שרה לאימי, אשר לי חיים נתנה\nושרה גם לארץ, שראתה אותי גְּדֵלָה\nושרה גם ליום שבו חשתי אהבה\nובעודי חיה, השיר הזה נִלְמַד\n\nלה, לה, לה…"
+      },
+      {
+        "type": 2,
+        "languages": [
+          "catalan"
+        ],
+        "displayedLanguages": null,
+        "title": "La la la",
+        "content": "(La, la, la…)\n\nM'en recordo, mare, que em duïes de la mà\nTu eres jove encara, i jo anava fent-me gran\nTeníem fred, però, amb una cançó…\nFeies la nit més clara, i més blava aquella tardor\n\nLa, la, la…\n\nM'en recordo, mare, quan em veies cantar\nTrenca les fronteres, guaita lluny i endavant\nRes no ho pot esborrar, ni ho vull oblidar\nI per a tu, mare meva, cada vespre em ѕenten cantar\n\nLa, la, lа…"
+      }
+    ],
+    "bpm": 137,
+    "tone": "C major",
+    "artistPeople": [
+      "María de los Ángeles Felisa Santa María"
+    ],
+    "backings": [
+      "María Dolores Arenas",
+      "María Jesús Aguirre",
+      "Mercedes Valimaña"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Rafael de Ibarbia Serra",
+    "lyricists": null,
+    "writers": [
+      "Manuel de la Calva",
+      "Ramón Arcusa"
+    ],
+    "broadcaster": "TVE",
+    "commentators": [
+      "Federico Gallo"
+    ],
+    "jury": null,
+    "spokesperson": "Joaquín Prat"
+  },
+  {
+    "id": 1,
+    "country": "GB",
+    "artist": "Cliff Richard",
+    "song": "Congratulations",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/_xJcE9tnY6E",
+      "https://www.youtube-nocookie.com/embed/WgmjyX_7qNM",
+      "https://www.youtube-nocookie.com/embed/sFFzWF09rHc",
+      "https://www.youtube-nocookie.com/embed/gn37JaJmFv8",
+      "https://www.youtube-nocookie.com/embed/rFsD2c_Vky4"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Congratulations",
+        "content": "Congratulations and celebrations\nWhen I tell everyone that you're in love with me\nCongratulations and jubilations\nI want the world to know I'm happy as can be\n\nWho would believe that I could be happy and contented?\nI used to think that happiness hadn't been invented\nBut that was in the bad old days before I met you\nOr when I let you walk into my heart\n\nCongratulations and celebrations\nWhen I tell everyone that you're in love with me\nCongratulations and jubilations\nI want the world to know I'm happy as can be\n\nI was afraid that maybe you thought you were above me\nThat I was only fooling myself to think you'd love me\nBut then tonight you said you couldn't live without me\nThat round about me, you wanted to stay\n\nCongratulations and celebrations\nWhen I tell everyone that you're in love with me\nCongratulations and jubilations\nI want the world to know I'm happy as can be\n\nCongratulations and jubilations\nI want the world to know I'm happy as can be\n\nI want the world to know I'm happy aѕ cаn be"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "italian"
+        ],
+        "displayedLanguages": null,
+        "title": "Congratulazioni",
+        "content": "Congratulazioni e festeggiamenti\nQuando dico a tutti che siete innamorati di me\nCongratulazioni e giubilo\nVoglio che il mondo sappia che sono felice come non mai\n\nChi avrebbe mai creduto che potessi essere felice e contento?\nPensavo che la felicità non fosse stata inventata\nMa quello era nei brutti vecchi tempi prima che ti incontrassi\nO quando ti ho lasciato entrare nel mio cuore\n\nCongratulazioni e festeggiamenti\nQuando dico a tutti che siete innamorati di me\nCongratulazioni e giubilo\nVoglio che il mondo sappia che sono felice come non mai\n\nAvevo paura che forse pensavi di essere superiore a me\nChe mi stessi solo prendendo in giro pensando che mi avresti amato\nMa poi stasera hai detto che non potevi vivere senza di me\nChe intorno a me volevi restare\n\nCongratulazioni e festeggiamenti\nQuando dico a tutti che siete innamorati di me\nCongratulazioni e giubilo\nVoglio che il mondo sappia che sono felice come non mai\n\nCongratulazioni e giubilo\nVoglio che il mondo sappia che sono felice come non mai\n\nVoglio che il mondo sappia che ѕono felice come non mаi"
+      }
+    ],
+    "bpm": 98,
+    "tone": "A major",
+    "artistPeople": [
+      "Harry Rodger Webb"
+    ],
+    "backings": [
+      "Barbara Moore",
+      "Betty Prescott",
+      "Margo Quantrell"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Norrie Paramor",
+    "lyricists": null,
+    "writers": [
+      "Bill Martin",
+      "Phil Coulter"
+    ],
+    "broadcaster": "BBC",
+    "commentators": null,
+    "jury": null,
+    "spokesperson": "Michael Aspel"
+  },
+  {
+    "id": 2,
+    "country": "FR",
+    "artist": "Isabelle Aubret",
+    "song": "La Source",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/Ioyf4dkJYLY",
+      "https://www.youtube-nocookie.com/embed/ycarcGMdCC0",
+      "https://www.youtube-nocookie.com/embed/YM_2z4vsJe0"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "La Source",
+        "content": "Elle chante au milieu du bois, la source, et je me demande\nS'il faut croire à cette légende d'une fille qu'on y trouva\n\nElle était blonde, elle était douce\nElle aimait à se reposer\nDans le bois, couchée sur la mousse\nÉcoutant les oiseaux chanter\n\nUn jour qu'elle allait à la ville\nPar le bois où elle passait\nElle vit soudain, immobiles\nTrois hommes qui la regardaient\nTrois hommes qui la regardaient\n\nElle chante au milieu du bois, la source, et je me demande\nS'il faut croire à cette légende d'une fille qu'on y trouva\n\nIls étaient là, trois, à l'attendre\nTrois hommes loups, cette brebis\nElle avait la chair bien trop tendre\nIls avaient bien trop d'appétit\n\nElle ne savait pas défendre\nLe souffle léger de sa vie\nElle tomba sur l'herbe tendre\nComme un oiseau tombe du nid\nComme un oiseau tombe du nid\n\nElle chante au milieu du bois, la source, et je me demande\nS'il faut croire à cette légende d'une fille qu'on y trouva\n\nQuand on l'a soulevée de terre\nComme une grande fleur coupée\nSa robe blanche et la lumière\nOn aurait dit une mariée\n\nQuand on l'a soulevée de terre\nOn aurait dit comme un grand lis\nEntre les feuilles, entre les pierres\nUne claire source a jailli\nUne claire source a jailli\n\nElle chante au milieu du bois, la ѕource, et je me demande\nS'il faut croire à cette légende d'une fille qu'on y trouva\n\nS'il faut croire à cette légende d'une fille qu'on y trouvа"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "The Source",
+        "content": "The source sings in the middle of the wood, and I wonder\nIf I should believe this legend of a girl they found there\n\nShe was blonde, she was gentle\nShe liked to rest\nIn the wood, lying down on the moss\nListening to the birds singing\n\nOne day she was going to town\nThrough the woods, that she passed by\nShe suddenly saw, motionless\nThree men looking at her\nThree men looking at her\n\nThe source sings in the middle of the wood, and I wonder\nIf I should believe this legend of a girl they found there\n\nThey were three, there, waiting for her\nThree men-wolves, this lamb\nHer flesh was much too tender\nThey had too much appetite\n\nShe didn't know how to defend\nThe fragile breath of her life\nShe fell down on the soft grass\nLike a bird falls from the nest\nLike a bird falls from the nest\n\nThe source sings in the middle of the wood, and I wonder\nIf I should believe this legend of a girl they found there\n\nWhen they picked her up from the ground\nLike a big cut flower\nHer white dress and the light\nShe looked like a bride\n\nWhen they picked her up from the ground\nShe looked like a big lily\nAmong the leaves, among the rocks\nA pure source gushed out\nA pure source gushed out\n\nThe source sings in the middle of the wood, and I wonder\nIf I should believe this legend of a girl they found there\n\nIf I should believe thiѕ legend of а girl they found there"
+      }
+    ],
+    "bpm": 103,
+    "tone": "G major",
+    "artistPeople": [
+      "Thérèse Coquerelle"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Daniel Faure"
+    ],
+    "conductor": "Alain Goraguer",
+    "lyricists": [
+      "Guy Bonnet",
+      "Henri Djian"
+    ],
+    "writers": null,
+    "broadcaster": "ORTF",
+    "commentators": [
+      "Pierre Tchernia"
+    ],
+    "jury": null,
+    "spokesperson": "Jean-Claude Massoulier"
+  },
+  {
+    "id": 3,
+    "country": "IE",
+    "artist": "Pat McGeegan",
+    "song": "Chance of a Lifetime",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/sibyBO_do5M",
+      "https://www.youtube-nocookie.com/embed/xhPwWMv-xrM"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Chance of a Lifetime",
+        "content": "One day, while I was out walking\nI saw your face in the midst of a crowd\nHere, I thought, is the chance of a lifetime\nI thought you'd stepped from a cloud\n\nThink of that wonderful meeting\nOh, the sun shone down on us from above\nWhy should I be out walking that day and get\nThe chance of a lifetime of love?\n\nShow me the way you are feeling\nAlways tell me just what I should know\nOh, a guiding hand must have brought us together\nBut now that seems so long ago\n\nYou are the one I have dreamt of\nOh, I never thought my dreams would come true\nAll I want is the chance of a lifetime\nThe chance of a lifetime with you\n\nShow me the way you are feeling\nAlways tell me just what I should know\nOh, a guiding hand must have brought us together\nBut now that seems so long ago\n\nYou are the one I have dreamt of\nI never thought my dreams would come true\nAll I want is the chance of a lifetime\nThe chance of a lifetime with you\n\nAll I want iѕ the chance of a lifetime\nThe chance of а lifetime with you"
+      }
+    ],
+    "bpm": 104,
+    "tone": "Eb major",
+    "artistPeople": [
+      "Patrick McGuigan"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Noel Kelehan",
+    "lyricists": null,
+    "writers": [
+      "John Kennedy"
+    ],
+    "broadcaster": "RTÉ",
+    "commentators": [
+      "Brendan O'Reilly"
+    ],
+    "jury": null,
+    "spokesperson": "Gay Byrne"
+  },
+  {
+    "id": 4,
+    "country": "SE",
+    "artist": "Claes-Göran Hederström",
+    "song": "Det börjar verka kärlek, banne mej",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/c1IzEh6aTXU",
+      "https://www.youtube-nocookie.com/embed/IKSEfCVVlZU",
+      "https://www.youtube-nocookie.com/embed/M4QlgEYkkQo"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "swedish"
+        ],
+        "displayedLanguages": null,
+        "title": "Det börjar verka kärlek, banne mej",
+        "content": "I förrgår sa jag plötsligt nej till killarna\nNär de skulle ha ett party\nSe'n satt jag en hel kväll och konverserade\nMed din mamma och va' arti'\n\nDet börjar verka kärlek, banne mej\nSån't som man ser på bio, tänka sej\nJag är väl misstänksam, men tanken sticker fram\nMen för all del, jag kan ha fel\n\nI går kväll gick jag med dej på en snyftare\nFast jag ville gå på pang-pang\nOch se'n satt jag och hörde på en stråkkvartett\nJag som bara gillar dang-dang\n\nDet börjar verka kärlek, banne mej\nSån't där som står i böcker, tänka sej\nJag fattar ingenting, jag är väl lite ding\nSå för all del, jag kan ha fel\n\nI morse sjöng jag när jag borsta' tänderna\nOch se'n fick jag arbetsdille\nSe'n ringde jag till dej om inte nå'nting alls\nBara för jag plötsligt ville\n\nDet börjar verka kärlek, banne mej\nSån't där som händer andra, tänka sej\nDet mesta pekar på att jag är kär och så\nMen för all del, jag kan ha fel\n\nDet börjar verka kärlek, banne mej\nSån't där som händer andra, tänka sej\nDet mesta pekar på att jag är kär och ѕå\nMen för all del, jag kan ha fel\nJag kan hа fel"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "It's beginning to look like love, darn it",
+        "content": "The day before yesterday I suddenly turned down the guys\nWhen they invited me to a party\nAnd then I spent a whole evening conversing\nWith your mother, being polite\n\nIt's beginning to look like love, darn it\nThe kind of thing you see in the movies, imagine that\nI guess I'm suspicious, but the thought crops up\nBut by all means, I could be wrong\n\nLast night I went with you and watched a tearjerker\nAlthough I wanted to watch 'bang-bang'\nAnd then I sat listening to a string quartet\nMe, I only used to like 'twang-twang'\n\nIt's beginning to look like love, darn it\nThe kind of thing you read about in books, imagine that\nI don't understand it, I guess I'm a little stupid\nBut by all means, I could be wrong\n\nThis morning I sang as I brushed my teeth\nAnd then I began working like crazy\nAnd then I called you about nothing at all\nJust because I suddenly felt like it\n\nIt's beginning to look like love, darn it\nThe kind of thing that happens to others, imagine that\nIt all indicates, that I'm in love and all that\nBut by all means, I could be wrong\n\nIt's beginning to look like love, darn it\nThe kind of thing that happens to others, imagine that\nIt all indicates, that I'm in love and all that\nBut by all meаnѕ, I could be wrong\nI could be wrong"
+      }
+    ],
+    "bpm": 92,
+    "tone": "C# major",
+    "artistPeople": [
+      "Claes-Göran Hederström"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Mats Olsson",
+    "lyricists": null,
+    "writers": [
+      "Peter Himmelstrand"
+    ],
+    "broadcaster": "SR",
+    "commentators": [
+      "Christina Hansegård"
+    ],
+    "jury": null,
+    "spokesperson": "Edvard Matz"
+  },
+  {
+    "id": 5,
+    "country": "DE",
+    "artist": "Wencke Myhre",
+    "song": "Ein Hoch der Liebe",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/E2v4PNffkqQ",
+      "https://www.youtube-nocookie.com/embed/TPz_OC51VVY",
+      "https://www.youtube-nocookie.com/embed/h8O_Ry20GFU",
+      "https://www.youtube-nocookie.com/embed/vfxdVbEc-qI",
+      "https://www.youtube-nocookie.com/embed/WGtdKFo5CQ4"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "Ein Hoch der Liebe",
+        "content": "Ein Hoch der Liebe, vive l'amour\nThree cheers for love, viva l'amor\nDie unsre Welt so jung erhält\n\nEs war beim ersten Mal\nVielleicht hab ich mich da noch geirrt\nEs war beim zweiten Mal\nDa hast du mich schon sehr verwirrt\nDoch beim dritten Mal\nDa ahnte ich gleich, wohin das führt\nUnd dann, beim vierten Mal\nHab ich genau gespürt\n\nEin Hoch der Liebe, vive l'amour\nThree cheers for love, viva l'amor\nDie unsre Welt so jung erhält\n\nEin Hoch der Liebe, vive l'amour\nThree cheers for love, viva l'amor\nDie unsre Welt so jung erhält\n\nDas ist das erste Mal für mich\nUnd nur du bist schuld daran\nDas ist das erste Mal für mich\nDas ich sagen kann:\n\nEin Hoch der Liebe, vive l'amour\nThree cheers for love, viva l'amor\nDie unsre Welt so jung erhält\n\nSo ist es jedes Mal mit dir\nUnd nur du bist schuld daran\nDass ich das nächste Mal mit dir\nKaum noch erwarten kann\nDenn beim ersten Mal\nDa wusste ich schon wohin das führt\nDass es ein letztes Mal für uns nie geben wird\n\nLalalala lalalala…\nLalalala lalalala…\nLalalala lalalala…\n\nLiebe, Liebe, die unsre Welt so jung erhält\n\nSeit sich die Erde dreht\nWie auch dein Glücksstern steht\nWohin der Wind dich weht\n\nEin Hoch der Liebe, vive l'amour\nThree cheers for love, viva l'amor\nDie immer blüht, wohin mаn sieht\nDie unsre Welt ѕo jung erhält"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "A toast to love",
+        "content": "A toast to love, long live love\nThree cheers for love, long live love\nWhich keeps our world so young\n\nIt was the first time\nMaybe I got it wrong then\nIt was the second time\nThat you really confused me\nBut the third time\nI knew right away where it was headed\nAnd then, the fourth time\nI felt it for sure\n\nA toast to love, long live love\nThree cheers for love, long live love\nWhich keeps our world so young\n\nA toast to love, long live love\nThree cheers for love, long live love\nWhich keeps our world so young\n\nThat's the first time for me\nAnd it's only because of you\nThat's the first time for me\nThat I've been able to say:\n\nA toast to love, long live love\nThree cheers for love, long live love\nWhich keeps our world so young\n\nThat's how it is every time with you\nAnd it's only because of you\nThat for the next time with you\nI can hardly wait\nBecause the first time\nI already knew where it was headed\nThat there'd never be a last time for us\n\nLalalala lalalala…\nLalalala lalalala…\nLalalala lalalala…\n\nLove, love, which keeps our world so young\n\nSince the world is turning\nWherever your lucky star may be\nWherever the wind may drift you\n\nA toast to love, long live love\nThree cheers for love, long live love\nWhich alwаys blooms, wherever you look\nWhich keeps our world ѕo young"
+      }
+    ],
+    "bpm": 95,
+    "tone": "C# major",
+    "artistPeople": [
+      "Wenche Synnøve Myhre"
+    ],
+    "backings": [
+      "Gisela Schäuble",
+      "Rosemarie Gongolski",
+      "Rosemarie Siegel"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Horst Jankowski"
+    ],
+    "conductor": "Horst Jankowski",
+    "lyricists": [
+      "Carl J. Schäuble"
+    ],
+    "writers": null,
+    "broadcaster": "ARD",
+    "commentators": [
+      "Hans-Joachim Rauschenbach"
+    ],
+    "jury": null,
+    "spokesperson": "Hans-Otto Grünefeldt"
+  },
+  {
+    "id": 6,
+    "country": "BE",
+    "artist": "Claude Lombard",
+    "song": "Quand tu reviendras",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/MySlh7ah_MQ",
+      "https://www.youtube-nocookie.com/embed/k5sQwrWZC0I",
+      "https://www.youtube-nocookie.com/embed/Hhbcj745f8E",
+      "https://www.youtube-nocookie.com/embed/RH5ceMRxAR4",
+      "https://www.youtube-nocookie.com/embed/BDioUdv-Mrg"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Quand tu reviendras",
+        "content": "Quand tu reviendras, toi qui m'as quittée\nToi qui es si loin de moi\nUn oiseau me dira: \"Chante ton bonheur\"\n\nQuand tu reviendras, te hâtant là-bas\nPar nos chemins d'autrefois\nMonteront tes couleurs aux créneaux de mon cœur\n\nPassent les semaines, se traînent les jours\nEt moi, j'attends ton retour\nEn filant la laine dans mes beaux atours\nEn bordant ma peine de doux fils d'amour\n\nQuand tu reviendras, toi qui m'as laissé\nTant d'espoir au fond de moi\nMon amour t'attendra auprès d'un feu de bois\n\nVeille ma tendresse sur ton étendard\nMais avant de te revoir\nMoi, pauvre princesse, le cœur dans le noir\nJe tourne sans cesse mon rouet d'espoir\n\nCar tu reviendras sans plus me quitter\nEt mon cœur sera comblé\nPuisque je t'aime, puiѕque je t'аime"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "When you will come back",
+        "content": "When you will come back, you who have left me\nYou who are so far away from me\nA bird will tell me: \"Sing your bliss\"\n\nWhen you will come back, hasting you over there\nAlong our ancient roads\nShowing your colours in the merlons of my heart\n\nWeeks passing by, the days are lingering\nAnd I'm waiting for your return\nSpinning the wool in my beautiful finery\nEmbroiding my pain in soft threads of love\n\nWhen you will come back, you who have left me\nWith a lot of hope in front of me\nMy love is waiting for you nearby a wood fire\n\nWatch my tenderness on your standard\nBut before seeing you back\nMe, poor princess, my heart in black\nI'm turning incessantly my spinning wheel of hope\n\nBecause you will come back without ever leaving me again\nAnd my heart will be satisfied\nBecause I love you, becаuѕe I love you"
+      }
+    ],
+    "bpm": 110,
+    "tone": "D minor",
+    "artistPeople": [
+      "Claude Lombard"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Jo van Wetter"
+    ],
+    "conductor": "Henri Segers",
+    "lyricists": [
+      "Roland Dero"
+    ],
+    "writers": null,
+    "broadcaster": "RTB",
+    "commentators": [
+      "Herman Verelst",
+      "Paule Herreman"
+    ],
+    "jury": null,
+    "spokesperson": "André Hagon"
+  },
+  {
+    "id": 7,
+    "country": "MC",
+    "artist": "Line & Willy",
+    "song": "À chacun sa chanson",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/8_3iE_L1Mbg",
+      "https://www.youtube-nocookie.com/embed/K5KCr8KWsu0"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "À chacun sa chanson",
+        "content": "À chacun sa chanson, nous, on veut chanter l'amour\nTous les refrains qui sont notre histoire de tous les jours\nQue ça pleure ou que ça rie importe peu\nCe qui compte, à mon avis, c'est d'être deux\n\nDeux dans une chanson, deux qui jouent avec l'amour\nOù l'un part sans raison et l'autre attend le retour\n\nÀ chacun sa chanson, nous, on veut chanter l'amour\nDes refrains sans façons, pleine de sentiments autour\nJe suis comme les amoureux de mes refrains\nQue ça pleure ou rie comme eux, ça ne fait rien\n\nL'important c'est d'aimer, tout donner, mais en retour\nVous vous reconnaîtrez au cœur d'un refrain d'amour\n\nLa lala lala lala…\nLa lala lala lalalala lala…\n\nÀ chacun sa chanson, nous, on veut chanter l'amour\nTous les refrains qui sont notre histoire de tous les jours\nDes refrains sans façons, pleine de sentiments autour\nÀ chacun sa chanson, chacun sa chanson d'amour\n(À chacun sa chanson, chacun sa chanson d'amour)\nÀ chacun sa chanson, chacun sa chanson d'amour\n(À chacun sa chanson, chacun sa chanson d'amour)\nÀ chacun sa chanson, chacun sa chаnѕon"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "To everyone his song",
+        "content": "To everyone his song, we want to sing about love\nEvery refrain is our everyday story\nWhether it cries or laughs isn't very important\nWhat counts, in my opinion, is being two\n\nTwo in a song, two who play with love\nWhere one leaves without reason and the other awaits the return\n\nTo everyone his song, we want to sing about love\nUnforced refrains, full of sentiments around them\nI'm like the lovers of my refrains\nWhether it cries or laughs like them, that doesn't matter\n\nThe important thing is to love, to give everything, but in return\nYou meet yourself again in the heart of a refrain of love\n\nLa lala lala lala…\nLa lala lala lalalala lala…\n\nTo everyone his song, we want to sing about love\nEvery refrain is our everyday story\nUnforced refrains, full of sentiments аround them\nTo everyone his song, everyone his song of love\n(To everyone his song, everyone his song of love)\nTo everyone his song, everyone his song of love\n(To everyone his song, everyone his song of love)\nTo everyone his song, everyone his ѕong of love"
+      }
+    ],
+    "bpm": 117,
+    "tone": "F# major",
+    "artistPeople": [
+      "Jacqueline Van Meenen",
+      "Claude Boillod"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Jean-Claude Oliver"
+    ],
+    "conductor": "Michel Colombier",
+    "lyricists": [
+      "Roland Valade"
+    ],
+    "writers": null,
+    "broadcaster": "TMC",
+    "commentators": [
+      "Pierre Tchernia"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 8,
+    "country": "YU",
+    "artist": "Lući Kapurso & Hamo Hajdarhodžić",
+    "song": "Jedan dan",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/T8vLS6M5P8A",
+      "https://www.youtube-nocookie.com/embed/i-yvd9xNwyI",
+      "https://www.youtube-nocookie.com/embed/8mqho7lzTLQ",
+      "https://www.youtube-nocookie.com/embed/iDNiwTBPuag"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "croatian"
+        ],
+        "displayedLanguages": null,
+        "title": "Jedan dan",
+        "content": "Jedan dan, samo jedan dan\nOnaj pravi presudan čudan dan\nJedan dan, samo jedan dan\nPa da bude sav život radostan\n\nJedan dan, samo jedan dan\nOnaj pravi presudan čudan dan\nJedan dan, samo jedan dan\nPa da bude sav život radostan\n\nDani svi, svi ko jedan dan\nProć' će dobro znam\nA ljubav moja neće\nZanju živim za nju dajem sve\n\nJedan dan, samo jedan dan\nTo je život, pun život nije san\nJedan dan, onaj pravi dan\nTo je mladost, ljubav, radost stvaran san\n\nJedan dan, samo jedan dan\nOnaj pravi presudan čudan dan\nJedan dan, samo jedan dan\nPa da bude sav život radostan\n\nDani svi, svi ko jedan dan\nProć' će dobro znam\nA ljubav moja neće\nZanju živim za nju dajem sve\n\nJedan dan, samo jedan dan\nTo je život, pun život nije san\nJedan dan, onaj pravi dan\nTo je mladost, ljubav, radost stvaran ѕаn"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "One day",
+        "content": "One day, just one day\nThat real, key and odd day\nOne day, just one day\nSo may the life be happy\n\nOne day, just one day\nThat real, key and odd day\nOne day, just one day\nSo may the life be happy\n\nAll the days, like one day\nAre going away, I know\nBut my love won't\nI live during day, I give everything to a day\n\nOne day, that real day\nThat's life, rich life, not a dream\nOne day, that real day\nThat's youth, love, happiness, real day\n\nOne day, just one day\nThat real, key and odd day\nOne day, just one day\nSo may the life be happy\n\nAll the days, like one day\nAre going away, I know\nBut my love won't\nI live during day, I give everything to a day\n\nOne day, that real day\nThat's life, rich life, not a dream\nOne day, that real day\nThat's youth, love, happinesѕ, real dаy"
+      }
+    ],
+    "bpm": 126,
+    "tone": "D major",
+    "artistPeople": [
+      "Hamo Hajdarhodžić",
+      "Luciano Capurso"
+    ],
+    "backings": [
+      "Đelo Jusić",
+      "Ladislav Padjen",
+      "Marko Brešković"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Đelo Jusić",
+      "Stipica Kalogjera"
+    ],
+    "conductor": "Miljenko Prohaska",
+    "lyricists": [
+      "Stijepo Stražičić"
+    ],
+    "writers": null,
+    "broadcaster": "JRT",
+    "commentators": [
+      "Miloje Orlović",
+      "Mladen Delić",
+      "Tomaž Terček"
+    ],
+    "jury": null,
+    "spokesperson": "Snežana Lipkovska-Hadžinaumova"
+  },
+  {
+    "id": 9,
+    "country": "IT",
+    "artist": "Sergio Endrigo",
+    "song": "Marianne",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/9rXq0RVY-4g",
+      "https://www.youtube-nocookie.com/embed/BNkTMwjWR_g",
+      "https://www.youtube-nocookie.com/embed/5VsfauNLY1M"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "italian"
+        ],
+        "displayedLanguages": null,
+        "title": "Marianne",
+        "content": "Marianne, mi fai felice per un attimo\nPoi non vivo più, Marianne\n\nChe cos'è questa gran voglia che hai di correre?\nNon ti fermi mai qui con me\n\nDove vai? Da dove vieni, amore?\nDove vai, rimani un poco accanto a me\nSe per sognare vendi i sogni tuoi\nForse è disperata la tua gioventù\n\nMarianne, tu ami i fiori e non ti accorgi mai\nChe io amo te, Marianne\n\nMarianne\n\nDove vai? Da dove vieni, amore?\nDove vai, rimani un poco accanto a me\nSe per sognare vendi i sogni tuoi\nForse è diѕperata la tua gioventù\n\nMarianne, tu ami i fiori e non ti accorgi mai\nChe io amo te, Marianne\n\nMarianne, Mariаnne"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Marianne",
+        "content": "Marianne, you make me happy for a moment\nThen I don't live any longer, Marianne\n\nWhat is that great wish that you have to run for?\nYou never stop here with me\n\nWhere are you going? Where do you come from, my love?\nThere where you're going, stay next to me for a while\nIf you are selling your dreams for dreaming\nMaybe your youth is desperate\n\nMarianne, you love the flowers and you'll never realise\nThat I love you, Marianne\n\nMarianne\n\nWhere are you going? Where do you come from, my love?\nThere where you are going, stay next to me for a while\nIf you are selling your dreams for dreaming\nMaybe your youth is desperate\n\nMarianne, you love the flowers and you'll never realiѕe\nThat I love you, Marianne\n\nMarianne, Mariаnne"
+      }
+    ],
+    "bpm": 123,
+    "tone": "G major",
+    "artistPeople": [
+      "Sergio Endrigo"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Giancarlo Chiaramello",
+    "lyricists": null,
+    "writers": [
+      "Sergio Endrigo"
+    ],
+    "broadcaster": "RAI",
+    "commentators": [
+      "Renato Tagliani"
+    ],
+    "jury": null,
+    "spokesperson": "Mike Bongiorno"
+  },
+  {
+    "id": 10,
+    "country": "PT",
+    "artist": "Carlos Mendes",
+    "song": "Verão",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/ppiDaJG7YAU",
+      "https://www.youtube-nocookie.com/embed/S0GpirEvTyY",
+      "https://www.youtube-nocookie.com/embed/AnlZd9dETWY",
+      "https://www.youtube-nocookie.com/embed/IqH_ChLeiy0",
+      "https://www.youtube-nocookie.com/embed/R3JL_iYSU9g"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "portuguese"
+        ],
+        "displayedLanguages": null,
+        "title": "Verão",
+        "content": "Como tudo o que acaba\nComo pedra rolando duma fraga\nComo fumo subindo no ar\n\nAssim estou quase indiferente\nCaminhando sem mais notar a gente\nQue por mim vejo passar\n\nO Verão já terminou\nFoi um sonho que findou\nNão interessa mais pensar\n\nAssim deixo esta tristeza\nVogando embalado na certeza\nQue o Verão há-de voltar\n\nE o Verão que sonho perto\nVai trazer para mim eu sei de certo\nAquilo que eѕte agora veio tirаr"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Summer",
+        "content": "Like an ending to everything\nLike a stone rolling from a crag\nLike smoke rising in the air\n\nI'm almost indifferent\nWalking by, without looking to people\nThat I watch passing me by\n\nThe summer is over\nIt was a dream that ended\nI won't think about it\n\nTherefore I leave this sadness\nDrifting, rocked, by being certain\nThat the summer will return\n\nAnd the summer that I long to come near\nWill surely bring me\nWhat this ѕummer took awаy"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "spanish"
+        ],
+        "displayedLanguages": null,
+        "title": "Verano",
+        "content": "Como todo lo que acaba\nComo una piedra rodando desde una roca\nComo el humo subiendo al aire\n\nAsí estoy, casi indiferente\nCaminando sin notar a la gente\nQue por mí veo pasar\n\nEl verano ya terminó\nFue un sueño que terminó\nYa no importa pensar más\n\nAsí dejo esta tristeza\nNavegando, envuelto en la certeza\nDe que el verano volverá\n\nY el verano que sueño cerca\nTraerá para mí, lo sé con certeza\nAquello que eѕte ahora vino a quitаr"
+      }
+    ],
+    "bpm": 132,
+    "tone": "Eb major",
+    "artistPeople": [
+      "Carlos Mendes"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Pedro Osório"
+    ],
+    "conductor": "Joaquim Luís Gomes",
+    "lyricists": [
+      "José Alberto Diogo"
+    ],
+    "writers": null,
+    "broadcaster": "RTP",
+    "commentators": [
+      "Fialho Gouveia"
+    ],
+    "jury": null,
+    "spokesperson": "Maria Manuela Furtado"
+  },
+  {
+    "id": 11,
+    "country": "LU",
+    "artist": "Chris Baldo & Sophie Garel",
+    "song": "Nous vivrons d'amour",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/K1opU8M6T6c",
+      "https://www.youtube-nocookie.com/embed/Gf34pP9Dh8s",
+      "https://www.youtube-nocookie.com/embed/YDh7geAnFAA",
+      "https://www.youtube-nocookie.com/embed/pTG31IDN1rw"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Nous vivrons d'amour",
+        "content": "À se tromper pour tromper l'ennui\nLe temps d'aimer et des ciels de pluie\nDes fleurs fanées ou des cœurs flétris\nOn voit trop ça dans la vie\n\nMais toi et moi, nous vivrons d'amour\nSans faire un pas vers quelques détours\nOui, toi et moi, nous vivrons d'amour\nHeureux jusqu'au dernier jour\n\nJe lis ma vie au fond de tes yeux\nEt je m'y vois toujours plus heureux\nJe sais que d'autres ont connu ces joies\nEt pleuré plus d'une fois\n\nMais toi et moi, nous vivrons d'amour\nSans faire un pas vers quelques détours\nOui, toi et moi, nous vivrons d'amour\nHeureux jusqu'au dernier jour\n\nOui, toi et moi, nous vivrons d'amour\nOn a le droit de s'aimer toujours\nOn a le droit de croire à l'amour\nNous deux, jusqu'au dernier jour\n\nOui, toi et moi, nous vivrons d'amour\nOn a le droit de s'аimer toujourѕ"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "We'll live on love",
+        "content": "By being wrong to chase away boredom\nThe time of loving and of skies of rain\nWithered flowers or faded hearts\nWe see too many of those in life\n\nBut you and me, we'll live on love\nWithout making a step to a few detours\nYes, you and me, we'll live on love\nHappy until the last day\n\nI read my life in the depth of your eyes\nAnd there I see myself always happier\nI know that others have known these joys\nAnd have cried more than once\n\nBut you and me, we'll live on love\nWithout making a step towards a few detours\nYes, you and me, we'll live on love\nHappy until the last day\n\nYes, you and me, we'll live on love\nWe have the right to always love each other\nWe have the right to believe in love\nBoth of us, until the last day\n\nYes, you and me, we'll live on love\nWe have the right to alwayѕ love eаch other"
+      }
+    ],
+    "bpm": 84,
+    "tone": "F major",
+    "artistPeople": [
+      "Chris Baldo",
+      "Sophie Garel"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Carlos Leresche"
+    ],
+    "conductor": "André Borly",
+    "lyricists": [
+      "Jacques Demarny"
+    ],
+    "writers": null,
+    "broadcaster": "CLT",
+    "commentators": [
+      "Jacques Navadic"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 12,
+    "country": "AT",
+    "artist": "Karel Gott",
+    "song": "Tausend Fenster",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/9sAPi8SCJgo",
+      "https://www.youtube-nocookie.com/embed/F2o3e8qvn-0",
+      "https://www.youtube-nocookie.com/embed/gpg8YwuG5AA",
+      "https://www.youtube-nocookie.com/embed/wzs1akXOUmY",
+      "https://www.youtube-nocookie.com/embed/G_weyW2NR_Q"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "Tausend Fenster",
+        "content": "Nun trägt schon die Stadt ihr Abendkleid\nEin Lichtermeer in der Dunkelheit\nDie große Einsamkeit tritt in jedes Haus um diese Zeit\n\nWie auf kleinen Inseln leben wir\nDu weißt nicht mal, wer wohnt neben dir\nIhr alle kennt euch nicht\nIn der gleichen Welt von Lärm und Licht\n\nViele tausend Fenster leuchten hell in dieser Stadt\nUnd du fragst dich: Wer mag wohl dahinter sein?\nViele tausend Fenster sagen stumm: Hier lebt noch wer\nGrad' wie du so einsam und allein\n\nKann da drüben das der Mensch nicht sein\nVon dem du träumst, schon jahraus jahrein?\nDer dein Zuhause wär?\nDoch dich trennt von ihm ein Häusermeer\n\nMorgen ist dein Herz genauso leer\nDann hoffst du auch noch genauso sehr\nNicht so allein zu sein\nIn der grauen Welt aus Stahl und Stein\n\nViele tausend Fenster leuchten hell in dieser Stadt\nUnd du fragst dich: Wer mag wohl dahinter sein?\nViele tausend Fenster sagen stumm: Hier lebt noch wer\nGrad' wie du so einѕam und аllein"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Thousands of windows",
+        "content": "Now the city wears an evening dress\nA sea of lights in the darkness\nThe loneliness enters in every house at this time\n\nWe live like we're on little islands\nYou even don't know who lives next to you\nYou all, you don't know each other\nIn the same world of noise and lights\n\nMany thousands of windows shine bright in this city\nAnd you ask yourself: Who might be behind them?\nMany thousands of windows say silently: here still lives somebody\nAs lonesome and alone as you\n\nCould that human over there be the one\nOf whom you are dreaming year after year?\nWho might be your home?\nBut you are seperated from him by a sea of houses\n\nTomorrow your heart is still empty\nThen you are still hoping\nThat you are not alone\nIn this grey world of steel and stone\n\nMany thousands of windows shine bright in this city\nAnd you ask yourself: who might be behind them?\nMany thousands of windows say silently: Here still lives somebody\nAs lonesome and alone аѕ you"
+      },
+      {
+        "type": 2,
+        "languages": [
+          "czech"
+        ],
+        "displayedLanguages": null,
+        "title": "Vítám vítr v údolí",
+        "content": "Zas byl suchý rok a málo dal\nA bůhvíčím, že déšť nepadal\nNáš lán se žárem vzňal\nA tak zpívám žal u ohně dál\n\nPouhý rok byl suchý a chléb nám vzal\nA bůh jen ví, jak nás uchoval\nVšak v dáli oblak stál\nA teď houstne nám na nebi dál\n\nA tak vítám vítr, vítám zpátky v údolí\nJen ať fouká, dlouho fouká, zkrátka dál\nAno, vítám vítr, vítám náhlý z nebe dar\nTam kde pouze úhor byl a žár\n\nTam, kde suchý rok nám úsměv vzal\nA lásku nám tak odepsal\nKde lán se žárem vzňal\nKde bych zpíval žal u ohně dál\n\nSucho na dně řek a v studnách kal\nA bůh jen ví, jak nás uchoval\nVšak v dáli oblak stál\nA teď houѕtne nám na nebi dál\n\nA tak vítám vítr, vítám zpátky v údolí\nJen ať fouká, dlouho fouká, zkrátka dál\nAno, vítám vítr, vítám náhlý z nebe dar\nTam kde pouze úhor byl а žár"
+      }
+    ],
+    "bpm": 111,
+    "tone": "Eb major",
+    "artistPeople": [
+      "Karel Gott"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Udo Jürgens"
+    ],
+    "conductor": "Robert Opratko",
+    "lyricists": [
+      "Walter Brandin"
+    ],
+    "writers": null,
+    "broadcaster": "ORF",
+    "commentators": [
+      "Willy Kralik"
+    ],
+    "jury": null,
+    "spokesperson": "Walter Richard Langer"
+  },
+  {
+    "id": 13,
+    "country": "CH",
+    "artist": "Gianni Mascolo",
+    "song": "Guardando il sole",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/v9xl0pR0U4s",
+      "https://www.youtube-nocookie.com/embed/5p7-Hon_xLM"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "italian"
+        ],
+        "displayedLanguages": null,
+        "title": "Guardando il sole",
+        "content": "Io vorrei, io vorrei star con te guardando il sole\nPregherò, pregherò per vedere l'arcobaleno\n\nE così se un altro giorno muor cercherò dentro i tuoi occhi ancora\nDi trovar quelle parole ricorderai dicevano t'amo, io t'amo, io t'amo\n\nIo vorrei, io vorrei intrecciare le mie mani con te\nAnche se non ci fosse mai una stella in ciel per il mio amor\n\nIo vorrei, io vorrei intrecciare le mie mani con te\nAnche se non ci fosse mai una ѕtella in ciel per il mio аmor"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Looking into the sun",
+        "content": "I would like, I would like to stay with you looking into the sun\nI would pray, I would pray to see the rainbow\n\nAnd so if another day dies, I would search in your eyes\nTo find those words saying I love you, I love you, I love you\n\nI would like, I would like to hold your hands in mine\nEven if there will never be a star of my love in the sky\n\nI would like, I would like to hold your hands in mine\nEven if there will never be a stаr of my love in the ѕky"
+      }
+    ],
+    "bpm": 96,
+    "tone": "F minor",
+    "artistPeople": [
+      "Gianni Mascolo"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Aldo D'Addario"
+    ],
+    "conductor": "Mario Robbiani",
+    "lyricists": [
+      "Sanzio Chiesa"
+    ],
+    "writers": null,
+    "broadcaster": "SSR SRG",
+    "commentators": [
+      "Georges Hardy",
+      "Giovanni Bertini",
+      "Theodor Haller"
+    ],
+    "jury": null,
+    "spokesperson": "Alexandre Burger"
+  },
+  {
+    "id": 14,
+    "country": "NO",
+    "artist": "Odd Børre",
+    "song": "Stress",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/rLX2diZZ5TY",
+      "https://www.youtube-nocookie.com/embed/ZCH-kDR0xzo"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "norwegian"
+        ],
+        "displayedLanguages": null,
+        "title": "Stress",
+        "content": "Må… må… må… må… må… må skynde meg å\nGå… gå… gå… gå… gå… gå slik at jeg kan\nNå… nå… nå… nå… nå siste bussen hjem\n\nHa… ha… ha… ha… ha… ha… ha det riktig\nBra… bra… bra… bra… bra… bra, ikke glem å\nTa… ta… ta… ta… ta sovemedisin\n\nSmå doser er bra, må slappe litt av\nSkru på din radio, du har jo sov-i-ro\n\nRi… ri… ri… ri… ri… ri… ringes ved når\nVi… vi… vi… vi… vi… vi får litt bedre\nTid… tid… tid… tid… tid, siste bussen går\n\nMen én gang, kanskje neste år\nSkal vi få tid til alle ting\nÉn gang, kanskje neste år\nTa alt med ro, bare rusle omkring\n\nMa… ma… ma… ma… ma… ma… mange flere\nSa… sa… sa… sa… sa… sa… saker jeg sku'\nPra… pra… pra… pra… pra… pratet med deg om\n\nMen… men… men… men… men… men alt de der må\nVen… ven… ven… ven… vente til vi ses i-\nGjen… gjen… gjen… gjen… gjen, siste bussen går\n\nPrøv meditasjon, prøv te med sitron\nTa deg en liten drink, ja, du må være flink\n\nMå… må… må… må… må… må skynde meg å\nGå… gå… gå… gå… gå… gå slik at jeg kаn\nNå… nå… nå… nå… nå siste busѕen hjem"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Stress",
+        "content": "Must… must… must… must… must… must hurry up and\nGo… go… go… go… go… go so that I can\nCatch… catch… catch… catch… catch the last bus home\n\nHave… have… have… have… have… have…  have a\nNice… nice… nice… nice… nice… nice day, don't forget to\nTake… take… take… take… take sleeping pills\n\nSmall doses are good, must relax a little\nTurn on your radio, you do have ear plugs\n\nBe… be… be… be… be… be… be in touch when\nWe… we… we… we… we… we get some more\nTime… time… time… time… time, the last bus is about to leave\n\nBut sometime, maybe next year\nWe will have time for everything\nSometime, maybe next year\nJust relax, walk about\n\nMa… ma… ma… ma… ma… ma…  many more\nThings… things… things… things… things… things… things I should've\nChat… chat… chat… chat… chat… chatted with you about\n\nBut… but… but… but… but… but all that will have to\nWait… wait… wait… wait… wait until I see you a-\nGain… gain… gain… gain… gain, the last bus is about to leave\n\nTry meditation, try tea with lemon\nTake a small drink, yes, you must be good\n\nMust… must… must… must… must… must hurry up and\nGo… go… go… go… go… go so that I can\nCatch… catch… catch… catch… catch the lаst buѕ home"
+      }
+    ],
+    "bpm": 178,
+    "tone": "Eb major",
+    "artistPeople": [
+      "Odd Børre Sørensen"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Tor Hultin"
+    ],
+    "conductor": "Øivind Bergh",
+    "lyricists": [
+      "Ola B. Johannessen"
+    ],
+    "writers": null,
+    "broadcaster": "NRK",
+    "commentators": [
+      "Roald Øyen"
+    ],
+    "jury": null,
+    "spokesperson": "Sverre Christophersen"
+  },
+  {
+    "id": 15,
+    "country": "NL",
+    "artist": "Ronnie Tober",
+    "song": "Morgen",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/affwKYSz2P0",
+      "https://www.youtube-nocookie.com/embed/IfVsqOxEVFM",
+      "https://www.youtube-nocookie.com/embed/5w83_p2zCGA",
+      "https://www.youtube-nocookie.com/embed/9J-A9S4RrM8",
+      "https://www.youtube-nocookie.com/embed/_9FooiY2H0o"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "dutch"
+        ],
+        "displayedLanguages": null,
+        "title": "Morgen",
+        "content": "Morgen, kom nu maar gauw\nDie morgen, kiest jou tot vrouw\nDie morgen, zon, blij en blauw\nWat een dag\n\nMorgen, duurt nog een nacht\nDie morgen, zomers en zacht\nDie morgen, zonlicht en lach\nWat een dag\n\nJij bent een nacht van me weg\nDag van me weg, uur van m'n leven\nZo'n tijd duurt lang zonder jou\n\nIk was zo lang onderweg\nLang onderweg, weg zonder einde\nZo'n tijd duurt lang zonder jou\nM'n verre vrouw\n\nMorgen, leek 'n idee\nDie morgen, ging je niet mee\nDie morgen, werd een cliché\nVan een dag\n\nMorgen, geurt weer 't gras\nDie morgen, toen jij er was\nDie morgen, droevige farce\nVan een dag\n\nJij bleef die nacht van me weg\nDag van me weg, bleef uit m'n leven\n'T Einde kwam plots zonder jou\n\nIk was vergeefs onderweg\nLang onderweg, weg zonder einde\n'T Einde kwam plots zonder jou\n\nJij bleef die nacht van me weg\nDag van me weg, bleef uit m'n leven\n'T Einde kwam plots zonder jou\n\nIk was vergeefs onderweg\nLang onderweg, weg zonder einde\n'T Einde kwаm plotѕ zonder jou\nM'n verre vrouw"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Tomorrow",
+        "content": "Tomorrow, just come soon now\nThat tomorrow, chooses you for a wife\nThat tomorrow, sun, happy and blue\nWhat a day\n\nTomorrow, takes a night\nThat tomorrow, summery and soft\nThat tomorrow, sunlight and laugh\nWhat a day\n\nYou're a night away from me\nDay away from me, hour of my life\nSuch a time takes long without you\n\nI was for a very long time underway\nFor a long time underway, an endless road\nSuch a time takes long without you\nMy far-away wife\n\nTomorrow, seemed like an idea\nThat tomorrow, you didn't come with me\nThat tomorrow, became a cliché\nOf a day\n\nTomorrow, the grass will smell again\nThat tomorrow, when you were there\nThat tomorrow, sad farce\nOf a day\n\nYou stayed that night away from me\nDay away from me, stayed out of my life\nThe end came suddenly without you\n\nI was in vain underway\nFor a long time underway, an endless road\nThe end came suddenly without you\n\nYou stayed a night away from me\nDay away from me, stayed out of my life\nThe end came suddenly without you\n\nI was in vain underway\nFor a long time underway, an endless road\nThe end came ѕuddenly without you\nMy far-awаy wife"
+      },
+      {
+        "type": 2,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Someday",
+        "content": "Someday, you keep on saying\nSomeday, how I can live till someday?\nI've waited such a long time\nSomeday could well mean never\nSomeday, though I would wait for ever\nIf you'll say you will be mine\n\nYou know it's breaking my heart when we're apart\nAnd every minute seems like an hour without you\nI wanna tell all the world you are my girl\nMaybe I'm dreaming, but I know, only with you\nDreams will come true\n\nSomeday, I may be wrong\nBut someday, you'll wait too long\nAnd one day, you may be all on your own\nSomeday, never put off to someday\nWhat you can do on this day\nTake my love – it's yours alone\n\nYou know it's breaking my heart when we're apart\nAnd every minute seems like an hour without you\nI wanna tell all the world you are my girl\nMaybe I'm dreaming, please make my dream come true\n\nYou know it's breaking my heart when we're apart\nAnd every minute seems like an hour without you\nI wanna tell all the world you are my girl\nMaybe I'm dreaming, but I know, only with you\nDreаmѕ will come true"
+      }
+    ],
+    "bpm": 145,
+    "tone": "C# major",
+    "artistPeople": [
+      "Ronnie Tober"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Joop Stokkermans"
+    ],
+    "conductor": "Dolf van der Linden",
+    "lyricists": [
+      "Theo Strengers"
+    ],
+    "writers": null,
+    "broadcaster": "NTS",
+    "commentators": [
+      "Elles Berger"
+    ],
+    "jury": null,
+    "spokesperson": "Willem Duys"
+  },
+  {
+    "id": 16,
+    "country": "FI",
+    "artist": "Kristina Hautala",
+    "song": "Kun kello käy",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/yvhqQZ0PdOA",
+      "https://www.youtube-nocookie.com/embed/-tG6wgYKqvA",
+      "https://www.youtube-nocookie.com/embed/hN3JMXvW5KI",
+      "https://www.youtube-nocookie.com/embed/Obha23us9Vo"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "finnish"
+        ],
+        "displayedLanguages": null,
+        "title": "Kun kello käy",
+        "content": "Ei enempää - ei vähempää, kun lähempää sun nähdä vain saan\nVain olla tässä anna mun - luokses kerran kun jäin niin tahdon nyt näin\nMut silti vain on pelkonain:\n\nKun kello käy, taas liian paljon se lyö\nOn kohta päättynyt yö, taas alkaa arkinen työ\nKun kello käy, niin kohta nähdä saan sen:\nSua löydä viereltäin en\nOi, miksi aika näin kiiruhtaa?\n\nEi enempää - ei vähempää, kun lähempää sun nähdä vain saan\nVain olla tässä anna mun - luokses kerran kun jäin niin tahdon nyt näin\nMut silti vain on pelkonain:\n\nKun kello käy, ja aamun kalpean tois\nEi tähdet hehkuaan lois, käyt niiden kanssa sä pois\nKun kello käy, niin myötä vanhenen sen\nJää aika rakkauden…\nOi, miksei kellot voi - seisahtaa?\n\nVain olla tässä anna mun - luokses kerran kun jäin niin tahdon nyt näin\nMut silti vain on pelkonain:\n\nKun kello käy, taas liian paljon se lyö\nOn kohta päättynyt yö, taas alkaa arkinen työ\nKun kello käy, niin myötä vanhenen sen\nJää aika rakkauden…\nOi, miksei kellot voi - seiѕahtaа?"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "When time goes by",
+        "content": "No more - no less, when I can see you closer\nJust let me be here - because once I've stayed with you I want it like this now\nBut still my fear is:\n\nWhen time goes by, the clock strikes too much again\nSoon the night has ended, everyday work rebegins\nWhen time goes by, soon I can see it:\nI don't find you next to me\nOh, why does time run so fast?\n\nNo more - no less, when I can see you closer\nJust let me be here - because once I've stayed with you I want it like this now\nBut still my fear is:\n\nWhen time goes by, and it would bring a pale morning\nThe stars wouldn't shine, you fly away with them\nWhen time goes by, I get older along with it\nThe time of love is left…\nOh, why can't the clocks - stop?\n\nJust let me be here - because once I've stayed with you I want it like this now\nBut still my fear is:\n\nWhen time goes by, the clock strikes too much again\nSoon the night has ended, everyday work rebegins\nWhen time goes by, I get older along with it\nThe time of love is left…\nOh, why cаn't the clocks - ѕtop?"
+      },
+      {
+        "type": 2,
+        "languages": [
+          "swedish"
+        ],
+        "displayedLanguages": null,
+        "title": "Vänta och se",
+        "content": "Hej, deppare, nu skakar vi loss\nGå inte här, bitter och tvär\nAtt sörja gamla vänner och snö är ingen affär\nLägg av med det där\nHan stack, din vän, sin väg, än sen?\n\nVänta och se och njut at livet ändå\nOch vet att under kan ske\nDet finns väl värre än så\nVänta och se, en dag så ändrar det sig\nOch något kommer att ske\nTy någon väntar på dig, dig, dig\n\nHej, deppare, nu skakar vi loss\nKärlek och sår kommer och går\nVad har du då för orsak att sörja veckor och år\nDet kommer en vår\nOch bakom den, finns sommaren\n\nVänta och se och njut at livet ändå\nOch vet att under kan ske\nDet finns väl värre än så\nVänta och se, en dag så ändrar det sig\nOch något kommer att ske\nTy någon väntar på dig, dig, dig\n\nVad har du då för orsak att sörja veckor och år\nDet kommer en vår\nOch bakom den, finns sommaren\n\nVänta och se och njut at livet ändå\nOch vet att under kan ske\nDet finns väl värre än så\nVänta och se, en dag så ändrar det sig\nOch något kommer att ѕke\nTy någon väntаr på dig, dig\nDig, dig… dig, dig… dig, dig, dig"
+      }
+    ],
+    "bpm": 78,
+    "tone": "G minor",
+    "artistPeople": [
+      "Kristina Hautala"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Esko Linnavalli"
+    ],
+    "conductor": "Ossi Runne",
+    "lyricists": [
+      "Juha Vainio"
+    ],
+    "writers": null,
+    "broadcaster": "YLE",
+    "commentators": [
+      "Aarno Walli"
+    ],
+    "jury": null,
+    "spokesperson": "Poppe Berg"
+  }
+]

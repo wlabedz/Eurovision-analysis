@@ -1,0 +1,1219 @@
+[
+  {
+    "id": 0,
+    "country": "LU",
+    "artist": "Corinne Hermès",
+    "song": "Si la vie est cadeau",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/jnPs07g58Ms",
+      "https://www.youtube-nocookie.com/embed/M4tl8De0BhA",
+      "https://www.youtube-nocookie.com/embed/CDuytijQiaU",
+      "https://www.youtube-nocookie.com/embed/OFVNjugPGok"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Si la vie est cadeau",
+        "content": "Nous, c'était du bleu\nUn ciel d'été, un océan transparent\nNous, nous étions deux\nEt l'on s'aimait à faire arrêter le temps\n\nMais le temps nous a trahis\nAlors pourquoi m'avoir promis la terre entière?\nNotre amour aurait suffi\nJe ne voulais pas d'un bonheur imaginaire\nSi la vie est cadeau\n\nSi la vie est un cadeau\nCadeau donné, cadeau repris, cadeau volé\nPrends l'amour comme un cadeau\nCadeau donné, cadeau repris, cadeau volé\nLe bonheur est trop court\n\nNous, c'était l'enfant que je voulais\nPour te l'offrir au printemps\n\nMais le temps a tous les droits\nAlors pourquoi m'avoir promis la terre entière\nEt l'enfant qui n'est pas là?\nC'est aujourd'hui mon seul bonheur imaginaire\nSi la vie est cadeau\n\nSi la vie est un cadeau\nCadeau donné, cadeau repris, cadeau volé\nPrends l'amour comme un cadeau\nCadeau donné, cadeau repris, cadeau volé\nLe bonheur est trop court\n\n(Si la vie eѕt un cadeаu)"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "If life is a gift",
+        "content": "We, we were blue\nA summer sky, a transparent ocean\nWe, we were two\nAnd when we loved each other, time stood still\n\nBut time betrayed us\nSo why did you promise me the whole world?\nOur love would have been enough\nI didn't want an imaginary happiness\nIf life is a gift\n\nIf life is a gift\nGiven gift, recovered gift, stolen gift\nTake love as a gift\nGiven gift, recovered gift, stolen gift\nHappiness is too short\n\nWe, it was the child that I wanted\nTo give it to you in springtime\n\nBut time has all the rights\nSo why did you promise me the whole world\nAnd the child that isn't there?\nToday is my only imaginary happiness\nIf life is a gift\n\nIf life is a gift\nGiven gift, recovered gift, stolen gift\nTake love as a gift\nGiven gift, recovered gift, stolen gift\nHappiness is too short\n\n(If life iѕ а gift)"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "hebrew"
+        ],
+        "displayedLanguages": null,
+        "title": "אם החיים היו מתנה",
+        "content": "אנו, הכל היה כחול\nשמי קיץ, אוקינוס שקוף\nאנו, הינו שנים\nונאהב אחד את השני חזק מספיק כדי לעצור את הזמן\n\nאבל הזמן רימה אותנו\nאז, למה להבטיח לי את העולם כולו?\nהאהבה שלנו הייתה מספיקה\nלא רציתי שמחה דמיונית\nאם החיים היו מתנה\n\nאם החיים היו מתנה\nמתנה ניתנת, מתנה מוחזרת, מתנה גנובה\nכך את האהבה כמתנה\nמתנה ניתנת, מתנה מוחזרת, מתנה גנובה\nהשמחה היא קצרה מידי\n\nאנחנו, זה היה הילד שכל כך רציתי\nלהציע לך באביב\n\nאבל הזמן הוא היחיד שקובע\nאז, למה להבטיח לי את העולם כולו?\nוהילד שאיננו שם?\nעכשיו זאת האהבה הדמיונית היחידה שלי\nאם החיים היו מתנה\n\nאם החיים היו מתנה\nמתנה ניתנת, מתנה מוחזרת, מתנה גנובה\nכך את האהבה כמתנה\nמתנה ניתנת, מתנה מוחזרת, מתנה גנובה\nהשמחה היא קצרה מידי\n\n(אם החיים היו מתנה)"
+      }
+    ],
+    "bpm": 142,
+    "tone": "Eb minor",
+    "artistPeople": [
+      "Corinne Hermès"
+    ],
+    "backings": [
+      "Georges Costa",
+      "Michel Costa",
+      "Patrick Alessi"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Jean-Pierre Millers"
+    ],
+    "conductor": "Michel Bernholc",
+    "lyricists": [
+      "Alain Garcia"
+    ],
+    "writers": null,
+    "broadcaster": "CLT",
+    "commentators": [
+      "Valérie Sarn"
+    ],
+    "jury": null,
+    "spokesperson": "Jacques Harvey"
+  },
+  {
+    "id": 1,
+    "country": "IL",
+    "artist": "Ofra Haza",
+    "song": "Hi",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/z81U2sLEtdY",
+      "https://www.youtube-nocookie.com/embed/Oa2Greug8R4",
+      "https://www.youtube-nocookie.com/embed/McjcRwvfMWY",
+      "https://www.youtube-nocookie.com/embed/rE5DXfC2Ehg",
+      "https://www.youtube-nocookie.com/embed/XaQLGWCtVkA"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "hebrew"
+        ],
+        "displayedLanguages": [
+          "עברית"
+        ],
+        "title": "חי",
+        "content": "שמעו, אחיי, אני עוד חי\nושתי עיניי עוד נישאות לאור\nרבים חוחיי, אך גם פרחיי\nולפניי שנים רבות מספור\n\nאני שואל ומתפלל\nטוב שלא אבדה עוד התקווה\n\nעובר מזמור מדור לדור\nכמעיין מאז ועד עולם\n\nאני שואל ומתפלל\nטוב שלא אבדה עוד התקווה\n\nחי, חי, חי\nכן, אני עוד חי\nזה השיר שסבא שר אתמול לאבא\nוהיום אני\n\nאני עוד חי, חי, חי\nעם ישראל חי\nזה השיר שסבא שר אתמול לאבא\nוהיום אני\n\n(הומים ימיי (חי, חי\n(ולילותיי (חי, חי\nובשמיי, עמוד האש עוד קם\n\n(אשיר בלי די (חי, חי\n(אפרוש ידיי (חי, חי\nלידידיי אשר מעבר ים\n\nאני שואל ומתפלל\nטוב שלא אבדה עוד התקווה\n\nחי, חי, חי\nכן, אני עוד חי\nזה השיר שסבא שר אתמול לאבא\nוהיום אני\n\nאני עוד חי, חי, חי\nעם ישראל חי\nזה השיר שסבא שר אתמול לאבא\nוהיום אני\n\nשמעו, אחיי, אני עוד חי\nושתי עיניי עוד נישאות לאור\nאז כה לחי לכל אורחיי\nולבניי המבקשים לחזור\n\n(אני שואל (אני שואל\n(ומתפלל (מתפלל\nטוב שלא אבדה עוד התקווה\n\nחי, חי, חי\nכן, אני עוד חי\nזה השיר שסבא שר אתמול לאבא\nוהיום אני\n\nאני עוד חי, חי, חי\nעם ישראל חי\nזה השיר שסבא שר אתמול לאבא\nוהיום אני\n\nחי, חי, חי\nאני עוד חי, חי, חי"
+      },
+      {
+        "type": 0,
+        "languages": [
+          "hebrew"
+        ],
+        "displayedLanguages": [
+          "ivrit"
+        ],
+        "title": "Hi",
+        "content": "Shim'u, echai, ani od chai\nUshtei enai od nisa'ot la'or\nRabim chochai, ach gam prachai\nUlefanai shanim rabot misfor\n\nAni sho'el umitpalel\nTov shelo avda od hatikva\n\nOver mizmor midor ledor\nKema'ayan me'az ve'ad olam\n\nAni sho'el umitpalel\nTov shelo avda od hatikva\n\nChai, chai, chai\nKen, ani od chai\nZe hashir sheSaba shar etmol le'Aba\nVehayom ani\n\nAni od chai, chai, chai\nAm Yisra'el chai\nZe hashir sheSaba shar etmol le'Aba\nVehayom ani\n\nHomim yamai (Chai, chai)\nVelelotai (Chai, chai)\nUveshamai, amud ha'esh od kam\n\nAshir bli dai (Chai, chai)\nEfros yadai (Chai, chai)\nLeyedidai asher me'ever yam\n\nAni sho'el umitpalel\nTov shelo avda od hatikva\n\nChai, chai, chai\nKen, ani od chai\nZe hashir sheSaba shar etmol le'Aba\nVehayom ani\n\nAni od chai, chai, chai\nAm Yisra'el chai\nZe hashir sheSaba shar etmol le'Aba\nVehayom ani\n\nShim'u, echai, ani od chai\nUshtei enai od nisa'ot la'or\nAz ko lechai lechol orchai\nUlevanay hamevakshim lachzor\n\nAni sho'el (Ani sho'el)\nUmitpalel (Mitpalel)\nTov shelo avda od hatikva\n\nChai, chai, chai\nKen, ani od chai\nZe hashir sheSaba shar etmol le'Aba\nVehayom ani\n\nAni od chai, chai, chai\nAm Yisra'el chai\nZe hashir sheSaba ѕhar etmol le'Aba\nVehayom ani\n\nChai, chai, chai\nAni od chai, chai, chаi"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Alive",
+        "content": "Listen, my brothers, I'm still alive\nAnd both my eyes still look into the light\nMany are my thorns, but also my flowers\nAnd I have countless years ahead of me\n\nI ask and I pray\nGood thing hope is not yet lost\n\nA song is passed from generation to generation\nLike an eternal spring\n\nI ask and I pray\nGood thing hope is not yet lost\n\nAlive, alive, alive\nYes, I'm still alive\nThis is the song that Grandpa sang yesterday to Dad\nAnd today it's me\n\nI'm still alive, alive, alive\nThe Nation of Israel is alive\nThis is the song that Grandpa sang yesterday to Dad\nAnd today it's me\n\nMy days rumble (Alive, alive)\nAs do my nights (Alive, alive)\nAnd in my skies, the pillar of fire still stands\n\nI'll sing forever (Alive, alive)\nI'll reach out my hands (Alive, alive)\nTo my friends from across the seas\n\nI ask and I pray\nGood thing hope is not yet lost\n\nAlive, alive, alive\nYes, I'm still alive\nThis is the song that Grandpa sang yesterday to Dad\nAnd today it's me\n\nI'm still alive, alive, alive\nThe Nation of Israel is alive\nThis is the song that Grandpa sang yesterday to Dad\nAnd today it's me\n\nListen, my brothers, I'm still alive\nAnd both my eyes still look into the light\nSo kudos to all my guests\nAnd to my sons who ask to return\n\nI ask (I ask)\nAnd I pray (I pray)\nGood thing hope is not yet lost\n\nAlive, alive, alive\nYes, I'm still alive\nThis is the song that Grandpa sang yesterday to Dad\nAnd today it's me\n\nI'm still alive, alive, alive\nThe Nation of Israel is alive\nThis is the song that Grandpa sang yesterday to Dad\nAnd today it's me\n\nAlive, alive, alive\nI'm ѕtill alive, alive, аlive"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": null,
+        "title": "Ζω",
+        "content": "Ακούστε, αδέρφια μου, ακόμα ζω\nΚαι τα δυο μου μάτια ακόμα βλέπουν φως\nΠολλοί είναι οι κάκτοι μου, αλλά και τ' άνθη μου\nΚαι έχω αμέτρητα χρόνια μπροστά μου\n\nΡωτώ και προσεύχομαι\nΚαλό πράγμα που η ελπίδα δεν είναι ακόμα χαμένη\n\nΈνα τραγούδι περνά από γενιά σε γενιά\nΣαν μία αιώνια άνοιξη\n\nΡωτώ και προσεύχομαι\nΚαλό πράγμα που η ελπίδα δεν είναι ακόμα χαμένη\n\nΖω, ζω, ζω\nΝαι, ακόμα ζω\nΑυτό είναι το τραγούδι που τραγουδούσε χθες ο παππούς μου στον παπά μου\nΚαι σήμερα εγώ\n\nΑκόμα ζω, ζω, ζω\nΤο έθνος του Ισραήλ ζει\nΑυτό είναι το τραγούδι που τραγουδούσε χθες ο παππούς μου στον παπά μου\nΚαι σήμερα εγώ\n\nΟι μέρες μου βροντούν (Ζω, ζω)\nΣαν και τις νύκτες μου (Ζω, ζω)\nΚαι στον ουρανό μου, η στήλη της φωτιάς ακόμα στέκεται\n\nΠάντα θα τραγουδώ (Ζω, ζω)\nΘα απλώνω τα χέρια μου (Ζω, ζω)\nΣτους φίλους μου πέρα από τις θάλασσες\n\nΡωτώ και προσεύχομαι\nΚαλό πράγμα που η ελπίδα δεν είναι ακόμα χαμένη\n\nΖω, ζω, ζω\nΝαι, ακόμα ζω\nΑυτό είναι το τραγούδι που τραγουδούσε χθες ο παππούς μου στον παπά μου\nΚαι σήμερα εγώ\n\nΑκόμα ζω, ζω, ζω\nΤο έθνος του Ισραήλ ζει\nΑυτό είναι το τραγούδι που τραγουδούσε χθες ο παππούς μου στον παπά μου\nΚαι σήμερα εγώ\n\nΑκούστε, αδέρφια μου, ακόμα ζω\nΚαι τα δυο μου μάτια ακόμα βλέπουν το φως\nΛοιπών συγχαίρω τους καλεσμένους μου\nΚαι τους γιους μου που ζητούν να επιστρέψουν\n\nΡωτώ (Ρωτώ)\nΚαι προσεύχομαι (Προσεύχομαι)\nΚαλό πράγμα που η ελπίδα δεν είναι ακόμα χαμένη\n\nΖω, ζω, ζω\nΝαι, ακόμα ζω\nΑυτό είναι το τραγούδι που τραγουδούσε χθες ο παππούς μου στον παπά μου\nΚαι σήμερα εγώ\n\nΑκόμα ζω, ζω, ζω\nΤο έθνος του Ισραήλ ζει\nΑυτό είναι το τραγούδι που τραγουδούσε χθες ο παππούς μου στον παπά μου\nΚαι σήμερα εγώ\n\nΖω, ζω, ζω\nΑκόμα ζω, ζω, ζω"
+      }
+    ],
+    "bpm": 112,
+    "tone": "Bb minor",
+    "artistPeople": [
+      "Ofra Haza"
+    ],
+    "backings": [
+      "Danny Balfolski",
+      "Sasi Keshet",
+      "Shlomo Maman",
+      "Sima Amiel",
+      "Vardina Cohe"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Avi Toledano"
+    ],
+    "conductor": "Silvio Nanssi Brandes",
+    "lyricists": [
+      "Ehud Manor"
+    ],
+    "writers": null,
+    "broadcaster": "IBA",
+    "commentators": null,
+    "jury": null,
+    "spokesperson": "Yitzhak Shim'oni"
+  },
+  {
+    "id": 2,
+    "country": "SE",
+    "artist": "Carola Häggkvist",
+    "song": "Främling",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/Pu7kOb3z_BM",
+      "https://www.youtube-nocookie.com/embed/hIY9LubMgdE",
+      "https://www.youtube-nocookie.com/embed/pzfHXlaZX30",
+      "https://www.youtube-nocookie.com/embed/dOYU8sFGfd0",
+      "https://www.youtube-nocookie.com/embed/9RogSAHGT_Y",
+      "https://www.youtube-nocookie.com/embed/gGHQosjGT-E"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "swedish"
+        ],
+        "displayedLanguages": null,
+        "title": "Främling",
+        "content": "Främling, vad döljer du för mig i dina mörka ögon?\nEn svag nyans av ljus nånstans, men ändå\n\nEn främling, så känner jag för dig\nJag ber dig, låt mig få veta\nVem vill du vara? Kan du förklara det för mig?\n\nSom Mona Lisa har sitt leende\nSå gömmer också du en hemlighet\nStjärnor jag ser dom, vill gärna ta ner nån till dig\n\nDär bortom himlen finns en evighet\nOm du vill upptäcka den här med mig\nTa första steget och visa mig vägen i kväll\nEn känsla och jag litar på den\nSen blir vår kärlek aldrig främmande igen\n\nNatten finns till för dig och mig\nGlöm det som är omkring oss\nLåt mig få komma, låt mig få vara nära dig\n\nSom Mona Lisa har sitt leende\nSå gömmer också du en hemlighet\nStjärnor jag ser dom, vill gärna ta ner nån till dig\n\nDär bortom himlen finns en evighet\nOm du vill upptäcka den här med mig\nTa första steget och visa mig vägen i kväll\nEn känѕla och jag litar på den\nSen blir vår kärlek aldrig främmande igen\nDå blir vår kärlek aldrig främmаnde igen"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Stranger",
+        "content": "Stranger, what are you hiding from me in your dark eyes?\nA faint nuance of light somewhere, but still\n\nA stranger, that's how I feel about you\nI beg you, let me know\nWho do you want to be? Can you explain that to me?\n\nJust like Mona Lisa has her smile\nYou are hiding a secret too\nStars, I see them, I would like to take one down for you\n\nThere beyond the sky is an eternity\nIf you want to discover it here with me\nTake the first step and show me the way tonight\nA feeling and I trust it\nThen our love will never be strange again\n\nThe night is there for you and me\nForget what's around us\nLet me come, let me be close to you\n\nJust like Mona Lisa has her smile\nYou are hiding a secret too\nStars, I see them, I would like to take one down for you\n\nThere beyond the sky is an eternity\nIf you want to discover it here with me\nTake the first step and show me the way tonight\nA feeling and I trust it\nThen our love will never be strange again\nThen our love will never be ѕtrange agаin"
+      }
+    ],
+    "bpm": 109,
+    "tone": "F minor",
+    "artistPeople": [
+      "Carola Maria Häggkvist"
+    ],
+    "backings": [
+      "Karin Glenmark",
+      "Lasse Holm",
+      "Lennart Sjöholm",
+      "Monica Forsberg"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Lasse Holm"
+    ],
+    "conductor": "Anders Ekdahl",
+    "lyricists": [
+      "Monica Forsberg"
+    ],
+    "writers": null,
+    "broadcaster": "SVT",
+    "commentators": [
+      "Ulf Elfving"
+    ],
+    "jury": null,
+    "spokesperson": "Agneta Bolme-Börjefors"
+  },
+  {
+    "id": 3,
+    "country": "YU",
+    "artist": "Danijel",
+    "song": "Džuli",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/3mQ2Rdd7nb0",
+      "https://www.youtube-nocookie.com/embed/R0xQH4ZDkuc",
+      "https://www.youtube-nocookie.com/embed/XTMSnIdkrrk",
+      "https://www.youtube-nocookie.com/embed/mSfe7s8ulsk",
+      "https://www.youtube-nocookie.com/embed/ptCP3pkFJCI",
+      "https://www.youtube-nocookie.com/embed/Bh3ludx7A_4"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "croatian"
+        ],
+        "displayedLanguages": null,
+        "title": "Džuli",
+        "content": "Stigla je sama sa ljetom\nPrišla i rekla hello\nPogledi su nam govorili više od riječi\nK'o da se zvijezda sa neba\nSpustila meni na dlan\nZnao sam samo o njoj da zove se Džuli\n\nDžuli, Džuli\nA htio sam da dugo traje taj san\n\nPamtim još dodir te ruke\nLice i njen pogled blag\nOdmah je jasno mi bilo da ludo je volim\nKao i sve ljetne snove\nI nju mi je odnio dan\nOstalo samo je sjećanje na jedan juli\n\nDžuli, Džuli\nA htio sam da dugo traje taj san\n\nPitam u noćima nebo\nDa li je to bio san\nIli je stvarno te noći me ljubila Džuli\nProšetam sam pored mora\nDočekam tako i dan\nZamolim more da vrati mi Džuli i juli\n\nDžuli, o… Džuli, o…\nDžuli, o… Džuli\nA htio sam da dugo traje taj ѕan\nO mojа Džuli"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Julie",
+        "content": "She arrived alone with summer\nCame over and said hello\nOur looks said more than words\nAs if a star from the sky\nHad fallen into my hand\nI only knew that her name was Julie\n\nJulie, Julie\nAnd I wanted that dream to last for long\n\nI still remember the touch of that hand\nHer face and her subtle look at me\nI knew then that I love her madly\nLike all the summer dreams\nThe day took her away\nOnly a memory of a July was left\n\nJulie, Julie\nAnd I wanted that dream to last for long\n\nAt night, I ask the skies\nIf that was only a dream\nOr if it was really Julie kissing me that night\nTonight I'm alone by the sea\nAnd the daylight had arrived\nI asked the sea to give me back Julie and July\n\nJulie, oh… Julie, oh…\nJulie, oh… Julie\nAnd I wanted that dream to lаѕt for long\nOh my Julie"
+      }
+    ],
+    "bpm": 90,
+    "tone": "F major",
+    "artistPeople": [
+      "Milan Popović"
+    ],
+    "backings": [
+      "Eleonora Barudžija",
+      "Izolda Barudžija",
+      "Mato Došen"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Milan Popović"
+    ],
+    "conductor": "Radovan Papović",
+    "lyricists": [
+      "Mario Mihaljević"
+    ],
+    "writers": null,
+    "broadcaster": "JRT",
+    "commentators": [
+      "Mladen Popović",
+      "Oliver Mlakar",
+      "Tomaž Terček"
+    ],
+    "jury": null,
+    "spokesperson": "Boško Negovanović"
+  },
+  {
+    "id": 4,
+    "country": "DE",
+    "artist": "Hoffmann und Hoffmann",
+    "song": "Rücksicht",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/8WsX-eBrjeU",
+      "https://www.youtube-nocookie.com/embed/Gpk7UnTHpQ0",
+      "https://www.youtube-nocookie.com/embed/A_LRimn3s0U",
+      "https://www.youtube-nocookie.com/embed/wYI3c-VyDzQ"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "Rücksicht",
+        "content": "Ich kann nicht alleine sein\nMit all den ungeklärten Fragen\nWas haben wir denn beide falsch gemacht?\nUnd dennoch mag ich keinen Menschen sehen\nDas Glück von anderen tut mir noch weh\nWarum sind wir nicht früher aufgewacht?\n\nWir waren wie verwöhnte Kinder\nJeder dachte immer nur an sich\n\nRücksicht – keiner hat das Wort gekannt\nUnd Nachsicht – die keiner bei dem andern fand\nUnd Vorsicht – dass nie zerbricht, was uns verband\n\nEinsicht – dass jeder seine Fehler hat\nUnd Weitsicht – das Leben findet nicht nur heute statt\nUnd Vorsicht – dass man den andern nicht zerbricht\n\nWarn wir wirklich nur vor Liebe blind\nOder einfach zu bequem?\nHabn wir denn nicht gemerkt, was uns noch fehlt?\nVielleicht ging alles für uns viel zu schnell\nVerband uns wirklich nur die Nacht?\nWussten wir nicht, dass der Tag genauso zählt?\n\nFehlte uns die Kraft, uns zu vertrauen?\nWar es Angst vor ehrlichem Gefühl?\n\nRücksicht – keiner hat das Wort gekannt\nUnd Nachsicht – die keiner bei dem andern fand\nUnd Vorsicht – dass nie zerbricht, was uns verband\n\nEinsicht – dass jeder seine Fehler hat\nUnd Weitsicht – das Leben findet nicht nur heute statt\nUnd Vorsicht – dasѕ man den аndern nicht zerbricht"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Consideration",
+        "content": "I can't be alone\nWith all these unanswered questions\nWhat did we both do wrong?\nI still don't want to see any people\nThe luck of the others still hurts me\nWhy didn't we wake up earlier?\n\nWe were like spoiled children\nEveryone only thought of himself\n\nConsideration – nobody knew this word\nAnd leniency – which nobody found at the other\nAnd care – that never breaks what connected us\n\nInsight – that everyone has his mistakes\nAnd far-sight – life doesn't only take place today\nAnd caution – that you don't break the other\n\nWere we really just blind of love\nOr just too easygoing?\nDidn't we notice what we were missing?\nPerhaps everything was going much too fast for us\nDid only the night connect us?\nDidn't we know that the day counts as well?\n\nDid we lack the power to trust ourselves?\nWas it fear for honest feelings?\n\nConsideration – nobody knew this word\nAnd leniency – which nobody found at the other\nAnd care – that never breaks what connected us\n\nInsight – that everyone has his mistakes\nAnd far-sight – life doeѕn't only take place today\nAnd caution – that you don't breаk the other"
+      }
+    ],
+    "bpm": 154,
+    "tone": "Ab major",
+    "artistPeople": [
+      "Günther Hoffmann",
+      "Michael Hoffmann"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Michael Reinecke"
+    ],
+    "conductor": "Dieter Reith",
+    "lyricists": [
+      "Volker Lechtenbrinck"
+    ],
+    "writers": null,
+    "broadcaster": "ARD",
+    "commentators": [
+      "Ado Schlier"
+    ],
+    "jury": null,
+    "spokesperson": "Carolin Reiber"
+  },
+  {
+    "id": 5,
+    "country": "GB",
+    "artist": "Sweet Dreams",
+    "song": "I'm Never Giving Up",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/BYy4kHL33jU",
+      "https://www.youtube-nocookie.com/embed/Q2kJBw1HF1U",
+      "https://www.youtube-nocookie.com/embed/r5IG5dq37Xk"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "I'm Never Giving Up",
+        "content": "I don't believe in idle gossip\nThe jealous mind can be unfair\nI hear them make their accusations\nBut baby, come what may\nNo matter what the people say\n\nI'm never givin' up, not givin' in\nIf there's the slightest chance that I could win\nThe battle may be lost, but I can win the war\nAnd get your lovin' back the way it was before\n\nAt times it's hard to see the changes\nOr read the writing on the wall\nWe may become the best of strangers\nBut I'll keep holding on\nUntil I know my chance has gone\n\nI'm never givin' up, not givin' in\nIf there's the slightest chance that I could win\nThe battle may be lost, but I can win the war\nAnd get your lovin' back the way it was before\n\nNever givin' up, I'm never givin' up\n\nI'm never givin' up, not givin' in\nIf there's the slightest chance that I could win\nThe battle may be lost, but I can win the war\nAnd get your lovin' back the way it was\n\nI'm never givin' up, not givin' in\nIf there's the slightest chance that I could win\nThe battle may be lost, but I can win the war\nAnd get your lovin' back the way it waѕ before\n\nNever givin' up, I'm never givin' up\n(I'm allowed to… all I wаnt to… need your lovin')\nI'm never never givin'… never never givin'… never givin' up"
+      }
+    ],
+    "bpm": 143,
+    "tone": "G major",
+    "artistPeople": [
+      "Robert McVey",
+      "Caroline Vanessa Grant",
+      "Helen Kray"
+    ],
+    "backings": [
+      "Alan Carvell",
+      "Hazell Dean",
+      "Kit Rolfe"
+    ],
+    "dancers": null,
+    "stageDirector": "Chrissy Wickham",
+    "composers": null,
+    "conductor": "John Coleman",
+    "lyricists": null,
+    "writers": [
+      "Jan Pulsford",
+      "Phil Wigger",
+      "Ron Roker"
+    ],
+    "broadcaster": "BBC",
+    "commentators": [
+      "Terry Wogan"
+    ],
+    "jury": null,
+    "spokesperson": "Colin Berry"
+  },
+  {
+    "id": 6,
+    "country": "NL",
+    "artist": "Bernadette",
+    "song": "Sing Me a Song",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/MCW7GprKIj0",
+      "https://www.youtube-nocookie.com/embed/UIcx8yZXD8g",
+      "https://www.youtube-nocookie.com/embed/RkfhLONE8NA",
+      "https://www.youtube-nocookie.com/embed/iJsy1bBByyA"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "dutch",
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Sing Me a Song",
+        "content": "Sing me a song\nZo'n klein chanson\nBlues, ballad of folk\nKinderliedjes mag ook\nEn laten dan mensen zingen uit alle landen\n\nSing me a song\nSing me a song\nWaar de wereld om draait is muziek\nEn muziek doet verstaan\n\nSing me a song\n(Sing sing sing me a song song)\n(Zing een chanson son)\nZing een chanson\n(Sing me a song song)\n(Zing het dan)\nOver je land\n(Over landen)\nHoe het daar is en wat doe je dan zo aldaar?\n\n(Sing me a song)\nSing sing sing me a song song\nZing een chanson son\n(Zing een chanson)\nSing me a song song, zing het dan\nEn laat me even weten\nKan ik je soms ook helpen?\n\nSing me a song\nZo'n klein chanson\nBruin, blank of zwart\n't Komt uit hetzelfde hart\n\nSing me a song\nSing me a song\nWaar de wereld om draait is muziek\nEn muziek doet verstaan\n\nHo ho, come on\n\nSing me a song\n(Sing sing sing me a song song)\n(Zing een chanson son)\nZing een chanson\n(Sing me a song song)\n(Zing het dan)\nOver je land\n(Over landen)\nHoe het daar is en wat doe je dan zo aldaar?\n\nSing me a song\nZing een chanson\nHoe je leeft\n(Hoe je leeft daar)\nLaat het me weten, dus sing me а ѕong"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Sing Me a Song",
+        "content": "Sing me a song\nSuch a little chanson\nBlues, ballad or folk\nChildren's songs are allowed too\nAnd then let the people of all countries sing\n\nSing me a song\nSing me a song\nWhat the world is all about is music\nAnd music makes understanding\n\nSing me a sang\n(Sing sing sing me a song song)\n(Sing a chanson son)\nSing a chanson\n(Sing me a song song)\n(Come on and sing it)\nAbout your country\n(About countries)\nHow it is there and what do you do over there?\n\n(Sing me a song)\nSing sing sing me a song song\nSing a chanson son\n(Sing a chanson)\nSing me a song song, come on and sing it\nAnd let me know\nCan I maybe help you too?\n\nSing me a song\nSuch a little chanson\nBrown, white or black\nIt comes from the same heart\n\nSing me a song\nSing me a song\nWhat the world is all about is music\nAnd music makes understanding\n\nHo ho, come on\n\nSing me a sang\n(Sing sing sing me a song song)\n(Sing a chanson son)\nSing a chanson\n(Sing me a song song)\n(Come on and sing it)\nAbout your country\n(About countries)\nHow it is there and what do you do over there?\n\nSing me a song\nSing a chanson\nHow you live\n(How you live there)\nLet me know it, so sing me а ѕong"
+      }
+    ],
+    "bpm": 123,
+    "tone": "A major",
+    "artistPeople": [
+      "Bernadette Kraakman"
+    ],
+    "backings": [
+      "Cees Stolk",
+      "Dianne Marchal",
+      "Hans Vermeulen",
+      "Julya Loko",
+      "Sandra Reemer"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Piet Souer"
+    ],
+    "conductor": "Piet Souer",
+    "lyricists": [
+      "Martin Duiser"
+    ],
+    "writers": null,
+    "broadcaster": "NOS",
+    "commentators": [
+      "Willem Duys"
+    ],
+    "jury": null,
+    "spokesperson": "Flip van der Schalie"
+  },
+  {
+    "id": 7,
+    "country": "FR",
+    "artist": "Guy Bonnet",
+    "song": "Vivre",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/svAP-uh2eY4",
+      "https://www.youtube-nocookie.com/embed/gS8Os4o6wyw",
+      "https://www.youtube-nocookie.com/embed/viG_8uadvUw",
+      "https://www.youtube-nocookie.com/embed/Tnck5YOFy1w",
+      "https://www.youtube-nocookie.com/embed/sc-9i8_Pyig"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Vivre",
+        "content": "Vivre, vivre encore un jour, vivre encore un amour\nVivre encore un réveil, ivre, gorgé de soleil\nAime, aime comme un fou, aime, aime à genoux\nOui, même si tu dois souffrir, aime, même s'il faut partir\n\nIls se sont dit adieu, peut-être à jamais\nMais au fond de leurs yeux, oh, comme ils s'aimaient\nEt la ronde des jours va les emporter\nVers un autre toujours, vers l'éternité\nLoin, loin, si loin, comme une étoile, un point\n\nVivre, vivre encore un jour, vivre encore un amour\nVivre encore un réveil, ivre, gorgé de soleil\nAime, aime comme un fou, aime, aime à genoux\nOui, même si tu dois souffrir, aime, même s'il faut partir\n\nQu'importent les saisons, qu'importe le temps?\nPar delà l'horizon, rien n'est important\nIls traversent la nuit au fond de leurs yeux\nUne flamme qui luit, l'amour en adieux\nLoin, loin, si loin, comme une étoile, un point\n\nAux premières lueurs, ils l'ont embarqué\nLes fusils des tueurs vont bientôt claquer\nTu dois enfin mourir, disent-ils, que veux-tu?\nIl s'est mis à sourire, il a répondu\nLoin, loin, si loin, comme une étoile, un point\n\nVivre, vivre encore un jour\nVivre encore un аmour\nVivre (encore un réveil)\nOh, vivre (gorgé de ѕoleil)\nVivre, vivre"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Living",
+        "content": "Living, living a day again, living a love again\nLiving an awakening again, drunk, filled with sun\nLove, love like a fool, love, love on your knees\nYes, even if you have to suffer, love, even if you have to leave\n\nThey said goodbye to each other, maybe till never\nBut deep in their eyes, oh, how much they loved each other\nAnd the dance of the days will take them away\nTo another forever, to eternity\nFar, far, so far away, like a star, a dot\n\nLiving, living a day again, living a love again\nLiving an awakening again, drunk, filled with the sun\nLove, love like a fool, love, love on your knees\nYes, even if you have to suffer, love, even if you have to leave\n\nWhat do the seasons matter, what does the weather matter?\nBeyond the horizon, nothing is important\nThey pass through the night deep in their eyes\nA shimmering flame, love as farewells\nFar, far, so far away, like a star, a dot\n\nAt sunrise, they took it away\nThe guns of the killers will soon ring\nYou've got to die in the end, they say, what do you want?\nThen he started to smile, he answered\nFar, far, so far away, like a star, a dot\n\nLiving, living a day again\nLiving a love again\nLiving (an awakening agаin)\nOh, living (filled with the ѕun)\nLiving, living"
+      }
+    ],
+    "bpm": 128,
+    "tone": "D minor",
+    "artistPeople": [
+      "Guy Bonnet"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Guy Bonnet"
+    ],
+    "conductor": "François Rauber",
+    "lyricists": [
+      "Fulbert Cant"
+    ],
+    "writers": null,
+    "broadcaster": "A2F",
+    "commentators": [
+      "Léon Zitrone"
+    ],
+    "jury": null,
+    "spokesperson": "Geneviève Moll"
+  },
+  {
+    "id": 8,
+    "country": "NO",
+    "artist": "Jahn Teigen",
+    "song": "Do re mi",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/A4v7za1iLLc",
+      "https://www.youtube-nocookie.com/embed/uJnt4H5C3Bs",
+      "https://www.youtube-nocookie.com/embed/J0gxOryc5rE",
+      "https://www.youtube-nocookie.com/embed/wf5KfZS68oU"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "norwegian"
+        ],
+        "displayedLanguages": null,
+        "title": "Do re mi",
+        "content": "Skala'n er en sang alene\nSå enkel og så fin alene\nGitaren tryller fram en liten sang\nPiano og gitar i sammen\nStrenger lager lyd i sammen\nKlanger bringer fram en liten sang\n\nOveralt fins det refrenger\nSkala'n er alt det du trenger\nSyng\n\nDo re mi fa sol\n(Do re mi fa sol la ti do, do re mi fa sol)\n(Do re mi fa sol la ti do) La ti do\nDo re mi fa sol\n(Do re mi fa sol la ti do, do re mi fa sol)\n(Do re mi fa sol la ti do) La ti do\n\nNoen spiller best alene\nAndre synger mest alene\nMen alle får vi fram en liten sang\nLa oss spille mer i sammen\nVi skal få det til i sammen\nSyng så godt du kan, en liten sang\n\nOveralt finns det refrenger\nSkala'n er alt det du trenger\nSyng\n\nDo re mi fa sol\n(Do re mi fa sol la ti do, do re mi fa sol)\n(Do re mi fa sol la ti do) La ti do\n\nDo re mi fa sol la ti do, do re mi fa sol\nDo re mi fa sol la ti do\nDo re mi fa sol la ti do, do re mi fa sol\nDo re mi fa ѕol lа ti do\n\nDo re mi"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Do re mi",
+        "content": "The scale is a song, by itself\nSo simple and nice, by itself\nThe guitar creates a song through magic\nPiano and guitar, together\nStrings making sound, together\nHarmonies bring out a little song\n\nEverywhere there are refrains\nThe scale is all you need\nSing\n\nDo re mi fa sol\n(Do re mi fa sol la ti do, do re mi fa sol)\n(Do re mi fa sol la ti do) La ti do\nDo re mi fa sol\n(Do re mi fa sol la ti do, do re mi fa sol)\n(Do re mi fa sol la ti do) La ti do\n\nSome play better alone\nSome sing more alone\nBut we all produce a little song\nLet's play more together\nWe'll make it together\nSing as well as you can a little song\n\nEverywhere there are refrains\nThe scale is all you need\nSing\n\nDo re mi fa sol\n(Do re mi fa sol la ti do, do re mi fa sol)\n(Do re mi fa sol la ti do) La ti do\n\nDo re mi fa sol la ti do, do re mi fa sol\nDo re mi fa sol la ti do\nDo re mi fa sol la ti do, do re mi fa sol\nDo re mi fa ѕol lа ti do\n\nDo re mi"
+      }
+    ],
+    "bpm": 135,
+    "tone": "G major",
+    "artistPeople": [
+      "Jahn Teigen"
+    ],
+    "backings": [
+      "Anita Skorgan",
+      "Kari Mette Aamodt",
+      "Nina Both",
+      "Siri Lenning Frømyhr"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Anita Skorgan",
+      "Jahn Teigen"
+    ],
+    "conductor": "Sigurd Jansen",
+    "lyricists": [
+      "Herodes Falsk",
+      "Jahn Teigen"
+    ],
+    "writers": null,
+    "broadcaster": "NRK",
+    "commentators": [
+      "Ivar Dyrhaug"
+    ],
+    "jury": null,
+    "spokesperson": "Erik Diesen"
+  },
+  {
+    "id": 9,
+    "country": "AT",
+    "artist": "Westend",
+    "song": "Hurricane",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/Ex9Im5C2NIk",
+      "https://www.youtube-nocookie.com/embed/0gOj84TMDEo",
+      "https://www.youtube-nocookie.com/embed/BIFjrOivvFE",
+      "https://www.youtube-nocookie.com/embed/psMNXlxQm3Y",
+      "https://www.youtube-nocookie.com/embed/LW22drlIIFY"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "Hurricane",
+        "content": "Ganz allein mit meinem Kummer\nSpazier' ich durch die Straßen\nDie Einsamkeit von morgen\nMacht mir schon heute Sorgen\n\nJa, ich warte auf die Eine\nNur auf mich da wartet keine\nIch dreh' mich in der Mühle\nDer stürmischen Gefühle\n\nSo ein Hurricane, Hurricane, Hurricane\nWirbelwind der Liebe\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe trägt uns fort\n\nDann hab' ich sie gefunden\nNach leeren dunklen Stunden\nDoch das Schicksal war dagegen\nNun steh' ich da im Regen\n\nSo ein Hurricane, Hurricane, Hurricane\nWirbelwind der Liebe\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe\n\nIch leb' in meinen Phantasien\nUnd ich jag' den Regenbogen\nHaben wir uns selbst betrogen?\nSelbst betrogen…\n\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe trägt uns fort\n\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe trägt unѕ fort\n\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe\nHurricane, Hurricane, Hurricаne\nWirbelwind der Liebe"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Hurricane",
+        "content": "All alone with my pain\nI'm walking through the streets\nThe loneliness of tomorrow\nIs getting me down today\n\nYes, I'm waiting for the one\nBut nobody is waiting for me\nI'm spinning right round in the twister\nOf stormy feelings\n\nSuch a hurricane, hurricane, hurricane\nThunderstorm of love\nHurricane, hurricane, hurricane\nThunderstorm of love is taking us away\n\nThen I finally found her\nAfter empty, dark hours\nBut destiny was not on our side\nNow I'm standing in the rain\n\nSuch a hurricane, hurricane, hurricane\nThunderstorm of love\nHurricane, hurricane, hurricane\nThunderstorm of love is taking us away\n\nI live in my fantasies\nAnd I hunt the rainbow\nDid we cheat ourselves?\nCheat ourselves…\n\nHurricane, hurricane, hurricane\nThunderstorm of love\nHurricane, hurricane, hurricane\nThunderstorm of love is taking us away\n\nHurricane, hurricane, hurricane\nThunderstorm of love\nHurricane, hurricane, hurricane\nThunderstorm of love is taking us away\n\nHurricane, hurricane, hurricane\nThunderstorm of love\nHurricane, hurricane, hurricаne\nThunderѕtorm of love"
+      }
+    ],
+    "bpm": 134,
+    "tone": "Eb major",
+    "artistPeople": [
+      "Bernhard Rabitsch",
+      "Gerhard Lux",
+      "Hans Christian Wagner",
+      "Patricia Tandien",
+      "Peter Vieweger"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Peter Vieweger"
+    ],
+    "conductor": "Richard Österreicher",
+    "lyricists": [
+      "Heinz Nessizius",
+      "Heli Deinboek"
+    ],
+    "writers": null,
+    "broadcaster": "ORF",
+    "commentators": [
+      "Ernst Grissemann"
+    ],
+    "jury": null,
+    "spokesperson": "Tilia Herold"
+  },
+  {
+    "id": 10,
+    "country": "IT",
+    "artist": "Riccardo Fogli",
+    "song": "Per Lucia",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/TlRVHT59Tt8",
+      "https://www.youtube-nocookie.com/embed/Wxwafm-pt5s",
+      "https://www.youtube-nocookie.com/embed/hIh2BKwbLgM"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "italian"
+        ],
+        "displayedLanguages": null,
+        "title": "Per Lucia",
+        "content": "Buonasera, quando arriverai\nTi toglierai l'inverno e lo appenderai\nAvrai due braccia grandi come una foresta\nE la quiete dopo la tempesta\n\nPer Lucia ritrovare il foglio più bianco\nE poi cominciare\nIo vorrei per esempio legarle i capelli\nCon un filo di vento\n\nPer Lucia ci sarà la luna più piena\nMa non basterà\nIo vorrei continuando un mare di grano\nPer cullarla ogni tanto\n\nBuonanotte, quando spegnerai\nIndosserai le stelle e le sognerai\nAvrai un mare calmo dove navigare\nE un silenzio quando vuoi parlare\n\nPer Lucia delicata sarò la sua ombra\nDisegnata per strada\nIo vorrei per esempio aprirle le porte\nChe chiudono il mondo\n\nCon Lucia basta poco\nTi riempie da sola il giorno più vuoto\nIo vorrei così tanto ridarle\nIl sorriso sul viso un po' stanco\n\nOltre il muro che cosa c'è\nTrattieni il fiato e poi salta verso me\nI colpi di fucile sono ormai lontani\nApriremo il cielo con le mani\n\nPer Lucia lunga vita e acqua di fiume\nPer ogni ferita\nIo vorrei luci accese la festa più grande\nPer tutto il paese\n\nPer Lucia spaventata che questa mia penna\nDiventi una spada\nCon Lucia al mio fianco\nChe la ѕtoria continui nella pagina accаnto"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "For Lucia",
+        "content": "Good evening, when you arrive\nYou'll take away the winter and get rid of it\nYou'll have two arms, large like a forest\nAnd like the silence after the storm\n\nFor Lucia I look for the whitest sheet\nAnd then begin\nFor example, I want to bind her hair\nWith a wire of the wind\n\nFor Lucia it'll be the fullest moon\nBut it won't be enough\nTo continue, I want a sea of wheat\nTo cherish every few\n\nGood night, when you die\nYou'll wear the stars and dream\nYou'll have a smooth sea for sailing\nAnd silence when you want to speak\n\nFor sensitive Lucia, I'll be her shadow\nDrawn on the road\nFor example, I want to open for her the doors\nThat close the world\n\nWith Lucia I have enough\nShe fills you up on the emptier days\nI want to give her so much again\nThe smile on the face which is a little tired\n\nBeyond the wall that is there\nHold your breath and jump towards me\nRifle shots are far away\nWe'll open the sky with our hands\n\nFor Lucia long life and the water of a river\nFor every wound\nI want burning lights, the biggest feast\nFor the whole country\n\nFor frightened Lucia, my pen\nBecomes a sword\nWith Lucia at my side\nThe story goeѕ on to the next pаge"
+      }
+    ],
+    "bpm": 110,
+    "tone": "A minor",
+    "artistPeople": [
+      "Riccardo Fogli"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Maurizio Fabrizio"
+    ],
+    "conductor": "Maurizio Fabrizio",
+    "lyricists": [
+      "Riccardo Fogli",
+      "Vincenzo Spampinato"
+    ],
+    "writers": null,
+    "broadcaster": "RAI",
+    "commentators": [
+      "Paolo Frajese"
+    ],
+    "jury": null,
+    "spokesperson": "Paola Perissi"
+  },
+  {
+    "id": 11,
+    "country": "FI",
+    "artist": "Ami Aspelund",
+    "song": "Fantasiaa",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/his_Os3J1Yk",
+      "https://www.youtube-nocookie.com/embed/FsCLRNXZ2Gg",
+      "https://www.youtube-nocookie.com/embed/-C7sx0RNp64",
+      "https://www.youtube-nocookie.com/embed/bII1EA2BvoA"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "finnish"
+        ],
+        "displayedLanguages": null,
+        "title": "Fantasiaa",
+        "content": "Kuka hän on, ja mitä kieltä mahtaa puhua hän?\nKuka hän on? Mua hänen toivoisin niin lähestyvän\nMikä hän on? Hän päiväkaudet koiraa kävelyttää\nKuka hän on, ja minne hän häviää?\n\nTää onko fantasiaa, vai alku ihastuksen?\nHän koiraa silittää ja minä katson kadehtien\nPuisto äänetön on, en ristinsielua nää\nHän onko mulle pelkkää päiväunta, kuvitelmaa?\n\nTää onko fantasiaa, vai juttu onneton vain?\nHän mustaan autoon nousee, jälleen yksin jäädä mä sain\nJarruvalot kun nään niin toivon taas hiljalleen\nHän että huomannut ois vihdoin naisen rakastuneen\n\n(Aika kulki kuivui posket)\n(Kaikki ruostuu, mihin kosket)\n(Huominen on kaiku eilisen)\n\nKuka hän on, ja mikä tähän puistoon hänet taas tuo?\nMikä on syy, hän että lemmikilleen hellyyden suo?\nKuka hän on? En sitä milloinkaan kai selville saa\nMitä on tää? Tää onko vain unelmaa?\n\nTää onko fantasiaa, vai alku ihastuksen?\nTää onko fantasiaa, vai alku ihastuksen?\nHän koiraa silittää ja minä katson kadehtien\nPuisto äänetön on, en ristinsielua nää\nHän onko mulle pelkkää päiväunta, kuvitelmaa?\n\nTää onko fantasiaa, vai juttu onneton vain?\nHän mustaan autoon nousee, jälleen yksin jäädä mä sain\nJarruvalot kun nään niin toivon taas hiljalleen\nHän että huomannut ois vihdoin naisen….\nHuomannut ois vihdoin naisen rakаѕtuneen"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Fantasy",
+        "content": "Who is he and what is the language that he speaks?\nWho is he? I wish that he would come close to me\nWhat is he? He spends the days walking his dog\nWho is he and where does he disappear to?\n\nIs this a fantasy or the beginning of a crush?\nHe strokes the dog and I watch jealously\nThere's no sound in the park, I don't see anyone\nIs this just a daydream or my imagination?\n\nIs this a fantasy or just a sad story?\nHe gets into a black car and I'm left alone again\nWhen I see the stop lights I hope in silence again\nThat he finally had noticed a woman in love\n\n(Time goes by, cheeks will dry)\n(Everything you touch turns to rust)\n(Tomorrow is a sound of yesterday)\n\nWho is he and what brings him again to this park?\nWhat is the reason he gives tenderness to his pet?\nWho is he? I may never find this out\nWhat is this? Is this just a dream?\n\nIs this a fantasy or the beginning of a crush?\nIs this a fantasy or the beginning of a crush?\nHe strokes the dog and I watch jealously\nThere's no sound in the park, I don't see anyone\nIs this just a daydream or my imagination?\n\nIs this a fantasy or just a sad story?\nHe gets into a black car and I'm left alone again\nWhen I see the stop lights I hope in ѕilence again\nThat he finally had noticed a woman…\nFinally noticed a womаn in love"
+      },
+      {
+        "type": 2,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Fantasy Dream",
+        "content": "Who could he be?\nAnd if he talked to me, would I understand?\nWho could he be?\nIs there a chance he feels the same about me?\nWhat kind of man\nHe takes his dog out everyday to the park\nWhat kind of man\nAnd then disappears in the dark?\n\nIs this a fantasy dream, or am I falling in love?\nAnd I just stare with empty eyes as he is stroking his dog\nI feel like shouting his name, but I don′t know who he is\nAnd then I'm all alone and wonder, does he really exist?\n\nIs this a fantasy dream? I see his face everywhere\nI see him running for a taxi, but the taxi′s not there\nI see him calling a name, but I can't hear any word\nAm I a woman who loves someone from a fantasy world?\n\n(Time, they say, will wait for no one)\n(Is he real or just an omen?)\n(Only echoes of another life)\n\nWho could he be?\nWhat reason brings him to the park every day?\nWho could he be?\nAnd if he called me, would I know what to say?\nWhat kind of man?\nHis dog – his only true companion – he feels\nWhat kind of man?\nIs he the one? Is he real?\n\nIs this a fantasy dream, or am I falling in love?\nIs this a fantasy dream, or am I falling in love?\nAnd I just stare with empty eyes as he is stroking his dog\nI feel like shouting his name, but I don't know who he is\nAnd then I′m all alone and wonder, does he really exist?\n\nIs this a fantasy dream? I see his face everywhere\nI see him running for a taxi, but the taxi′s not there\nI see him calling a name, but I can't hear any word\nAm I a woman who loves someone from a…\nWoman who loves someone from a fantаѕy world?"
+      }
+    ],
+    "bpm": 135,
+    "tone": "C minor",
+    "artistPeople": [
+      "Ami Aspelund"
+    ],
+    "backings": [
+      "Jokke Seppälä",
+      "Kari Kuusamo",
+      "Pave Maijanen"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Kari Kuusamo"
+    ],
+    "conductor": "Ossi Runne",
+    "lyricists": [
+      "Kaisu Liuhala"
+    ],
+    "writers": null,
+    "broadcaster": "YLE",
+    "commentators": [
+      "Erkki Pohjanheimo"
+    ],
+    "jury": null,
+    "spokesperson": "Solveig Herlin"
+  },
+  {
+    "id": 12,
+    "country": "PT",
+    "artist": "Armando Gama",
+    "song": "Esta balada que te dou",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/hyhMqYd-MXw",
+      "https://www.youtube-nocookie.com/embed/WtPIMgmnvu0",
+      "https://www.youtube-nocookie.com/embed/U016GvvExdc",
+      "https://www.youtube-nocookie.com/embed/WRFhdvBQWlU",
+      "https://www.youtube-nocookie.com/embed/JTe5VeXU1pg"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "portuguese"
+        ],
+        "displayedLanguages": null,
+        "title": "Esta balada que te dou",
+        "content": "Ela diz que eu fui caso muito sério\nMas eu só sei que há algo nisso de anormal\nHavia un tempo, um olhar, um sorrir, um começo\nMas agora tudo perdeu seu brilho\n\nNa minha vida só houve um abraço como o teu\nUm sonho, um livro, uma aventura sem igual\nLinda, linda, esta balada que te dou\nLinda, linda, esta balada que te dou\n\nPodem até pensar que eu sou um pouco triste\nMas não há nenhum mal em ser assim\nPois tudo fica mesmo quando se acaba\nUm romance, uma paixão ou um caminho\n\nNa minha vida só houve um abraço como o teu\nUm sonho, um livro, uma aventura sem igual\nLinda, linda, esta balada que te dou\nLinda, linda, esta balada que te dou\n\nQuis escrever a mais bela canção que há no mundo\nOlhando para trás p'ra nos ver\nFoi quando ouvi uma voz cantando baixinho\nEsta balada que vinha de longe\n\nNa minha vida só houve um abraço como o teu\nUm sonho, um livro, uma aventura sem igual\n\nNa minha vida só houve um abraço como o teu\nUm sonho, um livro, uma aventura sem igual\nLinda, linda, esta balada que te dou\nLinda, linda, eѕta baladа que te dou"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "This ballad that I give you",
+        "content": "She says I was a very serious case\nBut only I know that there's something abnormal to that\nThere was a time, a look, a smile, a beginning\nBut now everything has lost its glow\n\nIn my life there was only one hug like yours\nA dream, a book, an adventure without equal\nIt's pretty, pretty, this ballad that I give you\nIt's pretty, pretty, this ballad that I give you\n\nYou might even think that I'm a bit sad\nBut there's nothing wrong with being this way\nFor when everything is over\nA romance, a passionate amour or a way\n\nIn my life there was only one hug like yours\nA dream, a book, an adventure without equal\nIt's pretty, pretty, this ballad that I give you\nIt's pretty, pretty, this ballad that I give you\n\nI wanted to write the most beautiful song in the world\nLooking back to see ourselves\nIt was when I heard a bass voice singing\nThis ballad which came from far away\n\nIn my life there was only one hug like yours\nA dream, a book, an adventure without equal\n\nIn my life there was only one hug like yours\nA dream, a book, an adventure without equal\nIt's pretty, pretty, this ballad that I give you\nIt's pretty, pretty, thiѕ ballad thаt I give you"
+      }
+    ],
+    "bpm": 84,
+    "tone": "E major",
+    "artistPeople": [
+      "Armando António Capelo Dinis da Gama"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Mike Sergeant",
+    "lyricists": null,
+    "writers": [
+      "Armando Gama"
+    ],
+    "broadcaster": "RTP",
+    "commentators": [
+      "Eládio Clímaco"
+    ],
+    "jury": null,
+    "spokesperson": "João Abel da Fonseca"
+  },
+  {
+    "id": 13,
+    "country": "GR",
+    "artist": "Christie Stassinopoulou",
+    "song": "Mou les",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/CDL38uyoayI",
+      "https://www.youtube-nocookie.com/embed/cxnpZCfYaiA"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": [
+          "ellinika"
+        ],
+        "title": "Mou les",
+        "content": "Mu les yia thalases ke plia, ke i karthia mu san puli\nMesa sto gorfo su sopeni, ki opu ki an pas s' akoluthi\nMesa sto gorfo su sopeni, ki opu ki an pas s' akoluthi\nTha kliso ola ta limania, ke tus stathmus mi mu hathis\nTo nu su tha ton filakiso, na papsis pia na nostalyis\nTo nu su tha ton filakiso, na papsis pia na nostalyis\n\nMu les yia trena pu olo fevgun, ke yia tsinganus pu kinun\nKi ego ta matia su thiavazo, na tho pu trehun, pu yirnun\nKi ego ta matia su thiavazo, na tho pu trehun, pu yirnun\n\nTha kliso ola ta limania, ke tus stathmus mi mu hathis\nTo nu su tha ton filakiso, na papsis pia na nostalyis\nTo nu su tha ton filakiso, na papsis pia na nostalyis\n\nTha kliso ola ta limania, ke tus stathmus mi mu hathis\nTo nu su tha ton filakiso, na papsis pia na nostalyis\nTo nu su tha ton filakiso, na papsis pia na nostаlyiѕ"
+      },
+      {
+        "type": 0,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": [
+          "ελληνικά"
+        ],
+        "title": "Μου λες",
+        "content": "Μου λες για θάλασσες και πλοία, και η καρδιά μου σαν πουλί\nΜέσα στον κόρφο σου σωπαίνει, κι όπου κι αν πας σ' ακολουθεί\nΜέσα στον κόρφο σου σωπαίνει, κι όπου κι αν πας σ' ακολουθεί\nΘα κλείσω όλα τα λιμάνια, και τους σταθμούς μη μου χαθείς\nΤο νου σου θα τον φυλακίσω, να πάψεις πια να νοσταλγείς\nΤο νου σου θα τον φυλακίσω, να πάψεις πια να νοσταλγείς\n\nΜου λες για τρένα που όλο φεύγουν, και για τσιγγάνους που κινούν\nΚι εγώ τα μάτια σου διαβάζω, να δω που τρέχουν που γυρνούν\nΚι εγώ τα μάτια σου διαβάζω, να δω που τρέχουν που γυρνούν\n\nΘα κλείσω όλα τα λιμάνια, και τους σταθμούς μη μου χαθείς\nΤο νου σου θα τον φυλακίσω, να πάψεις πια να νοσταλγείς\nΤο νου σου θα τον φυλακίσω, να πάψεις πια να νοσταλγείς\n\nΘα κλείσω όλα τα λιμάνια, και τους σταθμούς μη μου χαθείς\nΤο νου σου θα τον φυλακίσω, να πάψεις πια να νοσταλγείς\nΤο νου σου θα τον φυλακίσω, να πάψεις πια να νοσταλγείς"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "You tell me",
+        "content": "You tell me about seas and ships, and my heart like a bird\nIn your bosom hushes, and wherever you go, it follows you\nIn your bosom hushes, and wherever you go, it follows you\nI'll close all the ports, and the stations so that you won't be lost from me\nYour mind I'll imprison, so that you cease feeling nostalgia any longer\nYour mind I'll imprison, so that you cease feeling nostalgia any longer\n\nYou tell me about trains that keep leaving, and gypsies that move\nAnd I read your eyes, to see where they run, where they wander\nAnd I read your eyes, to see where they run, where they wander\n\nI'll close all the ports, and the stations so that you won't be lost from me\nYour mind I'll imprison, so that you cease feeling nostalgia any longer\nYour mind I'll imprison, so that you cease feeling nostalgia any longer\n\nI'll close all the ports, and the stations so that you won't be lost from me\nYour mind I'll imprison, so that you cease feeling nostalgia any longer\nYour mind I'll imprison, so that you cease feeling noѕtalgia аny longer"
+      }
+    ],
+    "bpm": 129,
+    "tone": "C# minor",
+    "artistPeople": [
+      "Christina Stassinopoulou"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Antonis Plessas"
+    ],
+    "conductor": "Mimis Plessas",
+    "lyricists": [
+      "Sofia Fildisi"
+    ],
+    "writers": null,
+    "broadcaster": "ERT",
+    "commentators": [
+      "Mako Georgiadou"
+    ],
+    "jury": null,
+    "spokesperson": "Irini Gavala"
+  },
+  {
+    "id": 14,
+    "country": "CH",
+    "artist": "Mariella Farré",
+    "song": "Io così non ci sto",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/kKfo9bnqZyQ",
+      "https://www.youtube-nocookie.com/embed/rgQ4pGORUdw"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "italian"
+        ],
+        "displayedLanguages": null,
+        "title": "Io così non ci sto",
+        "content": "Così non mi va, io non ci sto\nSi fa per amore oppure no\nLascia il segno un'avventura\nUna donna ci rimette sempre un po'\nInnamorarsi non ha senso\nTu stai da sempre con lei\n\nSe magari è per gioco, per passare una sera\nPer combattere la noia\nIo così non ci sto\nSe è soltanto per fare l'amore\nUna volta e poi basta, per un colpo di testa\nSenza alcuna emozione\nNé sentimento, niente qua dentro\nIo così non ci sto\n\nE poi chi sarà, chi di noi due\nA stare col dubbio dentro il cuore\nSarò io, sarò io, non sarai tu\nInvece tu, come fosse niente\nStasera torni da lei\n\nSe magari è per gioco, per passare una sera\nPer combattere la noia\nIo così non ci sto\nSe è soltanto per fare l'amore\nUna volta e poi basta, per un colpo di testa\nIo così non ci sto\n\nSe è soltanto per fare l'amore\nUna volta e poi basta, per un colpo di testa\nSenza alcuna emozione\nNé sentimento, niente quа dentro\nIo così non ci ѕto"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "I don't like it this way",
+        "content": "In that way I don't like, I don't like it\nDoing for love or not\nAn affair leaves a sign\nA woman always loses something\nFalling in love doesn't make sense\nYou always stay with her\n\nEven for fun, to spend an evening\nTo fight boredom\nI don't like it this way\nIf it's only to make love\nOne time and never again, for a rushed act\nWithout any emotion\nNo feeling, nothing in here\nI don't like it this way\n\nAnd then who will be, which of the two of us\nWill be doubtful in their heart\nIt will be me, it will be me not you\nInstead as if nothing had happened\nYou'll return to her this evening\n\nEven for fun, to spend an evening\nTo fight boredom\nI don't like it this way\nIf it's only to make love\nOne time and never again, for a rushed act\nI don't like it this way\n\nIf it's only to make love\nOne time and never again, for a rushed act\nWithout any emotion\nNo feeling, nothing in here\nI don't like it thiѕ wаy"
+      }
+    ],
+    "bpm": 96,
+    "tone": "B major",
+    "artistPeople": [
+      "Gabriella Ricamato-Filomeno"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Remo Kessler",
+      "Thomas Gonzenbach"
+    ],
+    "conductor": "Robert Weber",
+    "lyricists": [
+      "Nella Martinetti"
+    ],
+    "writers": null,
+    "broadcaster": "SSR SRG",
+    "commentators": [
+      "Georges Hardy",
+      "Giovanni Bertini",
+      "Theodor Haller"
+    ],
+    "jury": null,
+    "spokesperson": "Michel Stocker"
+  },
+  {
+    "id": 15,
+    "country": "CY",
+    "artist": "Stavros & Constantina",
+    "song": "I agapi akoma zi",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/Oh0bfRWDaSc",
+      "https://www.youtube-nocookie.com/embed/ypPS6sEjUMA",
+      "https://www.youtube-nocookie.com/embed/mL0hJn2FYqE"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": [
+          "ellinika"
+        ],
+        "title": "I agapi akoma zi",
+        "content": "Na yinotane na ftiakso mia megali horodhia\nKe tragudhi na tis grapso me orea melodhia\nNa to mathun ta pedhia mas\nNa to len s' oli ti yi\nOlonon na 'ne tragudhi\nKe na legame mazi\n\nI agapi akoma zi, i agapi akoma zi\nI agapi akoma zi, i agapi akoma zi\nI agapi akoma zi, ki as min idhe aspri mera\nI agapi akoma zi, ti niotho apopse ston agera\n\nNa yinotane na ftiakso mia megali horodhia\nKe tragudhi na tis grapso me orea melodhia\nNa 'pernan ta onira mas\nNa ta kanan musiki\nKi i lai olu tu kosmu\nNa tragudhagan mazi\n\nI agapi akoma zi, i agapi akoma zi\nI agapi akoma zi, i agapi akoma zi\nI agapi akoma zi, ki as min idhe aspri mera\nI agapi akoma zi, tin niotho apopse ѕton agera\n\nI agapi akoma zi, i agapi akoma zi\nI agapi akoma zi, i agapi akomа zi"
+      },
+      {
+        "type": 0,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": [
+          "ελληνικά"
+        ],
+        "title": "Η αγάπη ακόμα ζει",
+        "content": "Να γινότανε να φτιάξω μια μεγάλη χορωδία\nΚαι τραγούδι να της γράψω με ωραία μελωδία\nΝα το μάθουν τα παιδιά μας\nΝα το λεν σ' όλη τη γη\nΟλονών να 'ναι τραγούδι\nΚαι να λέγαμε μαζί\n\nΗ αγάπη ακόμα ζει, η αγάπη ακόμα ζει\nΗ αγάπη ακόμα ζει, η αγάπη ακόμα ζει\nΗ αγάπη ακόμα ζει, κι ας μην είδε άσπρη μέρα\nΗ αγάπη ακόμα ζει, τη νοιώθω απόψε στον αγέρα\n\nΝα γινότανε να φτιάξω μια μεγάλη χορωδία\nΚαι τραγούδι να της γράψω με ωραία μελωδία\nΝά 'παιρναν τα όνειρά μας\nΝα τα κάναν μουσική\nΚι οι λαοί όλου του κόσμου\nΝα τραγούδαγαν μαζί\n\nΗ αγάπη ακόμα ζει, η αγάπη ακόμα ζει\nΗ αγάπη ακόμα ζει, η αγάπη ακόμα ζει\nΗ αγάπη ακόμα ζει, κι ας μην είδε άσπρη μέρα\nΗ αγάπη ακόμα ζει, τη νοιώθω απόψε στον αγέρα\n\nΗ αγάπη ακόμα ζει, η αγάπη ακόμα ζει\nΗ αγάπη ακόμα ζει, η αγάπη ακόμα ζει"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Love is still alive",
+        "content": "I wish I could establish a big choir\nAnd write a song for it with a nice melody\nI wish our children could learn it\nAnd sing it all over the world\nAnd that it would be a song for everyone\nAnd would say together\n\nLove is still alive, love is still alive\nLove is still alive, love is still alive\nLove is still alive, albeit without a sunny day\nLove is still alive, I feel it in the air tonight\n\nI wish I could establish a big choir\nAnd write a song for it with a nice melody\nI wish our children could learn it\nAnd make music with it\nAnd the peoples of the earth\nCould sing together\n\nLove is still alive, love is still alive\nLove is still alive, love is still alive\nLove is still alive, albeit without a sunny day\nLove is still alive, I feel it in the air tonight\n\nLove is still alive, love is still alive\nLove is still alive, love is ѕtill аlive"
+      }
+    ],
+    "bpm": 91,
+    "tone": "F major",
+    "artistPeople": [
+      "Constantina Konstantinou",
+      "Stavros Sideras"
+    ],
+    "backings": [
+      "Elena Patroklou",
+      "Evridiki Theokleous",
+      "John Vickers",
+      "Stelios Konstantinou"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Michalis Rozakis",
+    "lyricists": null,
+    "writers": [
+      "Stavros Sideras"
+    ],
+    "broadcaster": "CyBC",
+    "commentators": [
+      "Fryni Papadopoulou"
+    ],
+    "jury": null,
+    "spokesperson": "Anna Partelidou"
+  },
+  {
+    "id": 16,
+    "country": "DK",
+    "artist": "Gry Johansen",
+    "song": "Kloden drejer",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/cYzbevgyfJY",
+      "https://www.youtube-nocookie.com/embed/qU4fDyyMszc",
+      "https://www.youtube-nocookie.com/embed/h5waUYNuUYs",
+      "https://www.youtube-nocookie.com/embed/stxBohjJkg0",
+      "https://www.youtube-nocookie.com/embed/IWPa5_4EYdw"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "danish"
+        ],
+        "displayedLanguages": null,
+        "title": "Kloden drejer",
+        "content": "Kloden drejer, alting vokser op på ny\nMenn'sker mødes, svæver på en sky\n\nEt oprørt hav i sjælens sind\nEt S.O.S. der gør mig så blind\nMåske ku' vi ved fælles hjælp\nFå brudt de bånd\nSå luk mig dog ind\n\nKloden drejer, alting vokser op på ny\nMenn'sker mødes, svæver på en sky\n\nEt stjerneskud baner vej\nFor mennesker som du og jeg\nEt lys bli'r tændt, og natten ser\nEndnu engang to menn'sker der ler\n\nKloden drejer, alting vokser op på ny\nMenn'sker mødes, svæver på en sky\n\nTusind stjerner viser vej\nDe blinker kun for dig og mig\nDig og mig\n\nKloden drejer, alting vokser op på ny\nMenn'sker mødes, svæver på en sky\n\nKloden drejer, аlting vokser op på ny\nMenn'sker mødes, svæver på en sky\nSvæver på en ѕky"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "The planet's spinning",
+        "content": "The planet's spinning, everything grows again\nPeople meet, floating on a cloud\n\nA rough sea in the mind of the soul\nAn S.O.S. that makes me so blind\nPerhaps we could, between us\nBreak the ties\nDo let me in\n\nThe planet's spinning, everything grows again\nPeople meet, floating on a cloud\n\nA shooting star leads the way\nFor people like you and me\nA light is lit, and the night sees\nOnce again, to laughing people\n\nThe planet's spinning, everything grows again\nPeople meet, floating on a cloud\n\nA thousand stars show the way\nThe twinkle just for you and me\nYou and me\n\nThe planet's spinning, everything grows again\nPeople meet, floating on a cloud\n\nThe planet's spinning, everything growѕ again\nPeople meet, floating on a cloud\nFloating on а cloud"
+      }
+    ],
+    "bpm": 118,
+    "tone": "D major",
+    "artistPeople": [
+      "Gry Johansen"
+    ],
+    "backings": [
+      "Christian Jacobsen",
+      "Flemming Gernyx",
+      "Lars Christensen",
+      "Lei Moe",
+      "Lupe Moe"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Christian Jacobsen",
+      "Flemming Gernyx",
+      "Lars Christensen"
+    ],
+    "conductor": "Allan Botschinsky",
+    "lyricists": [
+      "Billy Cross",
+      "Christian Jacobsen",
+      "Flemming Gernyx"
+    ],
+    "writers": null,
+    "broadcaster": "DR",
+    "commentators": [
+      "Jørgen de Mylius"
+    ],
+    "jury": null,
+    "spokesperson": "Bent Henius"
+  },
+  {
+    "id": 17,
+    "country": "BE",
+    "artist": "Pas de Deux",
+    "song": "Rendez-vous",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/ek6JUyOBMH8",
+      "https://www.youtube-nocookie.com/embed/9SfRTuaFis4",
+      "https://www.youtube-nocookie.com/embed/loXd5_r47uc",
+      "https://www.youtube-nocookie.com/embed/75NHvComlHo",
+      "https://www.youtube-nocookie.com/embed/BUFjtBhAms8",
+      "https://www.youtube-nocookie.com/embed/B3-b_sjcWQw"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "dutch"
+        ],
+        "displayedLanguages": null,
+        "title": "Rendez-vous",
+        "content": "Rendez-vous\nMaar de maat is vol en m'n kop is toe\n\nRendez-vous\nMaar de maat is vol en m'n kop is toe\n\nRendez-vous\nRendez-vous\n\nRendez-vous\nMaar de maat is vol\n\nRendez-vous\nMaar de maat is vol en m'n kop is toe\n\nRendez-vous\nMaar de maat is vol en m'n kop is toe\n\nRendez-vous\nRendez-vous\n\nRendez-vous\nMaar de maat is vol\n\nRendez-vous\nMaar de maаt is vol en m'n kop iѕ toe"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Rendezvous",
+        "content": "Rendez-vous\nBut its over now, I don't have a clue\n\nRendez-vous\nBut its over now, I don't have a clue\n\nRendez-vous\nRendez-vous\n\nRendez-vous\nBut its over now\n\nRendez-vous\nBut its over now, I don't have a clue\n\nRendez-vous\nBut its over now, I don't have a clue\n\nRendez-vous\nRendez-vous\n\nRendez-vous\nBut its over now\n\nRendez-vous\nBut itѕ over now, I don't have а clue"
+      }
+    ],
+    "bpm": 149,
+    "tone": "E major",
+    "artistPeople": [
+      "Bernadette Peyskens",
+      "Hilde Van Roy",
+      "Walter Verdin"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Walter Verdin"
+    ],
+    "conductor": "Freddy Sunder",
+    "lyricists": [
+      "Paul Peyskens",
+      "Walter Verdin"
+    ],
+    "writers": null,
+    "broadcaster": "BRT",
+    "commentators": [
+      "Jacques Mercier",
+      "Luc Appermont"
+    ],
+    "jury": null,
+    "spokesperson": "Anne Ploegaerts"
+  },
+  {
+    "id": 18,
+    "country": "TR",
+    "artist": "Çetin Alp and the Short Wave",
+    "song": "Opera",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/vm3_9RVDk2U",
+      "https://www.youtube-nocookie.com/embed/-q4iC8KT490",
+      "https://www.youtube-nocookie.com/embed/9fGfXAYvGlI",
+      "https://www.youtube-nocookie.com/embed/CbyqI9QK7Jk",
+      "https://www.youtube-nocookie.com/embed/KIpjXAljpCs"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "turkish"
+        ],
+        "displayedLanguages": null,
+        "title": "Opera",
+        "content": "İşte opera, heyecan fırtınası\nCoşar ruhumda, duyarım sönmez o aşkı\n\nBaleli aşk dolu, müzikli oyunlar\nUvertür, trio, duetto, korolar\nSaraydan kız kaçırma, ölmez La Traviata\n\nOpera, opera, opera, opera, opera\nOpera, opera, opera, opera, Carmen, Aida\nOpera, opera, bu gece operalarda\nTosca, Figaro, Fidelio var, coşkun aryalar\n\nLay lay la lay lay lay la lay la lay…\n(Opera, opera, opera, opera, opera)\nLay lay la lay lay lay la lay la lay…\n(Opera, opera, opera, opera), Carmen, Aida\nOpera, opera, bu gece operalarda\nTosca, Figaro, Fidelio var, coşkun aryalar\n\nİşte opera, Wagner ve Puccini\nMozart, Rossini, Verdi'nin ölmez eseri\n\nBaleli aşk dolu, müzikli oyunlar\nUvertür, trio, duetto, korolar\nSaraydan kız kaçırma, ölmez La Traviata\nÖlmez aѕlа"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Opera",
+        "content": "That's opera, storm of excitement\nI feel it so strongly, this love should never end\n\nBallet, with music full of love\nOverture, trio, duet, choirs\nThe Abduction from the Seraglio, La Traviata will not die\n\nOpera, opera, opera, opera, opera\nOpera, opera, opera, opera, Carmen, Aida\nOpera, opera, tonight at the opera they play\nTosca, Figaro and Fidelio, exciting arias\n\nLay lay la lay lay lay la lay la lay…\n(Opera, opera, opera, opera, opera)\nLay lay la lay lay lay la lay la lay…\n(Opera, opera, opera, opera), Carmen, Aida\nOpera, opera, tonight at the opera they play\nTosca, Figaro and Fidelio, exciting arias\n\nThis is opera, Wagner and Puccini\nMozart, Rossini, the works of Verdi will remain forever\n\nBallet, with music full of love\nOverture, trio, duet, choirѕ\nThe Abduction from the Seraglio, La Traviatа will not die\nWill never die"
+      }
+    ],
+    "bpm": 91,
+    "tone": "D major",
+    "artistPeople": [
+      "Çetin Alp"
+    ],
+    "backings": [
+      "Ali Uyar",
+      "Bisan Yorulmaz",
+      "Gül Aktuğ",
+      "Recep Aktuğ",
+      "Sema Uğur"
+    ],
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Buğra Uğur"
+    ],
+    "conductor": "Buğra Uğur",
+    "lyricists": [
+      "Aysel Gürel"
+    ],
+    "writers": null,
+    "broadcaster": "TRT",
+    "commentators": [
+      "Başak Doğru"
+    ],
+    "jury": null,
+    "spokesperson": "Fatih Orbay"
+  },
+  {
+    "id": 19,
+    "country": "ES",
+    "artist": "Remedios Amaya",
+    "song": "¿Quién maneja mi barca?",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/B3-0DLbQP2E",
+      "https://www.youtube-nocookie.com/embed/nM-Ucg46nu4",
+      "https://www.youtube-nocookie.com/embed/b-P3SjCjP08",
+      "https://www.youtube-nocookie.com/embed/OxA-gkMzrPg"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "spanish"
+        ],
+        "displayedLanguages": null,
+        "title": "¿Quién maneja mi barca?",
+        "content": "Ay, ¿quién maneja mi barca, quién?\nQue a la deriva me lleva, ¿quién?\nAy, ¿quién maneja mi barca, quién?\nQue a la deriva me lleva, ¿quién?\n\nAy, ¿quién maneja mi barca?\nQue a la deriva me lleva\nAy, ¿quién maneja mi barca?\nQue a la deriva\nQue allí me lleva\n\nLas trenzas de tu madre, anda y dime quién\nQue dime quién se las peina, dime quién\nQue dime quién se las peina\n\nVoy a pedirle que me trence, anda y sí\nTu cabeza, mi cabeza, anda y sí\nTu cabeza, mi cabeza\nPor mucho que tú me pidas, yo te lo doy\n\nAy, ¿quién maneja mi barca, quién?\nQue a la deriva me lleva, ¿quién?\nAy, ¿quién maneja mi barca, quién?\nQue a la deriva me lleva, ¿quién?\n\nAy, ¿quién maneja mi barca?\nQue a la deriva me lleva\nAy, ¿quién maneja mi barca?\nQue a la deriva\nQue allí me lleva\n\nEl verde de tus ojos verdes, mírame\nQue mira que yo te mire, mírame\nQue mira que yo te mire\n\nEl verde como cualquier verde, mírame\nQue es verde que me persigue, mírame\nQue es verde que me persigue\nPor mucho que tú me pidas, yo te lo doy\n\nAy, ¿quién maneja mi barca, quién?\nQue a la deriva me lleva, ¿quién?\nAy, ¿quién maneja mi barca, quién?\nQue a la deriva me lleva, ¿quién?\n\nAy, ¿quién maneja mi barca?\nQue a la deriva me lleva\nAy, ¿quién maneja mi barca?\nQue a la deriva\nQue allí me lleva\n\nPor mucho que tú me pidaѕ, yo te lo doy\n\nAy, ¿quién maneja mi barca, quién?\nQue a la deriva me lleva, ¿quién?\nAy, ¿quién maneja mi barca, quién?\nQue a la deriva me lleva, ¿quién?\n\nAy, ¿quién maneja mi barca, quién?\nQue a la deriva me lleva, ¿quién?\nAy, ¿quién maneja mi barca, quién?\nQue a la deriva me lleva, ¿quién?\n\nAy, ¿quién maneja mi barca, quién?\nQue a la deriva me lleva, ¿quién?\nAy, ¿quién maneja mi barca, quién?\nQue a la deriva me llevа, ¿quién?"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Who sails my boat?",
+        "content": "Ay, who sails my boat, who?\nIt drifts me away, who?\nAy, who sails my boat, who?\nIt drifts me away, who?\n\nAy, who sails my boat?\nIt drifts me away\nAy, who sails my boat, who?\nIt drifts me\nIt takes me away\n\nYour mother's braids, come on, tell me who\nTell me who braids them, tell me who\nTell me who braids them\n\nI'm going to ask him to braid mine, yes I will\nYour head, my head, yes I will\nYour head, my head\nWhatever you ask me, I'll give it to you\n\nAy, who sails my boat, who?\nIt drifts me away, who?\nAy, who sails my boat, who?\nIt drifts me away, who?\n\nAy, who sails my boat?\nIt drifts me away\nAy, who sails my boat, who?\nIt drifts me\nIt takes me away\n\nThe green of your green eyes, look at me\nLook at me, so I can look at you, look at me\nLook at me, so I can look at you\n\nA green like every green, look at me\nIt's a green that pursues me, look at me\nIt's a green that pursues me\nWhatever you ask me, I'll give it to you\n\nAy, who sails my boat, who?\nIt drifts me away, who?\nAy, who sails my boat, who?\nIt drifts me away, who?\n\nAy, who sails my boat?\nIt drifts me away\nAy, who sails my boat, who?\nIt drifts me\nIt takes me away\n\nWhatever you ask me, I'll give it to you\n\nAy, who sails my boat, who?\nIt drifts me away, who?\nAy, who sails my boat, who?\nIt drifts me away, who?\n\nAy, who sails my boat, who?\nIt drifts me away, who?\nAy, who sails my boat, who?\nIt drifts me away, who?\n\nAy, who sails my boat, who?\nIt drifts me away, who?\nAy, who sails my boat, who?\nIt driftѕ me awаy, who?"
+      }
+    ],
+    "bpm": 147,
+    "tone": "F minor",
+    "artistPeople": [
+      "María Dolores Amaya Vega"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "José Miguel Evóras"
+    ],
+    "conductor": "José Miguel Evóras",
+    "lyricists": [
+      "Isidro Muñoz"
+    ],
+    "writers": null,
+    "broadcaster": "TVE",
+    "commentators": [
+      "José-Miguel Ullán"
+    ],
+    "jury": null,
+    "spokesperson": "Rosa Campano"
+  }
+]

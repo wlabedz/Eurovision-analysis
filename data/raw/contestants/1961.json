@@ -1,0 +1,884 @@
+[
+  {
+    "id": 0,
+    "country": "LU",
+    "artist": "Jean-Claude Pascal",
+    "song": "Nous les amoureux",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/W7jR8W2PNYk",
+      "https://www.youtube-nocookie.com/embed/3okmf1BpBbE",
+      "https://www.youtube-nocookie.com/embed/fFawMvbT9V8",
+      "https://www.youtube-nocookie.com/embed/nzNWfPTQrq8"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Nous les amoureux",
+        "content": "Nous, les amoureux – on voudrait nous séparer\nOn voudrait nous empêcher d'être heureux\nNous, les amoureux – il paraît que c'est l'enfer\nQui nous guette ou bien le fer et le feu\n\nC'est vrai, les imbéciles et les méchants\nNous font du mal, nous jouent des tours\nPourtant rien n'est plus évident que l'amour\nNous, les amoureux, nous ne pouvons rien contre eux\nIls sont mille et l'on est deux, les amoureux\n\nMais l'heure va sonner des nuits moins difficiles\nEt je pourrai t'aimer sans qu'on en parle en ville\nC'est promis, c'est écrit\n\nNous les amoureux – le soleil brille pour nous\nEt l'on dort sur les genoux du Bon Dieu\nNous, les amoureux – Il nous a donné le droit\nAu bonheur et à la joie d'être deux\n\nAlors, les sans-amour, les mal-aimés\nIl faudra bien nous acquitter\nVous qui n'avez jamais été condamnés\nNous, les amoureux, nous allons vivre sans vous\nCar le ciel est avec nous, leѕ аmoureux"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "We the lovers",
+        "content": "We, the lovers – they want to separate us\nThey would like to prevent us from being happy\nWe, the lovers – it seems that it's hell\nThat watches us or else the iron and the fire\n\nIt's true, the idiots and the evil ones\nHarm us, do bad things to us\nHowever nothing is more obvious than love\nWe, the lovers, we can do nothing against them\nThey are a thousand and we are two, the lovers\n\nBut the hour is going to ring on the least difficult nights\nAnd I could love you without them talking about it downtown\nIt's promised, it's written down\n\nWe, the lovers – the sun shines for us\nAnd we sleep on the knees of the Good Lord\nWe, the lovers – He gave us the right\nTo be happy and to be joyful together\n\nThen, the without-loves, the mis-loved\nIt will be necessary that we pay back\nThose who hаve never been condemned\nWe, the lovers, we're going to live without you\nFor the sky is with us, the loverѕ"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": null,
+        "title": "Εμείς οι ερωτευμένοι",
+        "content": "Εμείς, οι ερωτευμένοι-θέλουν να μας χωρίσουν\nΘα ήθελαν να μας αποτρέψουν από το να είμαστε χαρούμενοι\nΕμείς, οι ερωτευμένοι-φαίνεται σαν να είναι κόλαση\nΠου μας παρακολουθεί αλλιώς το σίδερο και τη φωτιά\n\nΕίναι αλήθεια, οι ηλίθιοι και οι κακοί\nΜας βλάπτουν, μας κάνουν άσχημα πράγματα\nΩστόσο τίποτα δεν είναι πιο προφανές από την αγάπη\nΕμείς, οι ερωτευμένοι, δεν μπορούμε να κάνουμε τίποτα εναντίον τους\nΑυτοί είναι χίλιοι και εμείς δύο, οι ερωτευμένοι\n\nΑλλά η ώρα θα χτυπήσει στις λιγότερο δύσκολες νύχτες\nΚαι θα μπορέσω να σε αγαπήσω χωρίς κανείς να συζητήσει για αυτό στην πόλη\nΈχει υποσχεθεί, είναι γραμμένο\n\nΕμείς, οι ερωτευμένοι- ο ήλιος λάμπει για εμάς\nΚαι κοιμόμαστε στα γόνατα του Καλού Κυρίου\nΕμείς, οι ερωτευμένοι- Μας έδωσε το δικαίωμα\nΝα είμαστε ευτυχισμένοι και να είμαστε χαρούμενοι μαζί\n\nΤότε, οι χωρείς αγάπη, οι κακοαγαπημένοι\nΘα είναι απαραίτητο να πληρώσουμε καλά\nΑυτούς που ποτέ δεν καταδικάστηκαν\nΕμείς, οι ερωτευμένοι, πηγαίνουμε να ζήσουμε χωρίς εσάς\nΓιατί ο ουρανός θα είναι μαζί μας, οι ερωτευμένοι"
+      }
+    ],
+    "bpm": 126,
+    "tone": "A minor",
+    "artistPeople": [
+      "Jean-Claude Villeminot"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Jacques Datin"
+    ],
+    "conductor": "Léo Chauliac",
+    "lyricists": [
+      "Maurice Vidalin"
+    ],
+    "writers": null,
+    "broadcaster": "CLT",
+    "commentators": null,
+    "jury": null,
+    "spokesperson": "Unknown"
+  },
+  {
+    "id": 1,
+    "country": "GB",
+    "artist": "The Allisons",
+    "song": "Are You Sure?",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/K1tw0zLcVEQ",
+      "https://www.youtube-nocookie.com/embed/_jgo__9dEyw",
+      "https://www.youtube-nocookie.com/embed/blm96qS8hXo"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Are You Sure?",
+        "content": "Goodbye (goodbye)\nFarewell (farewell)\nI'm not sure what to do\nSo long (so long)\nAu revoir (au revoir)\nIt's hard, but I'll pull through\n\nAre you sure you won't be sorry?\nComes tomorrow, you won't want me\nBack again to hold you tightly?\n\nNow are you sure\nIt's not your foolish heart?\nThat you won't grieve\nIf we're to be apart?\n\nYou will see, as time goes by\nWe'll grow lonely - you and I\nDreaming of each other and we'll cry\n\nGoodbye (goodbye)\nFarewell (farewell)\nI'm not sure what to do\nSo long (so long)\nAu revoir (au revoir)\nIt's hard, but I'll pull through\n\nAre you sure you won't be sorry?\nComes tomorrow, you won't want me\nBack again to hold you tightly?\n\nJust stop and think\nIt's your decision now\nFor you're the one\nWho went and broke the vow\n\nYou'll be sorry, wait and see\nSpend your life in misery\nWishing that you had returned to me\n\nGoodbye (goodbye)\nFarewell (farewell)\nWhat is there to live for?\nBefore you go\nJust think now, are you sure?\n\nAre you sure you won't be sorry?\nComes tomorrow, you won't want me\nBack again to hold you tightly in my аrmѕ?"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "romanian"
+        ],
+        "displayedLanguages": null,
+        "title": "Ești Sigură?",
+        "content": "La revedere (la revedere)\nRămas bun (rămas bun)\nNu sunt sigur ce să fac\nAdio (adio)\nAu revoir (au revoir)\nEste greu, însă voi rezista\n\nEști sigură că nu vei regreta?\nMâine, nu mă vei dori\nÎnapoi ca să te strâng ferm?\n\nAcum ești sigură\nCă nu e doar inima ta naivă?\nCă nu vei jeli\nDacă e să fim despărțiți?\n\nVei vedea, de-a lungul timpului\nVom deveni singuratici - tu și cu mine\nVisându-ne reciproc și vom plânge\n\nLa revedere (la revedere)\nRămas bun (rămas bun)\nNu sunt sigur ce să fac\nAdio (adio)\nAu revoir (au revoir)\nEste greu, însă voi rezista\n\nEști sigură că nu vei regreta?\nMâine, nu mă vei dori\nÎnapoi ca să te strâng ferm?\n\nOprește-te și gândește-te\nE alegerea ta acum\nCăci tu ești cea\nCare a încălcat jurământul\n\nÎți va părea rău, așteaptă și vei vedea\nPetrecându-ți viața în suferință\nDorind să te fi întors la mine\n\nLa revedere (la revedere)\nRămas bun (rămas bun)\nPentru ce să mai trăiești?\nÎnainte să pleci\nGândește-te, ești sigură?\n\nEști sigură că nu vei regreta?\nMâine, nu mă vei dori\nÎnapoi cа să te ѕtrâng ferm?"
+      }
+    ],
+    "bpm": 172,
+    "tone": "Ab major",
+    "artistPeople": [
+      "Bernard Colin Day",
+      "Brian Henry John Alford"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Harry Robinson",
+    "lyricists": null,
+    "writers": [
+      "Bob Allison",
+      "John Allison"
+    ],
+    "broadcaster": "BBC",
+    "commentators": [
+      "Tom Sloan"
+    ],
+    "jury": null,
+    "spokesperson": "Michael Aspel"
+  },
+  {
+    "id": 2,
+    "country": "CH",
+    "artist": "Franca di Rienzo",
+    "song": "Nous aurons demain",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/03-NjbYQz14",
+      "https://www.youtube-nocookie.com/embed/gHf8X0WL3Wg"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Nous aurons demain",
+        "content": "Nous aurons demain\nDes jardins pour cueillir les bouquets de nos rêves\nNous aurons demain\nUn matin pour sourire au soleil qui se lève\nNous pourrons demain\nDans la même maison préparer en silence\nLe berceau de la chance que nous aurons demain\n\nTu te plains d'habiter un logis sans lumière\nTu n'as pas de dimanches et je n'ai pas de toit\nQuand je quitte au matin ma banlieue sans lumière\nDans un autre quartier, toi tu rentres chez toi\n\nNous aurons demain\nMoins de temps à tuer, moins de nuits solitaires\nNous irons demain\nDans les bois nous coucher ou sauter les rivières\nNous aurons demain\nDes amis qui viendront sans frapper sous la lune\nEt jusqu'à la fortune que nous aurons demain\n\nTu me dis que le temps chaque jour nous éloigne\nTu me dis que demain est bien long à venir\nOn n'habite jamais les châteaux en Espagne\nMais faut-il, mon chéri, refuser d'en bâtir?\n\nNous aurons demain\nMoins de temps à tuer, moins de nuits solitaires\nNous irons demain\nDans les bois nous coucher ou sauter les rivières\nNous aurons demain\nDes amis qui viendront sans frapper sous la lune\nEt jusqu'à la fortune que nous aurons demain\n\nQue nous aurons demain\nQue nous auronѕ demаin"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Tomorrow we'll have",
+        "content": "Tomorrow we'll have\nGardens for picking bouquets of dreams\nTomorrow we'll have\nA morning for smiling to the rising sun\nTomorrow we could\nIn the same house, prepare silently\nThe cradle of luck that we'll have tomorrow\n\nYou complain about living in a house without lights\nYou don't have a Sunday and I don't have a ceiling\nWhen I leave in the morning my outskirt without lights\nIn another district, you go back to home\n\nTomorrow we'll have\nLess time for killing, less lonely nights\nTomorrow we'll go\nTo the woods for lying down or jumping the rivers\nTomorrow we'll have\nFriends who will come in, without knocking, under the moon\nAnd onto the luck that we'll have tomorrow\n\nYou tell me that time slows down every day\nYou tell me that tomorrow is too late for coming\nWe'll never live in Spanish castles\nBut, my darling, do we have to refuse to build one?\n\nTomorrow we'll have\nLess time for killing, less lonely nights\nTomorrow we'll go\nTo the woods for lying down or jumping the rivers\nTomorrow we'll have\nFriendѕ who will come without being illuminated by the moon\nAnd onto the luck that we'll have tomorrow\n\nThat we'll have tomorrow\nThat we'll hаve tomorrow"
+      }
+    ],
+    "bpm": 104,
+    "tone": "C major",
+    "artistPeople": [
+      "Franca di Rienzo"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Géo Voumard"
+    ],
+    "conductor": "Fernando Paggi",
+    "lyricists": [
+      "Émile Gardaz"
+    ],
+    "writers": null,
+    "broadcaster": "SSR SRG",
+    "commentators": [
+      "Theodor Haller"
+    ],
+    "jury": null,
+    "spokesperson": "Boris Acquadro"
+  },
+  {
+    "id": 3,
+    "country": "FR",
+    "artist": "Jean-Paul Mauric",
+    "song": "Printemps, avril carillonne",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/Ci-6Sl2jO_4",
+      "https://www.youtube-nocookie.com/embed/bEIOrcvUFTI",
+      "https://www.youtube-nocookie.com/embed/-gd23_lQYyI"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Printemps, avril carillonne",
+        "content": "Bing et bong et bing et bong, écoute dans l'air léger\nQuatre notes sans façon qui vont se promener\nBing et bong et bing et bong courant par monts et vallées\nElles enivrent de chansons la nature étonnée\n\nPrintemps, printemps, avril carillonne\nLa marmotte se réveille au premier soleil\nPrintemps, printemps, les abeilles bourdonnent\nTandis que tous les bourgeons ouvrent leurs maisons\n\nLe hérisson affûte ses piquants pas bien méchants\nLe pinson joue de la flûte en volant gaiement\nPrintemps, printemps, le vent tourbillonne\nEn semant des papillons sur chaque buisson\n\nBing et bong et bing et bong dans l'ombre de la forêt\nL'araignée du bout d'son fil tire les cloches du muguet\nBing et bong et bing et bong, tout en dansant comme un fou\nLe ruisseau qui se faufile joue avec les cailloux\n\nPrintemps, printemps, avril carillonne\nMonsieur Blaireau qui dormait, sort prendre le frais\nPrintemps, printemps, l'allure tatillonne\nL'escargot vient se griser d'une goutte de rosée\n\nEt la fourmi s'inquiète, elle n'a plus de provisions\nMais la cigale s'apprête à faire une chanson\nPrintemps, printemps, sur l'eau qui frissonne\nUne grosse feuille de nénuphar couve des têtards\n\nPrintemps, printemps, avril carillonne\nL'écureuil joue à cache-cache derrière son panache\nPrintemps, printemps, le crapaud rayonne\nSe mirant dans une flaque d'eau, il se trouve très beau\n\nEt la tortue voyage, toute la noce n'attend plus qu'elle\nAu joli mariage de deux tourterelles\nPrintemps, printemps, avril carillonne\nEt moi, lorsque je l'entendѕ, j'ai le cœur content\n\nJ'ai le cœur content\nJ'аi le cœur content"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Springtime, April rings",
+        "content": "Ding and dong and ding and dong, listen in the light air to\nJust four notes going for a walk\nDing and dong and ding and dong running by mounts and valleys\nThey delight the amazed nature with songs\n\nSpringtime, springtime, April rings\nThe marmot wakes up at the first sun\nSpringtime, springtime, the bees buzz\nWhile all the leafbuds open their homes\n\nThe hedgehog sharpens its not-so-nasty quills\nThe finch plays the flute, flying happily\nSpringtime, springtime, the wind swirls\nSowing butterflies on every bush\n\nDing and dong and ding and dong in the shadow of the forest\nThe spider pulls the bells of the lily-of-the-valley with the end of his thread\nDing and dong and ding and dong, all dancing like a fool\nThe winding stream plays with the pebbles\n\nSpringtime, springtime, April rings\nMr Badger who slept, goes out to take some fresh air\nSpringtime, springtime, the touchy look\nThe snail comes to get drunk of a dewdrop\n\nAnd the ant worries, she has run out of provisions\nBut the cicada is getting ready for making a song\nSpringtime, springtime, on the freezing water\nA big leaf of water lily pampers tadpoles\n\nSpringtime, springtime, April rings\nThe squirrel plays hide-and-seek behind his bushy tail\nSpringtime, springtime, the toad is on the go\nLooking at himself in a water pool, he thinks he's very beautiful\n\nAnd the turtle travels, all wedding guests are waiting for her\nAt the beautiful marriage of two turtledoves\nSpringtime, springtime, April rings\nAnd when I hear it, I have a satisfied heart\n\nI have a satisfied heart\nI have a satiѕfied heаrt"
+      }
+    ],
+    "bpm": 94,
+    "tone": "E major",
+    "artistPeople": [
+      "Jean-Paul Mauric"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Francis Baxter"
+    ],
+    "conductor": "Franck Pourcel",
+    "lyricists": [
+      "Guy Favereau"
+    ],
+    "writers": null,
+    "broadcaster": "RTF",
+    "commentators": [
+      "Robert Beauvais"
+    ],
+    "jury": null,
+    "spokesperson": "Armand Lanoux"
+  },
+  {
+    "id": 4,
+    "country": "DK",
+    "artist": "Dario Campeotto",
+    "song": "Angelique",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/OdhVPUcimAM",
+      "https://www.youtube-nocookie.com/embed/EUMfDN5Bc1M",
+      "https://www.youtube-nocookie.com/embed/bGZvmSs3zjE",
+      "https://www.youtube-nocookie.com/embed/-DH8hLpIiOs",
+      "https://www.youtube-nocookie.com/embed/3hDAw01pCvY"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "danish"
+        ],
+        "displayedLanguages": null,
+        "title": "Angelique",
+        "content": "Hvor er du dejlig, Angelique\nHvad er stjernerne imod dit klare blik?\nDin stemme klinger som den sødeste musik\nOg dit væsen er skabt af drøm og romantik\n\nGik jeg med Shakespeares digterhat\nSkrev jeg digte til dig både dag og nat\nOg var jeg hyllet i Carusos kappe, jeg\nJa, så sang jeg og sang for dig\n\nOg jeg malte dig yndig og blu\nKu' jeg male som Rembrandt han ku'\nOg jeg tilbad dig på violin\nKu' jeg spille som Menuhin\n\nMen alle muser gav mig nej\nJeg behersker ikke sang og strengeleg\nGiv mig nu bare lov at drømme lidt om dig, Angelique\nSå jeg føler mig som blot en enkelt lille brik\nI dit livs mosaik\n\nRundt om i verden, der findes der dejlige piger\nNogen har det blide, og nogen har det ildfulde blik\nMen om jeg søgte i alle de dejligste riger\nFandt jeg dog ingen så yndig som du, Angelique\n\nGik jeg med Shakespeares digterhat\nSkrev jeg digte til dig både dag og nat\nOg var jeg hyldet i Carusos kappe\nJa, så sang jeg og sang for dig\n\nOg jeg malte dig yndig og blu\nKu' jeg male som Rembrandt han ku'\nOg jeg tilbad dig på violin\nKu' jeg spille som Menuhin\n\nMen alle muser gav mig nej\nJeg behersker ikke sang og strengeleg\nGiv mig nu bare lov at drømme lidt om dig\nAngelique, så jeg føler mig\nSom blot en enkelt lille brik i dit livs moѕаik\n\nAngelique, du, min dejlige Angelique\nMin Angelique"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Angelique",
+        "content": "You are so wonderful, Angelique\nWhat are the stars compared to your pretty eyes?\nYour voice sounds like the sweetest music\nAnd your soul is made of dream and romance\n\nIf I wore Shakespeare's poetry hat\nI'd be writing poems to you day and night\nAnd if I wore Caruso's cape\nThen I'd sing and sing for you\n\nAnd I'd paint you lovely and bashful\nIf I could paint as Rembrandt could\nAnd I'd worship you on a violin\nIf I could play like Menuhin\n\nBut all the Muses said no\nI don't master singing and string playing\nJust let me dream a little of you, Angelique\nSo I feel as just a single little pawn\nIn the mosaic of you life\n\nAround the world there are wonderful girls\nSome have the soft, and some have the fiery look\nBut if I searched in all of the most wonderful countries\nI'd never find anyone so beautiful as you, Angelique\n\nIf I wore Shakespeare's poetry hat\nI'd be writing poems to you day and night\nAnd if I wore Caruso's cape\nThen I'd sing and sing for you\n\nAnd I'd paint you lovely and bashful\nIf I could paint as Rembrandt could\nAnd I'd worship you on a violin\nIf I could play like Menuhin\n\nBut all the Muses said no\nI don't master singing and string playing\nJust let me dream a little of you, Angelique\nSo I feel as just a single little pawn\nIn the moѕаic of you life\n\nAngelique, you, my wonderful Angelique\nMy Angelique"
+      }
+    ],
+    "bpm": 118,
+    "tone": "A major",
+    "artistPeople": [
+      "Dario Campeotto"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Kai Mortensen",
+    "lyricists": null,
+    "writers": [
+      "Aksel V. Rasmussen"
+    ],
+    "broadcaster": "DR",
+    "commentators": [
+      "Sejr Volmer-Sørensen"
+    ],
+    "jury": null,
+    "spokesperson": "Ole Mortensen"
+  },
+  {
+    "id": 5,
+    "country": "IT",
+    "artist": "Betty Curtis",
+    "song": "Al di là",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/yUt5XlrAAY4",
+      "https://www.youtube-nocookie.com/embed/jAooPFd--HA",
+      "https://www.youtube-nocookie.com/embed/vLWR6rPFvng",
+      "https://www.youtube-nocookie.com/embed/kcFXZBIWDLQ"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "italian"
+        ],
+        "displayedLanguages": null,
+        "title": "Al di là",
+        "content": "Non credevo possibile si potessero dire queste parole:\n\nAl di là del bene più prezioso, ci sei tu\nAl di là del sogno più ambizioso, ci sei tu\nAl di là delle cose più belle\nAl di là delle stelle, ci sei tu\nAl di là, ci sei tu per me, per me, soltanto per me\n\nAl di là del mare più profondo, ci sei tu\nAl di là dei limiti del mondo, ci sei tu\nAl di là della volta infinita\nAl di là della vita, ci sei tu\nAl di là, ci sei tu per me\n\nCi sei tu\n(Ci sei tu)\nAl di là delle cose più belle\nAl di là delle stelle, ci sei tu\nAl di là ci sei tu per me, per me, soltanto per me\n\nAl di là del mare più profondo, ci sei tu\nAl di là dei limiti del mondo, ci sei tu\nAl di là della volta infinita\nAl di là della vitа, ci sei tu\nAl di là ci ѕei tu per me\n\nAl di là"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Beyond",
+        "content": "I didn't believe it was possible that these words could be said:\n\nBeyond the most precious good, there is you\nBeyond the most ambitious dream, there is you\nBeyond the most beautiful things\nBeyond the stars, there is you\nBeyond, there is you for me, for me, only for me\n\nBeyond the deepest sea, there is you\nBeyond the borders of the world, there is you\nBeyond the endless circle\nBeyond the life, there is you\nBeyond, there is you for me\n\nThere is you\n(There is you)\nBeyond the most beautiful things\nBeyond the stars, there is you\nBeyond, there is you for me, for me, only for me\n\nBeyond the deepest oceаn, there is you\nBeyond the borders of the world, there is you\nBeyond the endless circle\nBeyond life, there is you\nBeyond, there iѕ you for me\n\nBeyond"
+      }
+    ],
+    "bpm": 108,
+    "tone": "Ab major",
+    "artistPeople": [
+      "Roberta Corti"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Carlo Donida"
+    ],
+    "conductor": "Gianfranco Intra",
+    "lyricists": [
+      "Mogol"
+    ],
+    "writers": null,
+    "broadcaster": "RAI",
+    "commentators": [
+      "Corrado Mantoni"
+    ],
+    "jury": null,
+    "spokesperson": "Enzo Tortora"
+  },
+  {
+    "id": 6,
+    "country": "NO",
+    "artist": "Nora Brockstedt",
+    "song": "Sommer i Palma",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/5i_BCD46-fo",
+      "https://www.youtube-nocookie.com/embed/9DYLmR6JkWE",
+      "https://www.youtube-nocookie.com/embed/4o7LDNJqYA4"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "norwegian"
+        ],
+        "displayedLanguages": null,
+        "title": "Sommer i Palma",
+        "content": "Jeg ble din venn, og hvisket \"chéri \"\nHele ditt svar var \"sí, sí \"\nDønninger slår mot land, solen i brann\nSommer ved Palmas strand\n\nSi \"mon amour \", bli mon amour\nSer du palmene bever, havfugler svever\nAlt i skjønn harmoni?\n\nSi \"mon amour \", bli mon amour\nHør gitarene spiller vår melodi\nNattens bønn: kom til meg, chéri\n\nKan ei ditt språk, det er som musikk\nMen jeg forstår dine blikk\nLa meg da nok en gang høre dets klang\nLytte til sydens sang\n\nSi \"mon amour \", bli mon amour\nSer du palmene bever, havfugler svever\nAlt i skjønn harmoni?\n\nBli mon amour , si \"mon amour \"\nHør gitarene spiller vår melodi\nNаttenѕ bønn: kom til meg, chéri"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Summer in Palma",
+        "content": "I became your friend and whispered \"darling\"\nYour only answer was \"yes, yes\"\nWaves beat against the shore, the sun is on fire\nSummer at Palma beach\n\nSay \"my love\" , be my love\nCan you see the palms trembling, seabirds hovering\nAll in sweet harmony?\n\nSay \"my love\" , be my love\nHear the guitars play our melody\nThe prayer of night: come to me, darling\n\nI don't understand your language, it's like music\nBut I understand the looks you are sending\nLet me once again hear its tone\nListen to the song of the south\n\nSay \"my love\" , be my love\nCan you see the palms trembling, seabirds hovering\nAll in sweet harmony?\n\nBe my love , say \"my love\"\nHear the guitarѕ play our melody\nThe prayer of night: come to me, dаrling"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "greek"
+        ],
+        "displayedLanguages": null,
+        "title": "Καλοκαίρι στην Πάλμα",
+        "content": "Έγινα φίλη σου και σου ψιθύρισα \"αγαπητέ\"\nΗ μόνη σου απάντηση ήταν \"ναι, ναι\"\nΚύματα χτυπάνε την ακρογιαλιά, ο ήλιος καίγεται\nΚαλοκαίρι στη παραλία της Πάλμα\n\nΠες \"αγάπη μου\", γίνε η αγάπη μου\nΜπορείς να δεις τις παλάμες μου να τρέμουν, τα πουλιά να φτερουγίζουν\nΌλα σε μία γλυκιά αρμονία\n\nΠες \"αγάπη μου\", γίνε η αγάπη μου\nΆκουσε τις κιθάρες που παίζουν τη μελωδία μας\nΗ νυχτερινή προσευχή: Έλα σε μένα, αγαπητέ\n\nΔεν καταλαβαίνω τη γλώσσα σου, είναι σαν μουσική\nΑλλά καταλαβαίνω τις ματιές που μου δίνεις\nΆφησε με να ξανακούσω τον τόνο της\nΆκουσε το τραγούδι του νότου\n\nΠες \"αγάπη μου\", γίνε η αγάπη μου\nΜπορείς να δεις τις παλάμες μου να τρέμουν, τα πουλιά να φτερουγίζουν\nΌλα σε μία γλυκιά αρμονία\n\nΠες \"αγάπη μου\", γίνε η αγάπη μου\nΆκουσε τις κιθάρες που παίζουν τη μελωδία μας\nΗ νυχτερινή προσευχή: Έλα σε μένα, αγαπητέ"
+      }
+    ],
+    "bpm": 163,
+    "tone": "E minor",
+    "artistPeople": [
+      "Nora Brockstedt"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Jan Wølner"
+    ],
+    "conductor": "Øivind Bergh",
+    "lyricists": [
+      "Egil Hagen"
+    ],
+    "writers": null,
+    "broadcaster": "NRK",
+    "commentators": [
+      "Leif Rustad"
+    ],
+    "jury": null,
+    "spokesperson": "Mette Janson"
+  },
+  {
+    "id": 7,
+    "country": "YU",
+    "artist": "Ljiljana Petrović",
+    "song": "Neke davne zvezde",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/0F7t2NFx8Ew",
+      "https://www.youtube-nocookie.com/embed/1wSyMFUAJpg"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "serbian"
+        ],
+        "displayedLanguages": [
+          "српски"
+        ],
+        "title": "Неке давне звезде",
+        "content": "Стари пут од лишћа сав жут\nНоћ на путу том\nСан од звезда тако је жут\nСан у оку мом\n\nО знам ја, о, знам ја\nЈош памтим те дане\nНекад си био уз мене ту\n\nО знам, да си још мој\nПлачу ноћас гране\nУ оку моме и сну\n\nТвој осмех још слутим и твој топли длан\nДок чекам, ћутим и тонем у сан\n\nО знам, да си још мој\nПлачу ноћас гране\nУ оку моме и сну\n\nТвој осмех још слутим и твој топли длан\nДок чекам, ћутим и тонем у сан\n\nО знам, да си још мој\nПлачу ноћас гране\nУ оку моме, у срцу моме\nУ самоћи мојој и сну"
+      },
+      {
+        "type": 0,
+        "languages": [
+          "serbian"
+        ],
+        "displayedLanguages": [
+          "srpski"
+        ],
+        "title": "Neke davne zvezde",
+        "content": "Stari put od lišća sav žut\nNoć na putu tom\nSan od zvezda tako je žut\nSan u oku mom\n\nO znam ja, o, znam ja\nJoš pamtim te dane\nNekad si bio uz mene tu\n\nO znam, da si još moj\nPlaču noćas grane\nU oku mome i snu\n\nTvoj osmeh još slutim i tvoj topli dlan\nDok čekam, ćutim i tonem u san\n\nO znam, da si još moj\nPlaču noćas grane\nU oku mome i snu\n\nTvoj osmeh još slutim i tvoj topli dlan\nDok čekam, ćutim i tonem u san\n\nO znam, da si još moj\nPlaču noćas grane\nU oku mome, u srcu mome\nU sаmoći mojoj i ѕnu"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Some distant stars",
+        "content": "The old road is covered with yellow leaves\nThat road is dark\nThe dreams are covered with yellow stars\nThe dreams in my eye\n\nYes, I know, I know\nI still remember those days\nYou were with me then\n\nYes, I know that you're still mine\nThe branches are crying tonight\nIn my eyes and my dreams\n\nI'm still expecting your smile and your warm hand\nWhile I'm waiting, I'm quiet and going to sleep\n\nYes, I know that you're still mine\nThe branches are crying tonight\nIn my eyes and my dreams\n\nI'm still expecting your smile and your warm hand\nWhile I'm waiting, I'm quiet and going to sleep\n\nYes, I know that you're still mine\nThe branches are crying tonight\nIn my eyes and my heart\nIn my loneliness and my dreаmѕ"
+      }
+    ],
+    "bpm": 164,
+    "tone": "G major",
+    "artistPeople": [
+      "Ljiljana Petrović"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Jože Privšek"
+    ],
+    "conductor": "Jože Privšek",
+    "lyricists": [
+      "Miroslav Antić"
+    ],
+    "writers": null,
+    "broadcaster": "JRT",
+    "commentators": [
+      "Gordana Bonetti",
+      "Ljubomir Vukadinović",
+      "Tomaž Terček"
+    ],
+    "jury": null,
+    "spokesperson": "Saša Novak"
+  },
+  {
+    "id": 8,
+    "country": "ES",
+    "artist": "Conchita Bautista",
+    "song": "Estando contigo",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/FAvnLCTvIwo",
+      "https://www.youtube-nocookie.com/embed/Y9Ott0k-1-Y",
+      "https://www.youtube-nocookie.com/embed/HScyKsze-dE"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "spanish"
+        ],
+        "displayedLanguages": null,
+        "title": "Estando contigo",
+        "content": "Tengo millares de estrellas\nY tengo la luna y el sol\nY la luz de tu mirada\nY la luz de tu mirada dentro de mi corazón\n\nTengo las nubes del cielo\nY tengo las olas del mar\nY si tengo tu cariño\nY si tengo tu cariño, ya no quiero nada más\n\nEstando contigo, contigo, contigo\nDe pronto me siento feliz\nY cuando te miro, te miro, te miro\nMe olvido del mundo y de mí\nQué maravilloso es quererte así\nEstando contigo, contigo, contigo, me siento feliz\n\nCuando amanece nevando\nNo siento la falta del sol\nY los copos de la nieve\nY los copos de la nieve me parecen de color\n\nCuando la tarde termina\nY todo se empieza a nublar\nMi camino se ilumina\nMi camino se ilumina si me vuelves a mirar\n\nEstando contigo, contigo, contigo\nDe pronto me siento feliz\nY cuando te miro, te miro, te miro\nMe olvido del mundo y de mí\nQué maravilloso es quererte así\nEstando contigo, contigo, contigo, me siento feliz\n\n¡Qué maravilloso es quererte así!\nEstando contigo, contigo, contigo\nHablando contigo, contigo, contigo\nSoñаndo contigo, contigo, contigo\nMe ѕiento feliz\n¡Feliz!"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Being with you",
+        "content": "I have a thousand stars\nAnd I have the moon and the sun\nAnd the light of your glance\nAnd the light of your glance within my heart\n\nI have the clouds of the sky\nAnd the waves of the sea\nAnd if I have your loving\nAnd if I have your loving, I don't want anything else\n\nBeing with you, with you, with you\nIt suddenly makes me feel happy\nAnd when I look at you, look at you, look at you\nI forget the world and myself\nIt's wonderful to love you that way\nBeing with you, with you, with you makes me feel happy\n\nWhen it dawns and it's snowing\nI can't feel the lack of sunshine\nAnd the snow flakes\nAnd the snow flakes seem colourful\n\nWhen the evening is over\nAnd everything starts to be grey\nMy path lights up\nMy path lights up if you look at me again\n\nBeing with you, with you, with you\nIt suddenly makes me feel happy\nAnd when I look at you, look at you, look at you\nI forget the world and myself\nIt's wonderful to love you that way\nBeing with you, with you, with you makes me feel happy\n\nIt'ѕ wonderful to love you that way\nBeing with you, with you, with you\nTalking to you, to you, to you\nDreaming of you, of you, of you\nI feel happy\nHаppy!"
+      }
+    ],
+    "bpm": 93,
+    "tone": "G major",
+    "artistPeople": [
+      "María Concepción Bautista Fernández"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Augusto Algueró"
+    ],
+    "conductor": "Rafael Ferrer",
+    "lyricists": [
+      "Antonio Guijarro"
+    ],
+    "writers": null,
+    "broadcaster": "TVE",
+    "commentators": [
+      "Federico Gallo"
+    ],
+    "jury": null,
+    "spokesperson": "Diego Ramírez Pastor"
+  },
+  {
+    "id": 9,
+    "country": "MC",
+    "artist": "Colette Deréal",
+    "song": "Allons, allons les enfants",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/mg1ydx9FCyA",
+      "https://www.youtube-nocookie.com/embed/yX14EeLTJzE"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Allons, allons les enfants",
+        "content": "Allons les enfants, aujourd'hui la vie est belle\nJ'ai le cœur content de vous dire la nouvelle\nCe n'est pas le jour de gloire, de victoire ni le Jour de l'an\nC'est le jour du printemps\n\nAllons les enfants, ouvrez grandes vos oreilles\nEcoutez le chant des ruisseaux qui se réveillent\nEt vous autres – les nuages, soyez sages et allez-vous-en\nC'est le jour du printemps\n\nVivre, nous allons vivre\nLibres comme le vent\nRiches, nous sommes riches\nDe mille promesses, de jeunesse et de beaux temps\n\nAllons les enfants, prisonniers des capitales\nLe ciel, bon enfant, vous offre ses champs d'étoiles\nIl suffit d'en choisir une, la fortune est cachée dedans\nC'est le jour du printemps\n\nAllons les enfants, aujourd'hui la vie est belle\nJ'ai le cœur content de vous dire la nouvelle\nC'est pour moi le jour de gloire, la victoire\nCe jour de printemps, c'est l'amour qui m'attend\n\nAllons mon amour, je ne rêve que de mousse\nAux premiers beaux jours, il paraît qu'elle est si douce\nC'est pourquoi je te propose une chose\nAllons dans les prés, voir si le loup y est\n\nVivre, moi, je veux vivre\nLibre sous le ciel bleu\nRiche, je me sens riche\nD'amour et d'eau fraîche que je pêche dans tes yeux\n\nAllons les enfants, aujourd'hui la vie est belle\nIl faut sur le champ qu'on répande la nouvelle\nUne belle page blanche, toute blanche, s'ouvre maintenant\nC'est le jour du printemps\n\nL'amour, l'amour, l'amour nouѕ аttend"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Let's go, let's go children",
+        "content": "Let's go children, today life is beautiful\nWith a feeling of pride, I tell you the news\nIt isn't the day of glory, of victory or New Year's Day\nIt's the day of spring\n\nLet's go children, open wide your ears\nListen to the song of the awaking streams\nAnd you others – the clouds, be obedient and go on\nIt's the day of spring\n\nLive, we are about to live\nFreely like the wind\nRich, we are rich\nOf a thousand promises, of youth and of good weather\n\nLet's go children, prisoners of the towns\nThe sky, good child, offers you its fields of stars\nIt's sufficient to choose one, there's a fortune hidden in it\nIt's the day of spring\n\nLet's go children, today life is beautiful\nWith a feeling of pride, I tell you the news\nFor me it's the day of glory, of victory\nThis day of spring, it's love that is awaiting me\n\nLet's go my love, I only dream of foam\nThe first beautiful days, it seems so soft\nThat's why I proposed you something\nGo in the fields, see if the wolf is there\n\nLive, I want to live\nFreely under the blue sky\nRich, I feel rich\nOf love and of fresh water that I fished in your eyes\n\nLet's go children, today life is beautiful\nOn the field they just have to spread the news\nA beautiful white page, all white, is opened now\nIt's the day of spring\n\nLove, love, love is wаiting for uѕ"
+      }
+    ],
+    "bpm": 137,
+    "tone": "Bb major",
+    "artistPeople": [
+      "Iscolette Denise de Glarélial"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Hubert Giraud"
+    ],
+    "conductor": "Raymond Lefèvre",
+    "lyricists": [
+      "Pierre Delanoë"
+    ],
+    "writers": null,
+    "broadcaster": "TMC",
+    "commentators": [
+      "Robert Beauvais"
+    ],
+    "jury": null,
+    "spokesperson": null
+  },
+  {
+    "id": 10,
+    "country": "FI",
+    "artist": "Laila Kinnunen",
+    "song": "Valoa ikkunassa",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/xMu44znU-8A",
+      "https://www.youtube-nocookie.com/embed/pJuWlBHtp8g",
+      "https://www.youtube-nocookie.com/embed/aNTEW5V0gkg"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "finnish"
+        ],
+        "displayedLanguages": null,
+        "title": "Valoa ikkunassa",
+        "content": "Yön vaipan alle on jo jäänyt maa\nOn tullut aika valot sammuttaa\nVain varjot vakavina paikallaan nyt käyvät uneksimaan\n\nOn valo jäänyt pieneen ikkunaan\nKen valvoo ajatukset seuranaan?\nHän omaa ystäväänsä kaivaten näin laulaa – toivoen:\n\nValon säteiden tie minut muistoihin vie\nLyhty ikuinen on, muisto kuihtumaton\n\nKautta hiljaisen yön taakse tähtösten vyön\nLaulu hänelle soi, jos kuulla hän voi\n\nNyt syttyy kaunis uusi tähtönen\nJo laulajakin huomaa loiston sen\nNyt armas laittoi valon ikkunaan\nMua kuulee kaivatessaan\n\nJää valo alle aamun koittavan\nPää uneen vaipunut on laulajаn\nHän luokse ystävänsä kiitäen käy ѕiivin unien"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Light in the window",
+        "content": "The gown of the night has covered the land\nTime has come to turn off the lights\nOnly the shadows stay seriously still and begin to dream\n\nA small window is still lit\nWho is awake, accompanied by her thoughts?\nLonging for her friend she is singing and hoping:\n\nA path of rays of light leads me into memories\nThe lantern burns forever, the memory never fades\n\nThrough the silent night all the way behind the stars\nShe sings a song for him, if he can hear it\n\nA beautiful new star has lit up\nThe singer notices its shine as well\nNow the loved one lit his window\nHe hears me while he is longing\n\nThe light is disguised by the rising dawn\nThe singer has fallen asleep\nShe flies to her friend on the wings of dreаmѕ"
+      },
+      {
+        "type": 2,
+        "languages": [
+          "swedish"
+        ],
+        "displayedLanguages": null,
+        "title": "Ett ljus i ett fönster",
+        "content": "Jag vandrar gatan fram och det är natt\nOch det har tystnat kvällens sista skratt\nOch alla sover tryggt i eget bo\nBlott jag får ej någon ro\n\nEtt enda fönster lyser klart ännu\nOch bakom rullgardinen där finns du\nPå nytt så stannar jag här utanför\nOch rösterna jag hör\n\nKommer du aldrig ut?\nVarför fick jag min ring?\nVarför gjorde du slutt?\nJag förstår ingenting\n\nJag ser skuggan av er\nHur hon tar dig i famn\nOch jag hör och jag ser\nHon viskar ditt namn\n\nDet är så tyst och mörkt i stadens hus\nOch man har släckt varenda gatuljus\nOch fast jag redan känner gryningen\nSå vänter jag på min vän\n\nEtt enda fönster lyser klart ännu\nOch bakom rullgardinen där finns du\nOch detta ljus betyder allt för mig\nJag älѕkar barа dig"
+      }
+    ],
+    "bpm": 100,
+    "tone": "G major",
+    "artistPeople": [
+      "Laura Kinnunen"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Eino Hurme"
+    ],
+    "conductor": "George de Godzinsky",
+    "lyricists": [
+      "Sauvo Puhtila"
+    ],
+    "writers": null,
+    "broadcaster": "YLE",
+    "commentators": [
+      "Aarno Walli"
+    ],
+    "jury": null,
+    "spokesperson": "Poppe Berg"
+  },
+  {
+    "id": 11,
+    "country": "NL",
+    "artist": "Greetje Kauffeld",
+    "song": "Wat een dag",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/eBnIF9gQxkg",
+      "https://www.youtube-nocookie.com/embed/0u8A9rgrh_w"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "dutch"
+        ],
+        "displayedLanguages": null,
+        "title": "Wat een dag",
+        "content": "Samen in de klas\nSoms droeg hij m'n tas\nLater 'ns een dag naar zee\nNiks bijzonders, maar als u eens wist\nWat hij sinds vandaag is voor mij\nU hebt geen idee\n\nWat een dag\nWat een dag\nEcht een dag waarop alles gaat\nWaarop alles wat eerst een droom heeft geleken\nIn werk'lijkheid bestaat\n\nWat een dag\nWat een dag\nEcht een dag waarop alles lukt\nIk heb ongestraft zelfs in 't park\nAan de overkant bloemetjes geplukt\n\nZingend loop ik door de straat\nHé, ouwe buur\nKijk niet zo zuur\n'k Doe toch geen kwaad\n'k Ben alleen waanzinnig blij\nTrek je vooral niets aan van mij\n\nWat een dag\nWat een dag\nMensen, mag ik dan alsjeblieft\nDeze dag 'ns verdoen met doldwaze dingen?\nIk ben toch zo verliefd\n\nWat een dag\nWat een dag\nEcht een dag waarop alles gaat\nWaarop alles wat eerst een droom heeft geleken\nIn werk'lijkheid bestaat\n\nWat een dag\nWat een dag\nEcht een dag waarop alles lukt\nIk heb ongestraft zelfs in 't park\nAan de overkant bloemetjes geplukt\n\nZingend loop ik door de straat\nHé, ouwe buur\nKijk niet zo zuur\n'k Doe toch geen kwaad\n'k Ben alleen waanzinnig blij\nTrek je vooral niets aan van mij\n\nWat een dag\nWat een dag\nMensen mag ik dan alsjeblieft\nDeze dag 'ns verdoen met doldwaze dingen?\nIk ben toch zo verliefd\nZo verliefd, heel gewoon\nAls een dwaаѕ verliefd"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "What a day",
+        "content": "Together in the classroom\nSometimes he carried my bag\nLater on, a day to the seaside\nNothing special, but if you just knew\nWhat he means to me after today\nYou have no idea\n\nWhat a day\nWhat a day\nReally a day when everything can be done\nWhen everything which at first seemed a dream\nExists in reality\n\nWhat a day\nWhat a day\nReally a day when everything succeeds\nI have even picked some flowers unpunished\nIn the park across the street\n\nI'm walking in the street, singing\nHey, old neighbour\nDon't look so sour\nI do no harm\nI'm only madly happy\nJust don't bother about me\n\nWhat a day\nWhat a day\nPeople, can I please\nWaste this day and do crazy stuff?\nI'm so in love\n\nWhat a day\nWhat a day\nReally a day when everything can be done\nWhen everything which at first seemed a dream\nExists in reality\n\nWhat a day\nWhat a day\nReally a day when everything succeeds\nI have even picked some flowers unpunished\nIn the park across the street\n\nI'm walking in the street, singing\nHey, old neighbour\nDon't look so sour\nI do no harm\nI'm only madly happy\nJust don't bother about me\n\nWhat a day\nWhat a day\nPeople, can I please\nWaste this day and do crazy stuff?\nI'm so in love\nSo in love, quite ѕimply\nLike а fool in love"
+      }
+    ],
+    "bpm": 89,
+    "tone": "G major",
+    "artistPeople": [
+      "Greetje Kauffeld"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Dick Schallies"
+    ],
+    "conductor": "Dolf van der Linden",
+    "lyricists": [
+      "Pieter Goemans"
+    ],
+    "writers": null,
+    "broadcaster": "NTS",
+    "commentators": [
+      "Piet te Nuyl Jr."
+    ],
+    "jury": null,
+    "spokesperson": "Siebe van der Zee"
+  },
+  {
+    "id": 12,
+    "country": "DE",
+    "artist": "Lale Andersen",
+    "song": "Einmal sehen wir uns wieder",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/FGAfCD0mzVc",
+      "https://www.youtube-nocookie.com/embed/z7vL7pMBzmw"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "german",
+          "french"
+        ],
+        "displayedLanguages": null,
+        "title": "Einmal sehen wir uns wieder",
+        "content": "Überall auf der Welt fällt der Abschied schwer\nUnd das Herz tut manchmal weh\nManches Wort, das man sagt\nGlaubt man selbst nicht mehr\nLebe wohl, adieu\n\nNoch ein Lächeln – ein Kuss\nNoch ein winken – ein Gruss\nUnd ein Schiff fährt hinaus\nUnd mit ihm das Glück\nDoch die Hoffnung bleibt zurück\n\nEinmal sehen wir uns wieder\nUnd vielleicht schon übers Jahr\nEinmal sehen wir uns wieder\nDann wird alles so wie es war\n\nDarum glaub an unsere Liebe\nMag auch noch so viel geschehn\nIrgendwo, irgendwann, denke immer daran\nWerden wir uns wiedersehen\n\nUnd der Sonntag war grau, und der Himmel schwer\nUnd der Regen schlug aufs Dach\nUnd die Strasse entlang bis hinab zum Meer\nSah ich dir vom Fenster nach\n\nSoviel Liebe – vorbei\nSoviel Träume – vorbei\nIch weiss nicht wo du bist\nDoch dein letztes Wort klingt in meinem Herzen fort\n\nLoin, plus loin qu'au bout du monde\nMon amour est près de toi\nEt mon cœur qui vagabonde\nNe battra jamais que pour toi\n\nDarum glaub an unsere Liebe\nMag auch noch so viel geschehn\nDenke immer daran: irgendwo, irgendwann\nWerden wir uns wiedersehen\n\nDenke immer daran: irgendwo, irgendwаnn\nWerden wir uns wiederѕehen"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "We'll see each other once again",
+        "content": "Everywhere in the world the departure is difficult\nAnd sometimes the heart hurts\nAll words that you say\nYou don't believe them yourself anymore\nHave a nice life, goodbye\n\nAnother smile – a kiss\nAnother wave – a greeting\nAnd a ship goes out\nAnd with it goes luck\nYet hope remains\n\nWe'll see each other once again\nAnd maybe already next year\nWe'll see each other once again\nThen everything will be as it used to be\n\nSo believe in our love\nNo matter what may happen\nSomewhere, some day, always remember\nWe'll see each other again\n\nAnd the Sunday was grey, and the sky was heavy\nAnd the rain hammered on the roof\nAnd as you walked along the street down to the sea\nI was watching you from my window\n\nSo much love – gone\nSo many dreams – gone\nI don't know where you are\nBut your last words still ring in my heart\n\nFar, further than the end of the world \nMy love is close to you \nAnd my straying heart \nWill never beat for anyone but you \n\nSo believe in our love\nNo matter what may happen\nAlways remember: somewhere, some day\nWe'll see each other again\n\nAlways remember: somewhere, some day\nWe'll ѕee each other agаin"
+      }
+    ],
+    "bpm": 126,
+    "tone": "G major",
+    "artistPeople": [
+      "Liese-Lotte Helene Berta Bunnenberg"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Rudolf Maluck"
+    ],
+    "conductor": "Franck Pourcel",
+    "lyricists": [
+      "Ernst Bader"
+    ],
+    "writers": null,
+    "broadcaster": "ARD",
+    "commentators": [
+      "Wolf Mittler"
+    ],
+    "jury": null,
+    "spokesperson": "Heinz Schenk"
+  },
+  {
+    "id": 13,
+    "country": "SE",
+    "artist": "Lill-Babs",
+    "song": "April, april",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/JzldSvZG6cc",
+      "https://www.youtube-nocookie.com/embed/LpmpPqRvblo",
+      "https://www.youtube-nocookie.com/embed/xq78UMaseS0"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "swedish"
+        ],
+        "displayedLanguages": null,
+        "title": "April, april",
+        "content": "Alla pigga, glada fåglar sjunger kvitt, kvitt, kvitt\nAlla västan vindar leker glatt tafatt\nAlla sippor målar ängarna i vitt, vitt, vitt\nAlla flickor provar ut sin nya hatt\nAlla pojkar gläds att yllestrumpan\nAv stumpen byts mot ljus nylon\n\nApril, det gör ingenting att vinter varit svår\nApril, när du nu till sist slår ut ditt blonda hår\n\nEn vår är här igen och jag är kär igen\nEn vår, det är nog så\nAtt det är den jag väntat på\n\nApril, infekterar mig med kärlekens bacill\nApril, dumma sillar kan du lura vart du vill\n\nDu du du du du du du du...\nDu du du du du du du du...\n\nEn vår är här igen och jag är kär igen\nEn vår, det är nog så\nAtt det är den jag väntat på\n\nApril, det gör ingenting att vinter varit svår\nApril, när du nu till sist slår ut ditt blonda hår\n\nApril, infekterar mig med kärlekens bacill\nApril, dumma ѕillar kan du lura vart du vill\n\nTra la la la la la la lа... mmm..."
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "April, april",
+        "content": "All the lively, happy birds are singing chirp, chirp, chirp\nAll the west winds happily play catch\nAll the anemones paint the meadows in white, white, white\nAll the girls are trying out their new hats\nAll the boys are happy that the woolen socks\nAre changed to light nylon by the girls\n\nApril, it doesn't matter if the winter's been hard\nApril, when you can let your blonde hair down now\n\nSpring is here again and I'm in love again\nSpring, that's how it is\nThat's what I've been waiting for\n\nApril, infects me with the love bug\nApril, I can make you an April's Fool\n\nDu du du du du du du du...\nDu du du du du du du du...\n\nSpring is here again and I'm in love again\nSpring, that's how it is\nThat's what I've been waiting for\n\nApril, it doesn't matter if the winter's been hard\nApril, when you can let your blonde hair down now\n\nApril, infects me with the love bug\nApril, I can make you an April'ѕ Fool\n\nTra la la la la la la lа... mmm..."
+      }
+    ],
+    "bpm": 133,
+    "tone": "Bb major",
+    "artistPeople": [
+      "Barbro Margareta Svensson"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Bobbie Ericsson"
+    ],
+    "conductor": "Thore Ehrling",
+    "lyricists": [
+      "Bo Eneby"
+    ],
+    "writers": null,
+    "broadcaster": "SR",
+    "commentators": [
+      "Jan Gabrielsson"
+    ],
+    "jury": null,
+    "spokesperson": "Roland Eiworth"
+  },
+  {
+    "id": 14,
+    "country": "AT",
+    "artist": "Jimmy Makulis",
+    "song": "Sehnsucht",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/GYYr9pLQNOQ",
+      "https://www.youtube-nocookie.com/embed/0qos-tYgPhg"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "german"
+        ],
+        "displayedLanguages": null,
+        "title": "Sehnsucht",
+        "content": "Wenn du wieder kehrst zu mir zurück\nWenn du wieder kehrst zu mir, mein Glück\nWerden alle Märchen Wahrheit sein\nUnd ich bin für immer dein\n\nEs werden dir Glocken erklingen\nFür dich und für mich ganz allein\nDas Lied unserer Liebe singen\nUnd die Welt wird voller Seligkeit sein\n\nDarum denke daran\nBin ich auch fern von dir\nDenke daran, ich bin immer bei dir\n\nDenke daran, ich bin immer bei dir\n\nEs werden dir Glocken erklingen\nFür dich und für mich ganz allein\nDas Lied unserer Liebe singen\nUnd die Welt wird voller Seligkeit ѕein\n\nDarum denke daran\nBin ich auch fern von dir\nDenke daran, ich bin immer bei dir\n\nDenke daran, ich bin immer bei dir\n\nDenke darаn, ich bin immer bei dir"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "Longing",
+        "content": "When you come back to me again\nWhen you come back to me again, my luck\nThen all fairy tales become true\nAnd I will always be yours\n\nThe bells will ring for you\nThey just sing for me and for you\nThe song of our love\nAnd the world will be full of longing\n\nSo think of it\nEven I'm far away from you\nThink of it, I will always be with you\n\nThink of it, I will always be with you\n\nThe bells will ring for you\nThey just sing for me and for you\nThe song of our love\nAnd the world will be full of longing\n\nSo think of it\nEven I'm far away from you\nThink of it, I will always be with you\n\nThink of it, I will always be with you\n\nThink of it, I will alwаyѕ be with you"
+      }
+    ],
+    "bpm": 148,
+    "tone": "C major",
+    "artistPeople": [
+      "Jimmy Makulis"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": null,
+    "conductor": "Franck Pourcel",
+    "lyricists": null,
+    "writers": [
+      "Leopold Andrejewitsch"
+    ],
+    "broadcaster": "ORF",
+    "commentators": null,
+    "jury": null,
+    "spokesperson": "Emil Kollpacher"
+  },
+  {
+    "id": 15,
+    "country": "BE",
+    "artist": "Bob Benny",
+    "song": "September, gouden roos",
+    "videoUrls": [
+      "https://www.youtube-nocookie.com/embed/lwEBgI8-KLs",
+      "https://www.youtube-nocookie.com/embed/cC54wHamy0I",
+      "https://www.youtube-nocookie.com/embed/6ZNeiCE9u_o"
+    ],
+    "lyrics": [
+      {
+        "type": 0,
+        "languages": [
+          "dutch"
+        ],
+        "displayedLanguages": null,
+        "title": "September, gouden roos",
+        "content": "Een gouden roos, september\nEen laatste zonnezoen\nEen merel fluit vol heimwee\n't Refrein van een seizoen\n\nNog zal de zomer zingen\nEen diep ontroerend lied\nDat zachtjes zal versterven\nOns blijft alleen verdriet\n\nDe dagen vertragen en schuiven toe\nDe zomer wordt moe, oh, zo moe\n\nNu moeten wij gaan scheiden\nOns hart wordt stil en broos\nWanneer wij weer zien bloeien\nSeptember, gouden roos\n\nZodra in 't bos de eerste blaren vallen\nEn rode wingerd kluistert aan een raam\nAls avondnevels in de dalen hangen\nDan weet ik dat de zomer is gedaan\n\nMaar voor hij gaat, zal hij nog even dralen\nAlsof hij 't afscheid wil betalen met...\n\nEen gouden roos, september\nEen laatste zonnezoen\nEen merel fluit vol heimwee\n't Refrein van een seizoen\n\nNog zal de zomer zingen\nEen diep ontroerend lied\nDat zachtjes zal versterven\nOns blijft alleen verdriet\n\nDe dagen vertragen en schuiven toe\nDe zomer wordt moe, oh, zo moe\n\nNu moeten wij gaan scheiden\nOns hart wordt stil en broos\nWаnneer wij weer zien bloeien\nSeptember, gouden roos\n\nSeptember, gouden rooѕ"
+      },
+      {
+        "type": 1,
+        "languages": [
+          "english"
+        ],
+        "displayedLanguages": null,
+        "title": "September, golden rose",
+        "content": "A golden rose, September\nA last kiss of the sun\nA blackbird whistles full of nostalgia\nThe refrain of a season\n\nStill the summer will sing\nA deeply moving song\nThat will softly fade away\nOnly sadness will remain for us\n\nThe days are slowing down and sliding over\nThe summer is getting tired, oh, so tired\n\nNow we have to part\nOur heart is getting quiet and fragile\nWhen we see it blooming again\nSeptember, golden rose\n\nAs soon as the first leaves are falling in the woods\nA red ivy shackles to a window\nWhen evening mists hang in the valleys\nThen I know that summer is over\n\nBut before it leaves, it will linger for a moment\nAs if it wants to pay the farewell with...\n\nA golden rose, September\nA last kiss of the sun\nA blackbird whistles full of nostalgia\nThe refrain of a season\n\nStill the summer will sing\nA deeply moving song\nThat will softly fade away\nOnly sadness will remain for us\n\nThe days are slowing down and sliding over\nThe summer is getting tired, oh, so tired\n\nNow we have to part\nOur heart is getting quiet and fragile\nWhen we see blooming agаin\nSeptember, golden rose\n\nSeptember, golden roѕe"
+      }
+    ],
+    "bpm": 101,
+    "tone": "F major",
+    "artistPeople": [
+      "Emiel Wagemans"
+    ],
+    "backings": null,
+    "dancers": null,
+    "stageDirector": null,
+    "composers": [
+      "Hans Flower"
+    ],
+    "conductor": "Francis Bay",
+    "lyricists": [
+      "Wim Brabants"
+    ],
+    "writers": null,
+    "broadcaster": "BRT",
+    "commentators": [
+      "Nic Bal",
+      "Robert Beauvais"
+    ],
+    "jury": null,
+    "spokesperson": "Ward Bogaert"
+  }
+]

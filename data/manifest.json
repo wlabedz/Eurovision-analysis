@@ -1,0 +1,16 @@
+{
+  "source": "https://eurovisionapi.runasp.net/api/senior",
+  "competition": "senior",
+  "first_year": 1956,
+  "last_year": 2026,
+  "row_counts": {
+    "contests": 71,
+    "contestants": 1830,
+    "lyrics": 8368,
+    "rounds": 113,
+    "performances": 2188,
+    "scores": 3172,
+    "votes": 83526,
+    "countries": 55
+  }
+}
