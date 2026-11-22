@@ -1,7 +1,7 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import ContestsView from './views/ContestsView.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <ContestsView />
 </template>
