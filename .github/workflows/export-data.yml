@@ -1,0 +1,31 @@
+name: Export Eurovision data
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: export-eurovision-data
+  cancel-in-progress: false
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch data
+        run: python scripts/fetch_eurovision.py --output "$RUNNER_TEMP/eurovision-data"
+
+      - name: Publish to data-exports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          bash scripts/publish_data_exports.sh "$RUNNER_TEMP/eurovision-data" data-exports data
