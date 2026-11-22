@@ -24,12 +24,15 @@ import org.springframework.web.server.ResponseStatusException;
 import pl.uj.eurovision.models.ContestDetails;
 import pl.uj.eurovision.models.ContestantDetails;
 import pl.uj.eurovision.models.CountryOption;
+import pl.uj.eurovision.models.CountrySummary;
 import pl.uj.eurovision.models.PerformanceDetails;
 import pl.uj.eurovision.models.RoundDetails;
 import pl.uj.eurovision.models.ScoreDetails;
+import pl.uj.eurovision.models.SummaryStats;
 import pl.uj.eurovision.models.VoteGraph;
 import pl.uj.eurovision.models.VoteGraphEdge;
 import pl.uj.eurovision.models.VoteGraphNode;
+import pl.uj.eurovision.models.VoterSummary;
 
 @Service
 public class VoteGraphService {
@@ -53,13 +56,106 @@ public class VoteGraphService {
                 .toList();
     }
 
-    public VoteGraph getGraph(int from, int to, String countries, String round, String type) {
+    public CountrySummary getCountrySummary(String country, int from, int to, String type) {
+        validateFilters(from, to, type);
+
+        String code = country.trim().toUpperCase();
+        Map<String, String> names = contestService.getCountryNames();
+        if (!names.containsKey(code)) {
+            throw badRequest("Unknown country code");
+        }
+
+        StageTotals received = new StageTotals();
+        Map<String, StageTotals> byVoter = new HashMap<>();
+
+        for (ContestDetails contest : loadContests(from, to)) {
+            Map<Integer, String> contestantCountries = contest.contestants().stream()
+                    .collect(Collectors.toMap(ContestantDetails::id, ContestantDetails::country));
+
+            for (RoundDetails round : contest.rounds()) {
+                boolean isFinal = round.name().equals("final");
+                ScoreDetails score = round.performances().stream()
+                        .filter(p -> code.equals(contestantCountries.get(p.contestantId())))
+                        .flatMap(p -> p.scores().stream())
+                        .filter(s -> s.name().equals(type) && !s.votes().isEmpty())
+                        .findFirst()
+                        .orElse(null);
+                if (score == null) continue;
+
+                received.add(isFinal, score.votes().values().stream().mapToInt(Integer::intValue).sum());
+
+                // A zero counts only when the voter took part in this round.
+                for (String voter : votersInRound(round, type)) {
+                    if (voter.equals(code)) continue;
+                    byVoter.computeIfAbsent(voter, key -> new StageTotals())
+                            .add(isFinal, score.votes().getOrDefault(voter, 0));
+                }
+            }
+        }
+
+        List<VoterSummary> voters = byVoter.entrySet().stream()
+                .map(entry -> new VoterSummary(
+                        entry.getKey(),
+                        names.getOrDefault(entry.getKey(), entry.getKey()),
+                        entry.getValue().overall(),
+                        entry.getValue().finals(),
+                        entry.getValue().semifinals()))
+                .sorted(Comparator.comparing(VoterSummary::name))
+                .toList();
+
+        return new CountrySummary(
+                code, names.get(code), from, to, type,
+                received.overall(), received.finals(), received.semifinals(), voters);
+    }
+
+    private Set<String> votersInRound(RoundDetails round, String type) {
+        return round.performances().stream()
+                .flatMap(performance -> performance.scores().stream())
+                .filter(score -> score.name().equals(type))
+                .flatMap(score -> score.votes().keySet().stream())
+                .collect(Collectors.toSet());
+    }
+
+    private void validateFilters(int from, int to, String type) {
         if (from < FIRST_YEAR || to > LAST_YEAR || from > to) {
             throw badRequest("Year range must be within " + FIRST_YEAR + "-" + LAST_YEAR);
         }
         if (!VOTE_TYPES.contains(type)) {
             throw badRequest("Unknown vote type");
         }
+    }
+
+    private static final class StageTotals {
+        private int finalPerformances;
+        private int finalPoints;
+        private int semifinalPerformances;
+        private int semifinalPoints;
+
+        void add(boolean isFinal, int points) {
+            if (isFinal) {
+                finalPerformances++;
+                finalPoints += points;
+            } else {
+                semifinalPerformances++;
+                semifinalPoints += points;
+            }
+        }
+
+        SummaryStats overall() {
+            return SummaryStats.of(finalPerformances + semifinalPerformances, finalPoints + semifinalPoints);
+        }
+
+        SummaryStats finals() {
+            return SummaryStats.of(finalPerformances, finalPoints);
+        }
+
+        SummaryStats semifinals() {
+            return SummaryStats.of(semifinalPerformances, semifinalPoints);
+        }
+    }
+
+    public VoteGraph getGraph(int from, int to, String countries, String round, String type) {
+        validateFilters(from, to, type);
 
         Predicate<String> roundFilter = roundFilter(round);
         Map<String, String> names = contestService.getCountryNames();

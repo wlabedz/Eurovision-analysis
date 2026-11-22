@@ -504,6 +504,20 @@ onBeforeUnmount(() => clearTimeout(debounceTimer))
             <p class="big">
               Gave <b>{{ selectedNode.given }}</b> · Received <b>{{ selectedNode.received }}</b>
             </p>
+            <RouterLink
+              class="summary-link"
+              :to="{
+                name: 'country-summary',
+                query: {
+                  country: selectedNode.code,
+                  from: String(fromYear),
+                  to: String(toYear),
+                  type: voteType,
+                },
+              }"
+            >
+              Full country summary →
+            </RouterLink>
 
             <h3><i class="key gave"></i>Gave to</h3>
             <p v-if="!nodeGave.length" class="hint">No points in this view.</p>
@@ -910,6 +924,13 @@ select {
 .big b {
   color: #fff;
   font-size: 24px;
+}
+
+.summary-link {
+  justify-self: start;
+  color: #ffb4da;
+  font-size: 14px;
+  text-underline-offset: 3px;
 }
 
 .reverse {

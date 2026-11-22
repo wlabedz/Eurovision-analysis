@@ -3,6 +3,7 @@ package pl.uj.eurovision.controllers;
 import java.util.List;
 import org.springframework.web.bind.annotation.*;
 import pl.uj.eurovision.models.CountryOption;
+import pl.uj.eurovision.models.CountrySummary;
 import pl.uj.eurovision.models.VoteGraph;
 import pl.uj.eurovision.services.VoteGraphService;
 
@@ -19,6 +20,16 @@ public class VoteGraphController {
     @GetMapping("/countries")
     public List<CountryOption> getCountries() {
         return voteGraphService.getCountries();
+    }
+
+    // Example: /api/votes/summary/PL?from=2016&to=2026&type=total
+    @GetMapping("/summary/{country}")
+    public CountrySummary getCountrySummary(
+            @PathVariable String country,
+            @RequestParam int from,
+            @RequestParam int to,
+            @RequestParam(defaultValue = "total") String type) {
+        return voteGraphService.getCountrySummary(country, from, to, type);
     }
 
     // Example: /api/votes/graph?from=2016&to=2026&countries=PL,UA,LT&round=final&type=total

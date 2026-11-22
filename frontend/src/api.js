@@ -10,6 +10,10 @@ export const getContests = () => getJson('/api/contests')
 export const getContest = (year) => getJson(`/api/contests/${year}`)
 export const getContestDetails = (year) => getJson(`/api/contests/${year}/details`)
 export const getVoteCountries = () => getJson('/api/votes/countries')
+export const getCountrySummary = ({ country, from, to, type }) => {
+  const params = new URLSearchParams({ from, to, type })
+  return getJson(`/api/votes/summary/${encodeURIComponent(country)}?${params}`)
+}
 export const getVoteGraph = ({ from, to, countries, round, type }) => {
   const params = new URLSearchParams({
     from,

@@ -1,5 +1,6 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 import ContestDetailsView from './views/ContestDetailsView.vue'
+import CountrySummaryView from './views/CountrySummaryView.vue'
 import ContestsView from './views/ContestsView.vue'
 import HostCountriesView from './views/HostCountriesView.vue'
 import VotingGraphView from './views/VotingGraphView.vue'
@@ -11,6 +12,7 @@ export default createRouter({
     { path: '/', name: 'contests', component: ContestsView },
     { path: '/host-countries', name: 'host-countries', component: HostCountriesView },
     { path: '/voting-graph', name: 'voting-graph', component: VotingGraphView },
+    { path: '/country-summary', name: 'country-summary', component: CountrySummaryView },
     {
       path: '/contests/:year(\\d{4})',
       name: 'contest',

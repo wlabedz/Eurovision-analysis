@@ -290,9 +290,14 @@ onBeforeUnmount(() => {
             </dt>
           </div>
         </dl>
-        <RouterLink class="graph-link" :to="{ name: 'voting-graph' }">
-          Explore the voting graph →
-        </RouterLink>
+        <div class="hero-links">
+          <RouterLink class="graph-link" :to="{ name: 'voting-graph' }">
+            Explore the voting graph →
+          </RouterLink>
+          <RouterLink class="graph-link" :to="{ name: 'country-summary' }">
+            Country summary →
+          </RouterLink>
+        </div>
       </header>
 
       <div v-if="loading" class="state" role="status">
@@ -628,11 +633,18 @@ h1 {
   transition: color 0.2s ease;
 }
 
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 14px;
+}
+
 .graph-link {
   display: inline-flex;
   align-items: center;
   min-height: 42px;
-  margin-top: 14px;
   padding: 0 18px;
   border: 1px solid rgba(255, 255, 255, 0.28);
   border-radius: 999px;
