@@ -1,0 +1,8 @@
+FROM eclipse-temurin:21-jdk AS build
+WORKDIR /app
+COPY . .
+RUN ./mvnw -q -DskipTests package
+
+FROM eclipse-temurin:21-jre
+COPY --from=build /app/target/*.jar /app.jar
+CMD ["java", "-XX:MaxRAMPercentage=75", "-jar", "/app.jar"]
